@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 4</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 4</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="192-r"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e586" type="et-sextus-l2t4"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e586-Hd1e101">Titulus 4</head>
+            <div xml:id="nqqq3t-d1e586-Dd1e103" type="et-sextus-l2t4-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e586-Hd1e106">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e586-d1e108">
+                  <lb ed="#P" n="107" type="fixed=192-r"/>DIcitur litis contestatio. Et diximus 
+      <lb ed="#P" n="108"/>agere tunc / nam verbum agere 
+      <lb ed="#P" n="109"/>denotat tempus post litem conte 
+      <lb ed="#P" n="110"/>statam. Specula. in ti. de cita. §. 
+      di<lb ed="#P" n="111" break="no"/>citur versi. Et nota / et insti. de 
+      ex<lb ed="#P" n="112" break="no"/>ceptio. §. primo in fi. ita refert 
+      do<lb ed="#P" n="113" break="no"/>Bar. de chassaneo con. primo. §. con. 
+      <lb ed="#P" n="114"/>trarium tamen mihi videtur nume. 
+      <lb ed="#P" n="115"/>xl. hinc Paul. de castr. consi. ccciii. 
+      <lb ed="#P" n="116"/>unu. iii. super primo dubio / in prima 
+      <lb ed="#P" n="117"/>parte dicit quod tempus instantic. 
+      <lb ed="#P" n="118"/>incipit currere a die litiscontestationis l. properandum post 
+      <lb ed="#P" n="119"/>princ. C. de iudic. quod verum in ordinariis iudiciis in qui 
+      <lb ed="#P" n="120"/>bus lis contestatur: sed in executiuis / summariis / vel 
+      extra<lb ed="#P" n="121" break="no"/>ordinariis incipit tempus instantie a die mote 
+      controuen<lb ed="#P" n="122" break="no"/>sie secundum Cy. qui ita no. in. d. l. properandum in 
+      princi<lb ed="#P" n="123" break="no"/>per l. penul. de naufrag. lib. xi. C. vide Maria. Sozi. consi. 
+      <lb ed="#P" n="124"/>xcv. capiendo primum et que dico in. c. is cui in verbo 
+      exe<lb ed="#P" n="125" break="no"/>cutionem de senten. excommunica. Probus 
+      <lb ed="#P" n="126"/>
+                  <!-- line coord error-->
+               </p>
+               <p xml:id="nqqq3t-d1e586-d1e156">
+      ¶ Sic. Licet hoc iuramentum a longo tempore non fueri 
+      <lb ed="#P" n="127"/>prestitum: tamen propter hoc non videtur . l. abrogatio per 
+      <!--cod-gh333a-0511.xml-->
+      <pb ed="#P" n="192-v"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>consuetudinem inducta / per ea que tradit Alexan. in 
+      con<lb ed="#P" n="2" break="no"/>silio. xlv. colum. ii. vitsis attestationibus / vol. ii. vide que 
+      dicen<lb ed="#P" n="3" break="no"/>in. c. i. in ver. non sunt species de confes. pro Alex. facit l. 
+      <lb ed="#P" n="4"/>vulgata. C. de heretic. et manich. arriani / que dicit quod 
+      <lb ed="#P" n="5"/>lex semper stat in virili obseruantia: et hoc intellige 
+      quam<lb ed="#P" n="6" break="no"/>do non vsus habet implicitum actum affirmatiuum contra 
+      <lb ed="#P" n="7"/>rium legi: secus si habet / pone instantiam: ius disponit 
+      di<lb ed="#P" n="8" break="no"/>uidi hereditatem inter filios equaliter. l. inter filios. C. 
+      fa<lb ed="#P" n="9" break="no"/>milie ercis l. fi. C. de lib. preteri. Sed tamen fuit diu 
+      obser<lb ed="#P" n="10" break="no"/>uatum quod non diuidatur sed assignetur in totum 
+      primoge<lb ed="#P" n="11" break="no"/>nito: tunc quia iste vsus habet actum affirmatiuum 
+      contra<lb ed="#P" n="12" break="no"/>rium legi per talem non vsum tollitur lex et inducitur 
+      con<lb ed="#P" n="13" break="no"/>suetudo. Probus. 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e586-Dd1e196" type="et-sextus-l2t4-c2"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e586-Hd1e199">Capitulum 2</head>
+               <p xml:id="nqqq3t-d1e586-d1e201">
+                  <lb ed="#P" n="57" type="fixed=192-v"/>ESt prestandum. Excipe in domino / quia 
+      quam<lb ed="#P" n="58" break="no"/>do agitur inter dominum et vassallum / 
+      domi<lb ed="#P" n="59" break="no"/>nus non tenetur iurare de calumnia 
+      si<lb ed="#P" n="60" break="no"/>cut tenetur vassallus. c. primo. §. in quibus 
+      <lb ed="#P" n="61"/>de consuet. recti feudi. Bal. in. c. primo. §. sin. 
+      <lb ed="#P" n="62"/>antem de controuer. inuestitu. ratio videtur. 
+      <!--cod-gh333a-0511.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>quia ipse vassallus semper debet cogitare dominum suum 
+      <lb ed="#P" n="64"/>esse bonum et sanctum / sicut libertus: vt in l. honori. ff. de 
+      ol<lb ed="#P" n="65" break="no"/>seq. a liber. pa. prestan. quia doctores equiparant vassallum. 
+      <lb ed="#P" n="66"/>liberto. notant Neapo. decisio. cclxv. col. v. illustrissime / vbi 
+      <lb ed="#P" n="67"/>subdunt in proposito quod vassallus non potest agere 
+      contra<lb ed="#P" n="68" break="no"/>dominum de dolo / nec etiam excipere de dolo / sicut agit 
+      a<lb ed="#P" n="69" break="no"/>excipit dominus contra vassallum de dolo argui l. apud 
+      ce<lb ed="#P" n="70" break="no"/>sum. §. aduersus parentes. ff. de dolo iuncta. leg. iii. C. de 
+      <lb ed="#P" n="71"/>arbit Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e586-d1e240">
+                  <lb ed="#P" n="72"/>¶ Expedire. Non solum per partem: verum equidem per 
+      <lb ed="#P" n="73"/>procuratorem / licet principalis iurauerit: quia ipse 
+      calum<lb ed="#P" n="74" break="no"/>niare potest sicut dominus / et quando scit dominum suum 
+      <lb ed="#P" n="75"/>delerare seu habere malam causam / ipse delerare non 
+      de<lb ed="#P" n="76" break="no"/>bet imo in quacunque parte litis veniat mala fides: debet 
+      <lb ed="#P" n="77"/>desistere: et vlterius eam non prosequi. Notant domini 
+      de<lb ed="#P" n="78" break="no"/>Rota in no. decis. xxxvii. quidam procurator. Probus.
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e586-Dd1e259" type="et-sextus-l2t4-c3"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e586-Hd1e262">Capitulum 3</head>
+               <p xml:id="nqqq3t-d1e586-d1e264">
+      <!--cod-gh333a-0512.xml-->
+                  <pb ed="#P" n="193-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1" type="fixed=193-r"/>SEquitur aliud. Uidetur facere ad hoc quod 
+      <lb ed="#P" n="2"/>citat Cardi. consilio. xxix. nume. xviii. 
+      pun<lb ed="#P" n="3" break="no"/>ctus questionis quod regulariter quaelibet dispost 
+      <lb ed="#P" n="4"/>tio surgens ab alio: vt a causa / illius 
+      exi<lb ed="#P" n="5" break="no"/>stentiam presupponit. Ita quod sublata causa 
+      <lb ed="#P" n="6"/>vel non ente seu non vera effectus non 
+      indi<lb ed="#P" n="7" break="no"/>citur vel aufertur. C. si contra ius vel vtili. publi l. et si 
+      le<lb ed="#P" n="8" break="no"/>gibus / et hoc quando causa est inducta substantie. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

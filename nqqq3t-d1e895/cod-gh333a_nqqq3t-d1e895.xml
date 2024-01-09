@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 5</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 5</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="295-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e895" type="et-sextus-l3t5"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e895-Hd1e101">Titulus 5</head>
+            <div xml:id="nqqq3t-d1e895-Dd1e103" type="et-sextus-l3t5-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e895-Hd1e106">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e895-d1e108">
+                  <lb ed="#P" n="16" type="fixed=292-r"/>INconueniens. Dic quod vno 
+      <lb ed="#P" n="17"/>hato inconuenienti multa 
+      con<lb ed="#P" n="18" break="no"/>tingere solent / voluit 
+      Philot<lb ed="#P" n="19" break="no"/>phus i. physic. cui si non creditur 
+      <lb ed="#P" n="20"/>illeg. tibi impeatorem in l. 
+      ra<lb ed="#P" n="21" break="no"/>as. C. de rescin. vendi. et iurit 
+      <lb ed="#P" n="22"/>consultum in l. ex diuerso. §. i. 
+      <lb ed="#P" n="23"/>ff. de rei vendica l. i. §. hec aum 
+      <lb ed="#P" n="24"/>verba in glo. super verbo 
+      pu<lb ed="#P" n="25" break="no"/>tamus. ff. quod quisque iur. vbi 
+      <lb ed="#P" n="26"/>dicit glo. quod posito vno falso 
+      <lb ed="#P" n="27"/>sequitur illud absurdum. Ad 
+      <lb ed="#P" n="28"/>idem l. a testatore. ff. de conditio. et demon. facit. c. tua. supra de 
+      con<lb ed="#P" n="29" break="no"/>sang. et affini. et quod habetur in auten. vt iudi. sine quo. 
+      su<lb ed="#P" n="30" break="no"/>fra. in prin. col. ii. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e895-d1e143">
+                  <lb ed="#P" n="31"/>¶ Stabo regule. Doctrina est trita quod habens pro 
+      sei<lb ed="#P" n="32" break="no"/>regulam dicitur intentionem habere fundatam adeo quod 
+      di<lb ed="#P" n="33" break="no"/>cens aliquem casum excipi a regula / tenetur praecise illum 
+      pro<lb ed="#P" n="34" break="no"/>bare / hoc est quod dicebat speculator in titu. de offi. iudi. § 
+      <lb ed="#P" n="35"/>viii. ver. v. quod stare debemus omnino regule / quando casus 
+      <lb ed="#P" n="36"/>non reperitur aliter exceptuatus 
+    </p>
+               <p xml:id="nqqq3t-d1e895-d1e159">
+                  <lb ed="#P" n="37"/>¶ Hinc Io. and. in. c. salubriter de vsur. supra quod numquam a 
+      regu<lb ed="#P" n="38" break="no"/>la textuali debet discedi per aliquam exceptionem / nisi 
+      expres<lb ed="#P" n="39" break="no"/>se ostendatur tex. pro limitatione regule: probatur in. c. ii. supra 
+      <lb ed="#P" n="40"/>de coniug. lepro. et in. c. sane. xv. q. i 
+    </p>
+               <p xml:id="nqqq3t-d1e895-d1e170">
+                  <lb ed="#P" n="41"/>¶ Unde regule tenaciter inherendum est: sicut 
+      Bononi<lb ed="#P" n="42" break="no"/>enses adherent carocio glo. in l. omnis diffinitio. ff. de 
+      re<lb ed="#P" n="43" break="no"/>gul. iur. Bal. in. c. i. §. iudices. de pace iur. fir. Admoneo 
+      <lb ed="#P" n="44"/>inquit vos iudices ne in dubio a textu et a regnla 
+      receda<lb ed="#P" n="45" break="no"/>tis. Idem Bal. in l. i. versiculo. Sed quero quid in 
+      depor<lb ed="#P" n="46" break="no"/>tato. C. de sacrosan. eccle. et in l. si tutor. C. de seruo pis 
+      <lb ed="#P" n="47"/>da. ma. quod tenaciter regulis inherere debemus / nisi 
+      ali<lb ed="#P" n="48" break="no"/>quid specialiter et expresse inueniatur et Saly. in l. si homi. 
+      <lb ed="#P" n="49"/>nem. ff. manda. vbi inuehit contra dimittentes regulas nisi 
+      <lb ed="#P" n="50"/>pro limita tione habeant textum. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e895-d1e195">
+                  <lb ed="#P" n="51"/>¶ Ubi plene. Adde post Doc. hic quo ad punctum Sozi. 
+      <lb ed="#P" n="52"/>num consi. clix. colum. iii. versicu. primo: quia dicta in 
+      pre<lb ed="#P" n="53" break="no"/>senti consultatione. Probus 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

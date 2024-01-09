@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 17</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 17</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="164-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e400" type="et-sextus-l1t17"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e400-Hd1e101">Titulus 17</head>
+            <div xml:id="nqqq3t-d1e400-Dd1e103" type="et-sextus-l1t17-rubric"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e400-Hd1e106">Rubrica</head>
+               <p xml:id="nqqq3t-d1e400-d1e108">
+                  <lb ed="#P" n="125" type="fixed=164-r"/>AD maiorem reuerentia / Hinc dicitur quod in 
+      vxo<lb ed="#P" n="126" break="no"/>tre est annexa reuerentia erga virum. not. domi. 
+      <lb ed="#P" n="127"/>Bertrandi con. xix. nu. xiiii. ponitur in facto 
+      par<lb ed="#P" n="128" break="no"/>ite te rtia. Probus 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e400-Dd1e120" type="et-sextus-l1t17-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e400-Hd1e123">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e400-d1e125">
+                  <lb ed="#P" n="56" type="fixed=164-v"/>IUs episcopale. Ista videtur ratio 
+      <lb ed="#P" n="57"/>quare cardinales ad inferiores et 
+      <lb ed="#P" n="58"/>clesias postulentur: non autem 
+      eliganr<lb ed="#P" n="59" break="no"/>tur: sentit Panor. in capi. fi. nu. vi. supra 
+      <lb ed="#P" n="60"/>de postul. prela. quod verum in 
+      episco<lb ed="#P" n="61" break="no"/>dis cardinalibus / quia diaconi et 
+      pres<lb ed="#P" n="62" break="no"/>byteri cardinales possunt eligi 
+      te<lb ed="#P" n="63" break="no"/>net Antho. in. c. ecclesia el. ii. coi. ii. supra 
+      <lb ed="#P" n="64"/>de elec. et in d. c. fi. licet quidam 
+      modeu<lb ed="#P" n="65" break="no"/>ni: vt Io. de imola / dicant quod debet 
+      po<lb ed="#P" n="66" break="no"/>stulari indistincte et non eligi. Et Io. de Lignsano ait: quod 
+      con<lb ed="#P" n="67" break="no"/>suetudo curie est vt postuletur. Refert Mar. Lauden. in 
+      <lb ed="#P" n="68"/>tracta. de cardi. col. x. Consuetudo enis hec siue stilus in 
+      du<lb ed="#P" n="69" break="no"/>biis obseruari debet / notat Panor. in ca. illud. supra de praescrip. 
+      <lb ed="#P" n="70"/>in princi. dum dicit quod data varietate seu canonum 
+      con<lb ed="#P" n="71" break="no"/>trarietate recurrendum et tenendum est ad id quod 
+      ob<lb ed="#P" n="72" break="no"/>seruat curia. 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e164">
+                  <lb ed="#P" n="73"/>¶ Ulterius dic quod ante Io. mo. dictum hoc excitauit Inno. 
+      <lb ed="#P" n="74"/>in ca. dilectus. de cap. mo. col. ii. ibi. Sed posset dici illud 
+      <lb ed="#P" n="75"/>obtinere in titulis cardinalium qui habent pinguius ius 
+      <lb ed="#P" n="76"/>quam plebani. idem Antho. de Butrio in capi. dilecto. colum. iui 
+      <lb ed="#P" n="77"/>supra de offi. archidia. Domi. in summa. xxi. di. col. pe. et Prepo. 
+      <!--cod-gh333a-0455.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="78"/>ibi colum. viii. Car. in clemen. Ne romani / versiculo irritum. 
+      <lb ed="#P" n="79"/>col. ii. de elec. citat simpliciter dictum monachi cardi. dicit 
+      <lb ed="#P" n="80"/>que concludendo / quod tituli cardinalium comparantur 
+      eccle<lb ed="#P" n="81" break="no"/>siis episcopalibus quia habent iurisditionem quasi 
+      episco<lb ed="#P" n="82" break="no"/>palem quam non habent tituli inferiores citra episcopos 
+      <lb ed="#P" n="83"/>quod ibi sequitur Ioan. de Imola. nu. xxiii. dicens id 
+      ve<lb ed="#P" n="84" break="no"/>rum quo ad iurisditionalia et episcopalia si sunt episcopi. 
+      Al<lb ed="#P" n="85" break="no"/>lias secus quo ad iurisditionalia tantum allegat capi. his 
+      <lb ed="#P" n="86"/>qui. supra hoc titulo et cap. cum olim. et de capel. mona. d. c. dile 
+      <lb ed="#P" n="87"/>ctus. Sequitur domi. Io. de Imola. Bal. d. c. his qui. hine 
+      <lb ed="#P" n="88"/>Domi. hic et vbi supra (quem etiam sequitur prepo. dicit quod 
+      <lb ed="#P" n="89"/>institutio et destitutio in talibus ecclestis / si non sint patro 
+      <lb ed="#P" n="90"/>nante spectant ad cardinales in eis intitulatos: et ita 
+      proce<lb ed="#P" n="91" break="no"/>sent tex. d. c. his qui et. c. dilectus. Ratio ex predictis 
+      re<lb ed="#P" n="92" break="no"/>sultat quia habent in titulis suis quasi ius episcopale quod 
+      <lb ed="#P" n="93"/>alias / non haberent cum de iure communi institutio et 
+      de<lb ed="#P" n="94" break="no"/>stitutio ad episcopos spectet de officio ordi. conquerente. 
+      <lb ed="#P" n="95"/>de hereti. cum ex inuito. xvii. q. vii. cap. primo. Car. in cap. 
+      <lb ed="#P" n="96"/>cum venerabilis in fine. supra de excep. vbi dicit in proposito 
+      <lb ed="#P" n="97"/>quod plebes non fundant intentionem suam in capellis de 
+      iu<lb ed="#P" n="98" break="no"/>re communi / nisi ecclesia matrix esset titulus cardinalis / quod 
+      <lb ed="#P" n="99"/>comprobat con. lxv. thema tale est / plebs sancte marie 
+      con<lb ed="#P" n="100" break="no"/>iii. ibi titulus plebanatus cardinalis fundat intentionem 
+      <lb ed="#P" n="101"/>suam de iure communi: in aliis vero iure expressum non 
+      in<lb ed="#P" n="102" break="no"/>uenitur nisi specialis consuetudo aliud inducat / aut 
+      priui<lb ed="#P" n="103" break="no"/>legium dicit Domi. d. col. penul. fore casum secundm vnum 
+      <lb ed="#P" n="104"/>intellectum glo. pe. in. c. primo infra. ne cler. vel mo. quod 
+      re<lb ed="#P" n="105" break="no"/>fert et sequitur ibi Prepo. col. ix. vbi late examinat 
+      conclu<lb ed="#P" n="106" break="no"/>sionem / quod beneficiorum institutio de iure spectat ad 
+      dio<lb ed="#P" n="107" break="no"/>cesanum / quod non valet infringi per statutum aut volum 
+      <lb ed="#P" n="108"/>tatem testatoris / etiam si in fundatione hoc caueretur. Ude 
+      <lb ed="#P" n="109"/>Panor. et alios in cap. ad audientiam el pri. supra de eccle. 
+      <lb ed="#P" n="110"/>edifi. Et ab hac regula non est recedendum nisi quatinus 
+      <lb ed="#P" n="111"/>in iure reperitur decisum in contrarium / testatur 
+      Bella<lb ed="#P" n="112" break="no"/>mera deci. 718. collationes: dico latius in. c. cum in illis 
+      de<lb ed="#P" n="113" break="no"/>prebend. Et ratio ad dictum Ioan. mo. potest suaderi / et quod 
+      <lb ed="#P" n="114"/>tanta potiantur prerogatiua ipsi cardinales: quia sunt 
+      <lb ed="#P" n="115"/>pars corporis pape cap. Felicis de penis hoc lib. Oldra. 
+      <lb ed="#P" n="116"/>con. xlviii. ius commune allegat l. iurisperitos. ff. de excu. 
+      <lb ed="#P" n="117"/>tutor. et l. quisquis. C. ad leg. Iul. maie. vi. q. i. verum: dixi. 
+      <lb ed="#P" n="118"/>supra in cap. quia de res. in versi. comprobo / et latius dico in 
+      <lb ed="#P" n="119"/>cap. super eo de hereti. et in. c. vno de scisma. 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e273">
+                  <lb ed="#P" n="120"/>¶ Dictum Ioannis monachi comprobat dominus 
+      Bar<lb ed="#P" n="121" break="no"/>tho. in consuetu. Burgundie folio mihi. xxxviii. nu. xix. Nul. 
+      <lb ed="#P" n="122"/>la enim maior dignitas cardinalatu / excepta dignitate 
+      <lb ed="#P" n="123"/>papali. dicitur: quod hodie tenet Romana curia / testantur 
+      <lb ed="#P" n="124"/>Hostien. et Ioan. And. in cap. dilectus el primo. supra de 
+      pre<lb ed="#P" n="125" break="no"/>bend. Hinc dicimus appellari per papam cetum 
+      cardina<lb ed="#P" n="126" break="no"/>lium fratres cap. in Genesi / et cap. ecclesia. supra de elecit 
+      <lb ed="#P" n="127"/>et hoc propter episcopos qui in eo sunt: presbyteri vero 
+      vel<lb ed="#P" n="128" break="no"/>diaconi / cardinales filii pape nominantur cap. dilecto filio 
+      <lb ed="#P" n="129"/>cum similibus supra de supplend. neglig. prelat. Et ratione 
+      <lb ed="#P" n="130"/>horum et aliarum prerogatiuarum poterimus dicere 
+      car<lb ed="#P" n="131" break="no"/>dinales non prestare pape iuramentum obedientie in 
+      su<lb ed="#P" n="132" break="no"/>gnum singularis confidentie quam habet papa de ipsis de 
+      <lb ed="#P" n="133"/>minis cardinalibus testantur Hostien. Ioan. And. et 
+      An<lb ed="#P" n="134" break="no"/>tho. in cap. antiqua. supra de priuileg. Cum his concordant 
+      <lb ed="#P" n="135"/>car. Petrus et Panor. ibi dicentes quod licet papa sit 
+      ca<lb ed="#P" n="136" break="no"/>put generale ecclesie vniuersalis: tamen et speciale caput 
+      <lb ed="#P" n="137"/>cardinalium / et cum eis est vnum corpus / vnde videretur. 
+      <lb ed="#P" n="138"/>exigere obedientiam a seipso / quod non dicas / cum 
+      inten<lb ed="#P" n="139" break="no"/>dantem et accipientem debeat existere differentia et 
+      distin<lb ed="#P" n="140" break="no"/>ctio cap. fina. supra de insti. glo. in cap. fina. in verbo valeat. 
+      <lb ed="#P" n="141"/>supra de offi. archipresbyteri et in cap. debitum. supra de 
+      bap<lb ed="#P" n="142" break="no"/>hac etiam ratione papa tenetur cardinalibus indigentibus 
+      <lb ed="#P" n="143"/>subuenire et prouidere secundum dignitatem et qualitatem. 
+      <lb ed="#P" n="144"/>illorum cum eos debeat diligere vt seipsum / et eis in suis 
+      <lb ed="#P" n="145"/>necessitatibus arbitrio boni viri prouidere secundum 
+      Ho<lb ed="#P" n="146" break="no"/>stien. vbi supra. 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e334">
+                  <lb ed="#P" n="147"/>¶ Et quod dicimus de prestatione iuramenti obedientie 
+      <lb ed="#P" n="148"/>non intelligas procedere in episcopis cardinalibus 
+      quin<lb ed="#P" n="149" break="no"/>prestent iuramentum instar aliorum prelatorum 
+      episcopo<lb ed="#P" n="150" break="no"/>rum / non tamen vt cardinales / secundum prefatos 
+      do<lb ed="#P" n="151" break="no"/>ctores. Hac etiam potissima de causa cardinales in 
+      absen<lb ed="#P" n="152" break="no"/>tia sua percipiunt fructus beneficiorum suorum de 
+      iure<lb ed="#P" n="153" break="no"/>c. dilectus. supra de cle. non residen. Firmat Oldra. d. con. 43 
+      <lb ed="#P" n="154"/>ius enim commune habet eos pro residentibus cum 
+      ser<lb ed="#P" n="155" break="no"/>uiant ecclesie Romane que mater est omnium ecclesiarum 
+      <lb ed="#P" n="156"/>et que solicitudinem earum gerit cap. bone el primo. 
+      supra<lb ed="#P" n="157" break="no"/>de po. prela. et in prophe. huius compilationis: latississime per 
+      <lb ed="#P" n="158"/>Calca. in com. 7. col. pe. nam sunt magis familrares pape quam alii et 
+      <!--cod-gh333a-0456.xml-->
+      <pb ed="#P" n="165-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>principaliores aliis stantes in seruitio eccleste: sustinendo 
+      <lb ed="#P" n="2"/>pondus diei et estus in vinea domini. capitu. fundamenta. supra 
+      <lb ed="#P" n="3"/>de elec. hoc lib. Dico (vt predixi) latius in. c. super eo. de 
+      ho<lb ed="#P" n="4" break="no"/>reti. et in ca. primo de scisma infra Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e379">
+                  <lb ed="#P" n="5"/>¶ Quam rerum. Idem Ioan. Mona. in capit. si religiosus. supra 
+      <lb ed="#P" n="6"/>de elec. do. Bar. de chasseneo consi. xx. nume. xvii. glo. in 
+      ca<lb ed="#P" n="7" break="no"/>pitu. licet in verbo licentiam. supra de regula 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e388">
+                  <lb ed="#P" n="8"/>¶ Et per hec habes quod ad translationem legitimam 
+      ne<lb ed="#P" n="9" break="no"/>cessaria est potestas specialis / nec potest comprehendi 
+      sub<lb ed="#P" n="10" break="no"/>verbis generalibus etiam specialibus ad conferendum / et 
+      <lb ed="#P" n="11"/>ilia faciendum que incumbunt vicario generali et 
+      speciali<lb ed="#P" n="12" break="no"/>vt idem de Chasseneo testatur ibidem. Ratio quia hec 
+      tra<lb ed="#P" n="13" break="no"/>latio videtur quedam donatio / quam non potest facere 
+      ha<lb ed="#P" n="14" break="no"/>bens administrationem generalem etiam cum libera. 
+      Ia<lb ed="#P" n="15" break="no"/>son in l. iusiurandum / quod ex conuentione. §. si 
+      procura<lb ed="#P" n="16" break="no"/>tor / in. ii. col. ff de iureiu. Et sic dicitur alienatio que etiam / 
+      <lb ed="#P" n="17"/>non potest fieri per habentem mandatum generale cum la 
+      <lb ed="#P" n="18"/>bera: vt hic per Ioan. Mona 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e414">
+                  <lb ed="#P" n="19"/>¶ Item generalis dispositio refertur tantum ad ea de 
+      <lb ed="#P" n="20"/>quibus est dictum ante / et ad specificata tantum l. si de 
+      cen<lb ed="#P" n="21" break="no"/>ta re et ibi scriben. C. de transactio. tex. et ibi Barto. in l. 
+      le<lb ed="#P" n="22" break="no"/>gatorum. § primo. de lega. secundo. Igitur procedat 
+      trans<lb ed="#P" n="23" break="no"/>latio ab eo cuius imperio se subiecit. Ioan. Andr. in capi. 
+      <lb ed="#P" n="24"/>si religiosus. de elec. hoc libro. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e400-d1e430">
+                  <lb ed="#P" n="25"/>¶ Ambianensi. Io. mo. venit credendum quia erat diocesis. 
+      <lb ed="#P" n="26"/>Ambianensis / oppidi de creci oriundus. Probus 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

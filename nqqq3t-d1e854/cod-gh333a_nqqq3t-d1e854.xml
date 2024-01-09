@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 3</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 3</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="240-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e854" type="et-sextus-l3t3"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e854-Hd1e101">Titulus 3</head>
+            <div xml:id="nqqq3t-d1e854-Dd1e103" type="et-sextus-l3t3-rubric"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e854-Hd1e106">Rubrica</head>
+               <p xml:id="nqqq3t-d1e854-d1e108">
+      <!--cod-gh333a-0612.xml-->
+                  <pb ed="#P" n="241-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1" type="fixed=241-r"/>NOn residendo. Uide que late tradunt Nea 
+      <lb ed="#P" n="2"/>poli. decisio. cclxxxix. Serenissimus 
+      Rer<lb ed="#P" n="3" break="no"/>vbi tractant de cardinalibus non resider 
+      <lb ed="#P" n="4"/>tibus in curia / et de modo citandi 
+      absen<lb ed="#P" n="5" break="no"/>tes / et eos priuandi / ac de excusatione 
+      <lb ed="#P" n="6"/>brum. Probus 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e854-Dd1e131" type="et-sextus-l3t3-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e854-Hd1e134">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e854-d1e136">
+                  <lb ed="#P" n="50" type="fixed=241-v"/>VIctualia. Quod licet hic et in 
+      ca<lb ed="#P" n="51" break="no"/>de cetero. supra eo. ti. distributiones. 
+      <lb ed="#P" n="52"/>videantur appellari victualia: hoc 
+      <lb ed="#P" n="53"/>tamen non procedit de iure: sed 
+      <lb ed="#P" n="54"/>id refertur ad consuetudines 
+      spe<lb ed="#P" n="55" break="no"/>ciales: de iure autem potius 
+      acce<lb ed="#P" n="56" break="no"/>siones ad ius canonicale sunt. ca. 
+      <lb ed="#P" n="57"/>dilectus / el. i. in fi. supra de prebend. 
+      <lb ed="#P" n="58"/>no. Card. con. liii. in fi. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e158">
+                  <lb ed="#P" n="59"/>¶ Continuatione. Uide que 
+      pro<lb ed="#P" n="60" break="no"/>hoc dicimus in. c. vnico. in verbo 
+      <lb ed="#P" n="61"/>assistentes / et in verbo cum perseuerantia de scisma infra et in. c. statutum 
+      <lb ed="#P" n="62"/>ii. infra. de here. Dic etiam debere intelligi rebus sic extantibus 
+      <lb ed="#P" n="63"/>Deci. con. 276. col. fi. praetponitur. Et quia materia textus natri 
+      fre<lb ed="#P" n="64" break="no"/>quens est longas latasque habenas haytere fertur et quotidianas: 
+      <lb ed="#P" n="65"/>eas tamenni. fallor doc. hic illius ad saturitatem non laxarunt. Ideo 
+      <lb ed="#P" n="66"/>pr viribus id facere in praesentiarum conabor intrando itaque 
+      cas<lb ed="#P" n="67" break="no"/>pum tam fertilem a quo sumunt plurimi adipem frumenti / vini / et 
+      <lb ed="#P" n="68"/>olei / lacque et lanam. Primo habeo quod non placet vnum discussum. 
+      <lb ed="#P" n="69"/>per Archi. hic per tex. natum: ibi qui eisdem officiis in ipsis ecclis 
+      <lb ed="#P" n="70"/>affuerint: quasi dicat non aliis / cum hic agatur de beneficiis / quorm 
+      <lb ed="#P" n="71"/>frucius tantum laborantibus tribuuntur et non aliis. c. licet infra de praeben. 
+      <lb ed="#P" n="72"/>et in. c. alma. §. adiicimus infra de sen. exco. ad idem. c. fi de res. hoc 
+      <lb ed="#P" n="73"/>lib. cuius voti fuerunt Paul. et zemzeli. hic (Domi. referente hic. 
+      <lb ed="#P" n="74"/>ponit regulam negatiuam a qua dicit quod certi casus excipium 
+      <lb ed="#P" n="75"/>de quorum numero iste non est: stemus / ergo regle id comproba. 
+      <lb ed="#P" n="76"/>idem domi / hic in. §. qui vero in fi. quod distributiones quotidiane 
+      <lb ed="#P" n="77"/>de quibus hic agitur proprie dominr / quae actu et re ipsa distribuuntur. Q 
+      <lb ed="#P" n="78"/>nomina debent habere conuenientiam cum rebus. §. est autem aliud 
+      versi<lb ed="#P" n="79" break="no"/>Sed nos insti. de dona. ideo in proposito dicit notabiliter 
+      <!--cod-gh333a-0613.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="80"/>Bar. in l. iuri gentium in prin. ff de pact. quod sunt quida 
+      <lb ed="#P" n="81"/>contractus qui denominantur ab actu exequendi / vt sunt 
+      <lb ed="#P" n="82"/>contractus qui re contrahuntur pone depositum / commo 
+      <lb ed="#P" n="83"/>datum / mutuum et similes: et tales non habent nomen nif 
+      <lb ed="#P" n="84"/>a re facta ipsa executione: hinc dicimus pactum de 
+      commo<lb ed="#P" n="85" break="no"/>dando / deponendo vel mutuando non fore mutuum / 
+      com<lb ed="#P" n="86" break="no"/>modatum / nec depositum vt ibi idem Bar. late prosequum 
+      <lb ed="#P" n="87"/>facit tex. in l. si tibi. x. ff de pac. vbi dicitur / quod si tibi dedi 
+      de<lb ed="#P" n="88" break="no"/>cem milia / et paciscar quod. xx. milia debeantur vltra decem 
+      mi<lb ed="#P" n="89" break="no"/>lia obligatio non oritur cum obligatio re contrahi non post 
+      <lb ed="#P" n="90"/>sit nisi quatenus datum est: et si dedero decem / vt vndecim 
+      <lb ed="#P" n="91"/>debeas Proculus putat amplius quam decem condici non post 
+      <lb ed="#P" n="92"/>se / legitur in l. rogasti. § si tibi. ff. si cert. peta 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e239">
+                  <lb ed="#P" n="93"/>¶ Sic in proposito infero quod cum quotidiane distributio 
+      <lb ed="#P" n="94"/>nes nomen ab actu ipso distristributionis et manualis 
+      be<lb ed="#P" n="95" break="no"/>neficii accipiant (vt videre licet in tex. nostro sequitur vbi 
+      <lb ed="#P" n="96"/>non est realis siue manualis distributio / non dici 
+      quotidia<lb ed="#P" n="97" break="no"/>nas distributiones: et sic non deberi. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e252">
+                  <lb ed="#P" n="98"/>¶ Facit quia manualia dicuntur / eo quod quasi ad manum 
+      <lb ed="#P" n="99"/>et diebus singulis cuilibet pro victu tanquam residenti non tau 
+      <lb ed="#P" n="100"/>quam interessenti diuinis diuiduntur Car. in. c. olim. supra de 
+      ver<lb ed="#P" n="101" break="no"/>bo. signifi. in fine vbi in tex. reperies hec verba manualia 
+      <lb ed="#P" n="102"/>beneficia / hoc etiam testatur hic Io. mo. dicitque Ioan. And. 
+      <lb ed="#P" n="103"/>in prin. manualia dicuntur ea que vocamus distributiones. 
+      <lb ed="#P" n="104"/>quodque videntur succedere loco alimentorum vt patet intuenti. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e271">
+                  <lb ed="#P" n="105"/>¶ Ex quo capite habeo quod ad seruitia tenentur et residentiam 
+      <lb ed="#P" n="106"/>pro quo iuuat quod citat Alex. con. clxxxviii. versic. pro hoc 
+      <lb ed="#P" n="107"/>facit / videretur forsan vol. vi. quod ille cui legata sunt alimen 
+      <lb ed="#P" n="108"/>ta in domo testatoris prestanda / debet in domo prestare 
+      ser<lb ed="#P" n="109" break="no"/>uitia secundum qualitatem sue persone Bar. in l. Caio. §. 
+      im<lb ed="#P" n="110" break="no"/>perator. ff. de alimen. et ciba. leg. Bal. in l. prima / col. ii. C. de 
+      <lb ed="#P" n="111"/>lega. vbi dicit quod talis persona saltem quo ad operas 
+      obse<lb ed="#P" n="112" break="no"/>quiales tenetur: alias non debet habere alimenta iuxta 
+      vul<lb ed="#P" n="113" break="no"/>gatum qui non laborat non manducat 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e293">
+                  <lb ed="#P" n="114"/>¶ Comprobo et alio medio / certum est iure communi: 
+      distu<lb ed="#P" n="115" break="no"/>butiones quotidianas introductas fore in fauorem 
+      cul<lb ed="#P" n="116" break="no"/>tus diuini: vt facilius prebendati et alii beneficiati 
+      progre<lb ed="#P" n="117" break="no"/>diantur ad diuina: no. Panor. in. c. licet ii. nota. supra de preben. 
+      <lb ed="#P" n="118"/>probat tex. noster et in. c. de cetero. supra hoc ti. in cle. vna de 
+      re<lb ed="#P" n="119" break="no"/>liq. et vene. san. glo. in. c. fi. supra de magi. solumque 
+      interessen<lb ed="#P" n="120" break="no"/>tibus dari Panor. in. d. c. olim / nu. vi. probat glo. in verbo vt 
+      <lb ed="#P" n="121"/>surpat in pragma. in tit. quo tempore et c. Rota in nouis 
+      de<lb ed="#P" n="122" break="no"/>cis. cxxxiiii. domi. meus lib. ii. interpreta. in. c. si quando / 
+      nu<lb ed="#P" n="123" break="no"/>lxxx. supra de res. Domi. con. cliii. Paul. de castro firmat in 
+      con<lb ed="#P" n="124" break="no"/>silio. clxx. in princi. viso puncto / in prima parte dum dicit quod 
+      <lb ed="#P" n="125"/>quotidiane distributiones dantur pro labore et operis 
+      pre<lb ed="#P" n="126" break="no"/>tio / allegat. ff. pro socio l. cum duobus. §. si in coeunda / 
+      vi<lb ed="#P" n="127" break="no"/>de que latissime tradit Domi. in con. lxxxv. col. iii. 
+      Super<lb ed="#P" n="128" break="no"/>primo dubio: ideo consuetudinem aliter quam premissum est 
+      di<lb ed="#P" n="129" break="no"/>sponentem ecclesie onerosam dicito / et sic seruari non 
+      debe<lb ed="#P" n="130" break="no"/>re. c. i. supra de consue. et. c. cum causa. supra de re iudi. et. c. primo. supra de 
+      <lb ed="#P" n="131"/>his que fiunt a ma. parte capi. Quia sitonerosa patet eo 
+      ipso<lb ed="#P" n="132" break="no"/>quia cultus diuini diminutionem importat / cuius 
+      contem<lb ed="#P" n="133" break="no"/>platione dantur beneficia. c. fi. supra de res. non tamen 
+      simplici<lb ed="#P" n="134" break="no"/>ter sed etiam / vt clericus assumptus in sortem domini 
+      vi<lb ed="#P" n="135" break="no"/>uat de patrimonio Christi / et non mendicet. xciii. dist. 
+      dia<lb ed="#P" n="136" break="no"/>coni. c. li. de prebend. supra testatur glo. in pragma. in. d. tit. qua. 
+      <lb ed="#P" n="137"/>liter hore etc. in verbo teneantur col. ii. quod firmat Barba. 
+      <lb ed="#P" n="138"/>in. c. mandatum / nu. lxxx. de res. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e350">
+                  <lb ed="#P" n="139"/>¶ Item consuetudo ipsa facit contra ecclesiam et cultum 
+      diuini<lb ed="#P" n="140" break="no"/>idemo non valet perea que dixi post Io. mo. supra. in d. c. i. in 
+      verbe<lb ed="#P" n="141" break="no"/>consuetudine / dico in. c. si iudex de senten. excom. infra 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e359">
+                  <lb ed="#P" n="142"/>¶ Item ista consuetudo esset contra substantiam actus queo 
+      <lb ed="#P" n="143"/>non potest facere quod hoc in casu dicatur distributio cum 
+      si<lb ed="#P" n="144" break="no"/>que actu ipso distribuitur / et non alia (proprie sumendo) glost. 
+      <lb ed="#P" n="145"/>habes in extrauagan. suscepti ne sede vacan. in verbo in 
+      <lb ed="#P" n="146"/>totum / post medium. Firmat Antho. Roncinus in quodam 
+      <lb ed="#P" n="147"/>consilio inter con. Decii posito in fine. ii. partis col. v. versi. 
+      <lb ed="#P" n="148"/>postremo non omittam / et Decius consilio. liii. nu. v. in casu 
+      <lb ed="#P" n="149"/>proposito dum dicit: dos enim siue dotatio dicitur ab ipse 
+      <lb ed="#P" n="150"/>actu dotationis / vt dicitur de mutuo deposito et aliis 
+      con<lb ed="#P" n="151" break="no"/>tractibus qui re contrahuntur. Bar. in di. le. iuris gentium. 
+      <lb ed="#P" n="152"/>in prin. ff de pact. idem de distributionibus quotidianis / vt 
+      <lb ed="#P" n="153"/>per Domi. hic. Iuuat id de quo per Neapol. decis. cccxxxviii. 
+      <lb ed="#P" n="154"/>numero. iii. Nobilis quod a quo remouetur naturalis 
+      effe<lb ed="#P" n="155" break="no"/>ctus / remouetur eius species. Et sic non haberet nomen ab 
+      <lb ed="#P" n="156"/>actu executionis vt patet re ipsa: sicut enim non potest 
+      fa<lb ed="#P" n="157" break="no"/>cere consuetudo quod promissio de mutuando dicatur mutuum. 
+      <lb ed="#P" n="158"/>quia rei repugnat / ita in proposito non potest facere quod 
+      de<lb ed="#P" n="159" break="no"/>beatur talibus ipsa distributio. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e401">
+                  <lb ed="#P" n="160"/>¶ Ilem in iure habes pro constanti quod non valet consue¬ 
+      <!--cod-gh333a-0614.xml-->
+      <pb ed="#P" n="242-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tudo contra substantiam actus: ista est doctrina glo. quam 
+      <lb ed="#P" n="2"/>doct. ibi approbant in cap. ii. in verbo officiali / circa finem. supra 
+      <lb ed="#P" n="3"/>de consuet. hoc lib. quam ibi not. reputat Petrus Rauennas 
+      <lb ed="#P" n="4"/>in compendio in prin. facit quod voluit. Ioan. Mona. in cap. 
+      <lb ed="#P" n="5"/>vnico de capel. mo.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e423">
+      ¶ Item vbi substantia remouetur / 
+      <lb ed="#P" n="6"/>actus consistere non potest l. cum precario. ff. de preca. tex. 
+      <lb ed="#P" n="7"/>in l. ii. ff de vsufruc. ea. rerum que vsu consumuntur ibi nec 
+      <lb ed="#P" n="8"/>enim naturalis ratio autoritate senatusconsulti mutari 
+      po<lb ed="#P" n="9" break="no"/>test. Ratio quia tam actus quam verba hoc non patiuntur: nec 
+      <lb ed="#P" n="10"/>potest talis actus in alium tranffundi sen transire / pro 
+      ho<lb ed="#P" n="11" break="no"/>faciunt que no. Decius consi. ccxciii. viso testamento. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e440">
+                  <lb ed="#P" n="12"/>¶ Item in simili: pacta contra naturam actus / non sunt 
+      <lb ed="#P" n="13"/>seruanda / quod comprobat Petrus subert in tractatu de 
+      <lb ed="#P" n="14"/>cultu vinee domini in ii. parte. ca. xi. etiam si iuramento sint 
+      val<lb ed="#P" n="15" break="no"/>lata. Alex. consi. xviii. visis capitulis / voli. ii. dixi in ca. 
+      fina<lb ed="#P" n="16" break="no"/>et cap. quamuis. supra de procura.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e453">
+      ¶ Item habeo que citat 
+      do<lb ed="#P" n="17" break="no"/>mi. Brunellus in tracta. de potesta. lega. conclu. xix. versum 
+      <lb ed="#P" n="18"/>quarta declaratio quod consuetudo potest fingere absentem 
+      <lb ed="#P" n="19"/>vel mortuum pro residente / sed non pro interessente allegat 
+      <lb ed="#P" n="20"/>Io. And. hic et in regula nemo potest.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e464">
+      ¶ Facit dictum 
+      De<lb ed="#P" n="21" break="no"/>cii citatum in con. 288. nu. 6. queritur / quod sicut veritas non 
+      pe<lb ed="#P" n="22" break="no"/>test ese: sic etiam imago fingi non potest allegat l. primam. C. de 
+      <lb ed="#P" n="23"/>latina liber. tollem.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e473">
+      ¶ Ex quibus infertur / quod nulla sit 
+      dabi<lb ed="#P" n="24" break="no"/>lis prouisio (etiam per Papam) vt cessantibus tribus cast 
+      <lb ed="#P" n="25"/>bus in text nostro tactis de distributionibus quotidianis 
+      <lb ed="#P" n="26"/>noninteressentibus diuinis) prouideatur pro quibus 
+      ha<lb ed="#P" n="27" break="no"/>beo in argu. id quod no. Decius consi. cxii. in presenti 
+      consul<lb ed="#P" n="28" break="no"/>tatione quod Papa non potest dispensare contra substantiar 
+      <lb ed="#P" n="29"/>actus. c. cum ad monasterium in fi. de sta. mo. ideo multomagis 
+      <lb ed="#P" n="30"/>non potest per statuta capitularia / et alios quoscumque inferiores 
+      di<lb ed="#P" n="31" break="no"/>spensari / nec aliquomodo prouideri.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e493">
+      ¶ Inquetum autem 
+      Deciui<lb ed="#P" n="32" break="no"/>allegat. d. cap. cum ad monasterium. vide Oldra. consi. clxxxii. 
+      nu<lb ed="#P" n="33" break="no"/>me. v. Quia omnes fere obiectus / dum dicit quod summus 
+      pon<lb ed="#P" n="34" break="no"/>tifex non potest cum monacho dispensare quod habeat proprium / 
+      <lb ed="#P" n="35"/>sed potest de monacho non monachum facere / et statu mutat e 
+      <lb ed="#P" n="36"/>incipit habere proprum / alia ad propositum suffragantia 
+      <lb ed="#P" n="37"/>ibi idem Oldra. prosequitur que videre licet 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e509">
+                  <lb ed="#P" n="38"/>¶ Et sic ex his habes doctrinam Ioan. Mona. in tituban. 
+      <lb ed="#P" n="39"/>ti constitutam / que vt non dicatur alii contrariaria saluari 
+      <lb ed="#P" n="40"/>videtur medio distinctionis. Aut talis se absentauit pro vti 
+      <lb ed="#P" n="41"/>litate eccleune / et propter laborem itineris consuetudo 
+      da<lb ed="#P" n="42" break="no"/>aliquos breues dies: vt aliqualiter quiescat / tunc procedit 
+      <lb ed="#P" n="43"/>doctrina Ioan. Mona. Ita firmant hic Domi. et Franc. 
+      pro<lb ed="#P" n="44" break="no"/>quibus suffragari dicitur / cap. quamuis. supra de offi. ordi. hoc libi 
+      <lb ed="#P" n="45"/>vbi dicitur / quod quando aliquis debet continuato 
+      tempor<lb ed="#P" n="46" break="no"/>gerere actum: dantur ei aliqui dies ad quiescendum. 
+      Ni<lb ed="#P" n="47" break="no"/>hilominus dicitur continuare actum.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e534">
+      ¶ Aut se absentaui 
+      <lb ed="#P" n="48"/>pro propiis negociis / et ex causa voluntaria: tunc 
+      proce<lb ed="#P" n="49" break="no"/>dat dictum Archi. Ita firmat glo. percipiunt in titu. qua 
+      <lb ed="#P" n="50"/>tempore quisque etc. in pragma.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e543">
+      ¶ Et dic fi absentaueri 
+      <lb ed="#P" n="51"/>pro vtilitate ecclesie / alias non absentaturus secus si 
+      mix<lb ed="#P" n="52" break="no"/>tim / quia tunc non debet percipere nisi quatinus plus ex 
+      <lb ed="#P" n="53"/>pendit popter negocium ecclesie. Ang. in simili consi. ccxlr. 
+      <lb ed="#P" n="54"/>col. v. quia omne datum.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e554">
+      ¶ Et hec sufficiant quo ad 
+      a<lb ed="#P" n="55" break="no"/>quod dicit Ioan. Mona. quod canonicus veniens etc. Nunc 
+      <lb ed="#P" n="56"/>intro aliud in eo quod Archidiaconus visitans etc. et dico quod ii 
+      <lb ed="#P" n="57"/>lud Ioan. Andr. Domi. et Franc. hic placet prout et d. glo. 
+      <lb ed="#P" n="58"/>percipiunt / taxando tamen prout idem Ioan. Mona. taxat 
+      <lb ed="#P" n="59"/>si pro alio non visitet / aut causa alterius commodi (prout 
+      <lb ed="#P" n="60"/>fecit quidam nostre tempestatis canonicus / et promoto: 
+      <lb ed="#P" n="61"/>Reneren. domini Bituricen. Archiepiscopi / qui dum 
+      visi<lb ed="#P" n="62" break="no"/>taret: idem reuerendissimus et cum eo ipse canonicus siste 
+      <lb ed="#P" n="63"/>ret quotidianas distributiones eidem expediri contende 
+      <lb ed="#P" n="64"/>ret a capitulo ipso pro omni distributione ridiculosum 
+      su<lb ed="#P" n="65" break="no"/>scepit responsum Domitii in l. Domitius. ff. de testa. 
+      descr<lb ed="#P" n="66" break="no"/>ptum: ibi aut non intelligo quid sit de quo me consulis / 
+      aut<lb ed="#P" n="67" break="no"/>valde stulta est consultatio tua quod merito datum est quia 
+      <lb ed="#P" n="68"/>in verbis elatus erat (testor) prout de Domitio dicit 
+      pro<lb ed="#P" n="69" break="no"/>tector noster diuus hieronymus in tertia parte 
+      epistola<lb ed="#P" n="70" break="no"/>rum epistola. vii. col. iiii. vbi de eo refert dictum vulgatum 
+      <lb ed="#P" n="71"/>Cur vis vt te habeam vt principem / cum me non habeas vt 
+      <lb ed="#P" n="72"/>senatorem tex. est in. c. esto subiectus. xcv. dist. Barba. in. d. quid 
+      <lb ed="#P" n="73"/>mandatum. nume. xlix. supra de res. Roma. consi. fin. nume. xv. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e598">
+                  <lb ed="#P" n="74"/>¶ Et hec quo ad punctum hunc sufficiant / vt ad alia 
+      quo<lb ed="#P" n="75" break="no"/>tidiana descendam insequendo doc. iur econ. in l. legaui in prim. ff. 
+      <lb ed="#P" n="76"/>de libe. lega. meminit Io. Mo. in. c. Romana. §. Contrahentes 
+      <lb ed="#P" n="77"/>in prin. supra de foro compe. et sic non insequar doctrinam Io. 
+      Fa<lb ed="#P" n="78" break="no"/>bri in l. vna. C. de suffragio. Ibi quod scribo / cum sit contra 
+      <lb ed="#P" n="79"/>aduocatos / ad id tamen descendo licet sit contra canonicos. 
+      <lb ed="#P" n="80"/>Primo presuppono duo fore genera distributionum: si 
+      cre<lb ed="#P" n="81" break="no"/>diderimus Archidia. hic col. ii. Primum dicitur quando di¬ 
+      <!--cod-gh333a-0614.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>stributiones ipse ilis qui etiam non intersunt diulnis 
+      dam<lb ed="#P" n="83" break="no"/>tur: dummodo sint presentes: de talibus intellligas. d. c. 
+      o<lb ed="#P" n="84" break="no"/>lim de verbo. signifi. Secundum quando dantur tantum his 
+      <lb ed="#P" n="85"/>qui diuinis intersunt / et iste sunt vere distributiones de qua 
+      <lb ed="#P" n="86"/>bus tex. noster loquitur et. c. licet. supra de preben. Et hec iure 
+      <lb ed="#P" n="87"/>communi / etiam non interessentibus diuinis corporaliter 
+      <lb ed="#P" n="88"/>in tribus casibus expediuntur: quos per tex. nostrum 
+      ha<lb ed="#P" n="89" break="no"/>bes signatos. Primus quando infirmitas adest / Secundus 
+      <lb ed="#P" n="90"/>quando extat iusta et rationabilis corporis necessitas. 
+      Ter<lb ed="#P" n="91" break="no"/>tius quando est euidens ecclesie vtilitas: Infirmitas idese 
+      <lb ed="#P" n="92"/>excusat a residentia cum excuset a diuinorum 
+      celebrationi<lb ed="#P" n="93" break="no"/>c. significatum: supra de preben. tum quia non potest glo. in 
+      ca<lb ed="#P" n="94" break="no"/>illud. vii. q. i. per. c. in literis vii. q. ii. quequidem infirmitas 
+      <lb ed="#P" n="95"/>probari dicitur multis modis quos enumerat Bertachi 
+      <lb ed="#P" n="96"/>in suo reperto. in verbo infirmitas et Panor. in. c. querelam 
+      <lb ed="#P" n="97"/>nu. v. supra de procura. Bar. in l. prima. ff. de ven. inspi. Cardi. 
+      <lb ed="#P" n="98"/>in cle. sicut de appellatio. Hoc tamen in casu crederem 
+      <lb ed="#P" n="99"/>standum assertioni / aut iuramento infirmi habita 
+      confidera<lb ed="#P" n="100" break="no"/>tione ad qualitatem persone iuncto corporis aspectu cum 
+      <lb ed="#P" n="101"/>omni spiritui non sit credendum aut faltem iudicio medicim 
+      <lb ed="#P" n="102"/>per ea que tradit Domi. in consilio. clii. pro intellectu: quod 
+      si<lb ed="#P" n="103" break="no"/>volueris postea contrarium probare id poteris / per actum 
+      <lb ed="#P" n="104"/>incompatibilem / vt pote per coitum / notant docto. in. C. 
+      te<lb ed="#P" n="105" break="no"/>nor. supra de re iudi. ideo non venit dicendum si reperiatur 
+      mu<lb ed="#P" n="106" break="no"/>lier cum canonico asserto infirmo / quod ei debeantur distribus 
+      <lb ed="#P" n="107"/>tiones: quia presumitur potens in opere / infirmitati 
+      contra<lb ed="#P" n="108" break="no"/>rio / intellige de muliere nuda cum nudo de quo late per Al 
+      <lb ed="#P" n="109"/>xand. consilio. xiii. in fi. vol. vii. attentis his: quia tunc non 
+      <lb ed="#P" n="110"/>presumitur dicere pater noster Bal. in l. neque natales col. 
+      <lb ed="#P" n="111"/>ii. C. de probatio. secus si non cum nuda: quia tunc eam 
+      pro<lb ed="#P" n="112" break="no"/>sumeretur benedicere glo. in. c. abfit. xi. q. iii. Panor. tamen 
+      <lb ed="#P" n="113"/>in. c. non liceat. supra eo. dicit inspicere debere coniecturas 
+      ex<lb ed="#P" n="114" break="no"/>quibus inducatur actus licitus vel illicitus / et sic per 
+      con<lb ed="#P" n="115" break="no"/>sequens bonum vel malum / vt pote vbi talis mulier esse 
+      <lb ed="#P" n="116"/>vetula / ad minus sexagenaria vel deformis et turpissimaa 
+      <lb ed="#P" n="117"/>aut talis in qua fedus naturale nihil seui criminis 
+      suspica<lb ed="#P" n="118" break="no"/>ri permittat. c. primo. et. ii. supra de cohabi. cle. et mulie. alias 
+      se<lb ed="#P" n="119" break="no"/>cus sic intellige Bal¬ 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e705">
+                  <lb ed="#P" n="120"/>¶ Quod infirmo debeant expediri distributiones ratio 
+      sua<lb ed="#P" n="121" break="no"/>det in euidenti: quia infirmus intelligitur et fingitur et 
+      <lb ed="#P" n="122"/>clefie deseruire: probat Domi. consil. primo / col. iii. in 
+      prin<lb ed="#P" n="123" break="no"/>cipio: et Bon ifacius in cle. cupientes / nu. xlvi. de perlis 
+      Io<lb ed="#P" n="124" break="no"/>an. mo. in. c. fin infra. de verbo. fignifi. vbi dico: ergo si fingatur 
+      <lb ed="#P" n="125"/>deseruire ecclesie: debet consequi omnes fructus quos 
+      cun<lb ed="#P" n="126" break="no"/>sequeretur si continuo in ecclesia refideret argu. no. in. §. in 
+      <lb ed="#P" n="127"/>terdum insti. de hered. que ab. intesta. Maria. Sozinus in 
+      <lb ed="#P" n="128"/>simili consi. cxi. col. ii. vbi subdit quod fictio super aliquo 
+      prin<lb ed="#P" n="129" break="no"/>cipali / trahitur ad id quod venit in consequentiam fictionis. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e729">
+                  <lb ed="#P" n="130"/>¶ Dictum premissum probatur per id quod dicitur de 
+      fa<lb ed="#P" n="131" break="no"/>mulo egroto cui debetur salarium tempore infirmitatis non 
+      <lb ed="#P" n="132"/>deci. Tholosa. cclxviii. vbi late aufrerius / quod 
+      intellige<lb ed="#P" n="133" break="no"/>prout notat Alexand. confilio. cix. super eo de quo querit 
+      <lb ed="#P" n="134"/>vol. vi. ratio rationis quia quis non debet sine sua 
+      cul<lb ed="#P" n="135" break="no"/>pa suo priuari stipendio. l. dist. c. satis peruersum. Ergo si sue 
+      <lb ed="#P" n="136"/>culpa secus / vt plurimi in hac tempestate asseruntur / quie 
+      <lb ed="#P" n="137"/>cum mulieribus actiones suas communicantes morbum 
+      <lb ed="#P" n="138"/>Neapolitanum agitando suscipiunt / quem postea cum 
+      gre<lb ed="#P" n="139" break="no"/>ni mestu corporis et anime in propatibulo perpetuo 
+      osten<lb ed="#P" n="140" break="no"/>tant / vt videre licet experientia rerum magistra et hos 
+      ride<lb ed="#P" n="141" break="no"/>culose / vulgus appellat colonas ecclesie. Sic habes 
+      inten<lb ed="#P" n="142" break="no"/>tum pro regula quod ratione infirmitatis recedimus a 
+      regu<lb ed="#P" n="143" break="no"/>lis iuris communis dico in. c. fidei de here. Moderare 
+      ta<lb ed="#P" n="144" break="no"/>men non procedere quando infirmitas non esset causa 
+      <lb ed="#P" n="145"/>cause id est absentie et non interessentie: quia tunc non habebii. 
+      <lb ed="#P" n="146"/>distributiones ipsas / testantur Ioan. And. et Domi. hic 
+      Pa<lb ed="#P" n="147" break="no"/>no. in. c. plerunque. supra de res. Io. And. Card. Patrus de 
+      A<lb ed="#P" n="148" break="no"/>cha. Panor. et alii in. c. ad audientiam. supra eo. pro quo tex. in l. 
+      <lb ed="#P" n="149"/>iii. §. si quis hered. ibi nisi dederit. ff. de statu. liber. doct. in quid 
+      <lb ed="#P" n="150"/>primo. supra de cler. egro. Feli. in. c. apostolice col. v. versi. 
+      suf<lb ed="#P" n="151" break="no"/>pensus autem. supra de excep. et glo. in. d. verbo percipiunt / 
+      fa<lb ed="#P" n="152" break="no"/>cit regula quam no. Petr. de ancha. con. ccccxxviii. col. fi. 
+      si<lb ed="#P" n="153" break="no"/>per casu nuper. Quia sublata causa vnius benefici / intel. 
+      <lb ed="#P" n="154"/>ligitur esse sublarum beneficium illius cause contemplati 
+      <lb ed="#P" n="155"/>ne concessum l. filio. §. mater. ff. de adi. lega. facit quod not. 
+      <lb ed="#P" n="156"/>Alexan. in consilio. clix. nu. v. vol. ii. circa primum / vbi dicitur 
+      <lb ed="#P" n="157"/>quod mulieri non succurritur Sena. vellelano quando ex 
+      fide<lb ed="#P" n="158" break="no"/>iussione non patitur damnum: quia sublata est causa edict 
+      <lb ed="#P" n="159"/>ratio in proposito: quia infirmitas non prestitit causam 
+      an<lb ed="#P" n="160" break="no"/>in l. iiii. §. stichus. ff. de statu libe. facit. l. ii. ff. fi quis cautio. 
+      <lb ed="#P" n="161"/>cum ibi not. Innoc. in capitu. ex transmissa. supra de prescripi. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e802">
+                  <lb ed="#P" n="162"/>¶ Idem dic de fimulo qupresttit seucausuu vegitinfifa 
+      <!--cod-gh333a-0615.xml-->
+      <pb ed="#P" n="242-v"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>mitati / vt salarium pro tempore promissum non debeatur no. 
+      <lb ed="#P" n="2"/>Flor. in l. arboribus. §. de illo. ff. de vsufruct. Et iste casus 
+      <lb ed="#P" n="3"/>habet in se rationem naturalem / ne duplici damno afficiatur 
+      <lb ed="#P" n="4"/>luxta regulam communem afflicto non est danda afflictio 
+      <lb ed="#P" n="5"/>cap. pe. supra de cle. egro. notat Petrus de Ancha. consi. lii. pro. 
+      <lb ed="#P" n="6"/>clariori / pro quo vide que in simili citat Decius consil. 
+      ccl<lb ed="#P" n="7" break="no"/>col. ii. Antiqua et satis nota vbi concludit post communem 
+      <lb ed="#P" n="8"/>quod infans hereditatam patris non aditam / transmittit ad 
+      <lb ed="#P" n="9"/>matrem / et hoc equitate suadente nemater afficiatur 
+      duple<lb ed="#P" n="10" break="no"/>ci tristitia / et duplici damno / scilicet filii amissi / et 
+      heredita<lb ed="#P" n="11" break="no"/>tis eius deperdite.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e837">
+      ¶ Facit in simili text in l. titia. §. qui 
+      <lb ed="#P" n="12"/>in vita ibi neque enim est verissimile / de lega. ii. et l. maius. § 
+      <lb ed="#P" n="13"/>cum autem ibi quia non debet duplici damno. ff. ad legem 
+      <lb ed="#P" n="14"/>Rhodiam / de iac. quod autem infans transmittat / vide late 
+      con<lb ed="#P" n="15" break="no"/>probatum per Decium consi. cccxxxi. nume. vi. quod pro 
+      re<lb ed="#P" n="16" break="no"/>solutione / et Alex. con. cxcviii. perspectis his / vol. vi. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e850">
+                  <lb ed="#P" n="17"/>¶ Secundus casus legitur in tex. nostro / quando adest 
+      iu<lb ed="#P" n="18" break="no"/>sta et rationabilis corporalis necessitas / vt quia secundum 
+      <lb ed="#P" n="19"/>doc. hic potionem / vel medicinam sumpsit vel 
+      sanguinemi<lb ed="#P" n="20" break="no"/>nutus est: hoc enim verbum comprehendit omne iustum 
+      im<lb ed="#P" n="21" break="no"/>pedimentum et sic casum fortuitum. Ideo succedit regula 
+      <lb ed="#P" n="22"/>de qua meminit Decius consi. 472. nume. 2. testator / quod 
+      <lb ed="#P" n="23"/>ea que casualiter absunt abesse non videntur. Barto. post 
+      <lb ed="#P" n="24"/>tex. in l. quesitum. §. fina. de lega. iii. et in l. testamento. ff. de 
+      <lb ed="#P" n="25"/>alimen. et ciba. lega. et cap. ex parte. supra. isto titu¬ 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e872">
+                  <lb ed="#P" n="26"/>¶ Ex quo sequitur quod canonicus iniuste incarceratus. 
+      <lb ed="#P" n="27"/>excommunicatus / aut suspensus / si ante huiusmodi solitus 
+      <lb ed="#P" n="28"/>erat frequentare chorum / et diuinis interesse quotidiane 
+      di<lb ed="#P" n="29" break="no"/>stributiones sunt eidem expediende: tanquam interessenti. Ita. 
+      <lb ed="#P" n="30"/>tenet Feli. in terminis in capi. cum omnes. col. xiiii. nu. xx. 
+      <lb ed="#P" n="31"/>in fi. supra de consti. Idem Feli. in d. capi. apostolice. in d. 
+      ver<lb ed="#P" n="32" break="no"/>sicu. suspensus / et hoc rationibus. supra de infirmo tactis / quod 
+      <lb ed="#P" n="33"/>comproba per ea que hic Ioan. And. et Domi. citant de 
+      exi<lb ed="#P" n="34" break="no"/>titiis ciuitatum qui propter partialitates in ecclesiis 
+      vel<lb ed="#P" n="35" break="no"/>ciuitatibus in quibus ecclesie extant / morari non audent 
+      <lb ed="#P" n="36"/>pro quo tex. in cle. prima de foro compe. qui loquitur de 
+      epi<lb ed="#P" n="37" break="no"/>scopis expulsis a suis diocesibus ad idem capi. ii. supra de 
+      ar<lb ed="#P" n="38" break="no"/>bitr. vbi Panor. nu. iii. quod clericus exulans sine sua culpa / non 
+      <lb ed="#P" n="39"/>debet beneficio priuari suo. Ideo idem dic de fructibus 
+      il<lb ed="#P" n="40" break="no"/>lius: hec late comprobat Cald. cousi. xvii. in tit. de preben. 
+      <lb ed="#P" n="41"/>vbi mouet. An canonicus expulsus debeat habere 
+      reddi<lb ed="#P" n="42" break="no"/>tus prebende sue et quotidianas distributiones / si in eccle. 
+      <lb ed="#P" n="43"/>sia est consuetudo vel constitutio / quod absentibus 
+      subtrahan<lb ed="#P" n="44" break="no"/>tur redditus prebendarum suarum / qui concludit pro 
+      par<lb ed="#P" n="45" break="no"/>te affirmatiua / cum ista sit causa iusta / excusans a 
+      persona<lb ed="#P" n="46" break="no"/>li residentia: quia rationabilis corporalis necessitas: que 
+      <lb ed="#P" n="47"/>excusat / vt in tex. nostro: nec hec consuetudo vel 
+      constitu<lb ed="#P" n="48" break="no"/>tio in casu nostro extenditur / alias foret irrationabilis et 
+      inf<lb ed="#P" n="49" break="no"/>qua: contra not. in. c. erit autem lex. iiii. distin. et. viii. distin. 
+      <lb ed="#P" n="50"/>cap. mala. not. Decius consi. 444. nu. x. concurrit patruus. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e929">
+                  <lb ed="#P" n="51"/>¶ Item includeret impossibilitatem / et sic contra bonos 
+      mo<lb ed="#P" n="52" break="no"/>res: quod deberet se periculo corporali exponere / vel rerum. 
+      <lb ed="#P" n="53"/>suarum que censetur hominis vita testatur glo. iuncto 
+      <lb ed="#P" n="54"/>tex. in l. aduocati. C. de aduoca. diuer. iudi. Panor. in capi. 
+      <lb ed="#P" n="55"/>cum oporteat. supra de accusa.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e942">
+      ¶ Pro premissis facit quod 
+      no<lb ed="#P" n="56" break="no"/>Alex. con. clxxviii. versi. iii. querit / quod exorditur videretur 
+      <lb ed="#P" n="57"/>forian. lib. vi. et Bal. in l. i. de lega. C. Quod si vir 
+      verbe<lb ed="#P" n="58" break="no"/>rat vxorem quod licitum est vxori se absentare / et debet extra 
+      <lb ed="#P" n="59"/>domum mariti alimentari si non sit in culpa / faciunt etiam 
+      <lb ed="#P" n="60"/>ea que not. idem Alex. in consi. xxiii. in fine opportune consi. 
+      <lb ed="#P" n="61"/>deratis / volu. i. Dum ibi dicit quod alienatio que sit propter 
+      deli<lb ed="#P" n="62" break="no"/>ctum non est digna habere illos fanores et priuilegia / que 
+      <lb ed="#P" n="63"/>habet alia alienatio necessaria facta absque delicto / 
+      argu<lb ed="#P" n="64" break="no"/>lsed si ex parte. §. quamquam. ff. quod cum eo. et l. etiam. §. i. ff. solu. 
+      <lb ed="#P" n="65"/>matri.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e967">
+      ¶ Unde videmus quod licet bona subiecta 
+      restitu<lb ed="#P" n="66" break="no"/>tioni possint alienari per heredem / vt se (in captiuitate 
+      <lb ed="#P" n="67"/>detentum) redimat: tamen hoc non posset facere si 
+      essest<lb ed="#P" n="68" break="no"/>carceratus ex delicto suo Ang. et moderni in autem. Res 
+      <lb ed="#P" n="69"/>que. C. ad trebel. in simili dicimus / quod iura loquentia de 
+      con<lb ed="#P" n="70" break="no"/>ptiuis redimendis non habent locum in captiuis ex 
+      male<lb ed="#P" n="71" break="no"/>ficio no. apostilla tor Panor. in. c. que in ecclesiarum in verbo 
+      <lb ed="#P" n="72"/>si culpa. supra de consti. Ad idem quod notat Decius consi. 448 
+      <lb ed="#P" n="73"/>col. fi visis / quod quando quis cadit a possessione sua / sua 
+      cu<lb ed="#P" n="74" break="no"/>pa / non iuuatur remedio iuris: quia non restituitur nec ei 
+      suf<lb ed="#P" n="75" break="no"/>uenitur per cap. reintegranda / de quo per nos. supra. in c. i. de eo quim 
+      <lb ed="#P" n="76"/>mit. in po. Ergo in omnibus et per omnia habetur tamquam residens. 
+      <lb ed="#P" n="77"/>et diuinis interessens quantum ad talium perceptionem. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e996">
+                  <lb ed="#P" n="78"/>¶ Item metus illatus ex hac causa dicitur iustus vt metum 
+      <lb ed="#P" n="79"/>passo subueniatur. capitulo primo et secundo. supra quod metus 
+      <lb ed="#P" n="80"/>causa et l. interpositas. C. de transactioni. cum similibus 
+      <lb ed="#P" n="81"/>sic ex hoc capite habes intentum et hec est ratio quod infirmi¬ 
+      <!--cod-gh333a-0615.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>(licet non intersint) percipiunt quotidianas distributiones: 
+      <lb ed="#P" n="83"/>quia si vellent de facto interesse non possent / nulla enim 
+      <lb ed="#P" n="84"/>potest esse iustior necessitas: quam facti impotentia vel pericu 
+      <lb ed="#P" n="85"/>lum persone et rerum: merito: dicitur hic per Archi. et alios 
+      <lb ed="#P" n="86"/>quod includat omne iustum impedimentum / imputari ei non 
+      de<lb ed="#P" n="87" break="no"/>bet cum per eum non stet. c. quia diuersita tem. supra de 
+      conces<lb ed="#P" n="88" break="no"/>sio. prebend. quod loquitur etiam quando impedimentum 
+      pro<lb ed="#P" n="89" break="no"/>cedit ex culpa impediti quod non admittit hic Petrus col. ii. 
+      <lb ed="#P" n="90"/>per l. ii. §. fi. et l. sequem. ff. si quis cautio. et. l. in his. ff. solu. 
+      ma<lb ed="#P" n="91" break="no"/>tr. Fortius ergo si sine sua culpa. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1033">
+                  <lb ed="#P" n="92"/>¶ Ad comprobationem horum addo quod voluit do. meus 
+      <lb ed="#P" n="93"/>de Ripa. in trac. de peste charta mihi. xxv. versi. sed 
+      queri<lb ed="#P" n="94" break="no"/>tur an absentes ex causa pastis: vbi dicit / pone prebende non 
+      <lb ed="#P" n="95"/>sunt distincte: sed singulis diebus interessenti canonico da 
+      <lb ed="#P" n="96"/>tur tot panes / tot vmi amphore / et certa pecunie quantitas. 
+      <lb ed="#P" n="97"/>vt in ecclesia Auinionem. sed non interessentibus nihil 
+      presta<lb ed="#P" n="98" break="no"/>tur: an absentes causa pestis aliquid percipere debeant: 
+      <lb ed="#P" n="99"/>videtur quod non: quia huiusmodi redditus solum 
+      interessen<lb ed="#P" n="100" break="no"/>tibus diuinis tribuuntur: ideo tanquam de quotidianis distri 
+      <lb ed="#P" n="101"/>butionibus venit diiudicandum. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1057">
+                  <lb ed="#P" n="102"/>¶ In contrarium quod debeant percipere quia tales redditus 
+      <lb ed="#P" n="103"/>sunt loco prebende: alias canonia sine prebenda reperire. 
+      <lb ed="#P" n="104"/>tur / quod dicere non conuenit viro no. in capitulo cum. 
+      M<lb ed="#P" n="105" break="no"/>supra de consti. c. dilectus. supra hoc titulo. Fructus autem 
+      preben<lb ed="#P" n="106" break="no"/>de consequitur absens iusta causa suadente / et alias 
+      imper<lb ed="#P" n="107" break="no"/>ditus residere vt ex deductis videre licebit. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1073">
+                  <lb ed="#P" n="108"/>¶ Dic tamen in proposito quod si non habeat qui dicessit ex 
+      caum<lb ed="#P" n="109" break="no"/>sa pestis vnde viuat: tunc vsque ad alimenta percipere debet. 
+      <lb ed="#P" n="110"/>ta les redditus arg. eorum que non doc. post glo. in. c. licet hoc 
+      <lb ed="#P" n="111"/>tit. et. c. cum olim de verbo. signifi. supra 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1084">
+                  <lb ed="#P" n="112"/>¶ Facit illud vulgatum quod lex non viuere in paupertate 
+      <lb ed="#P" n="113"/>prout nec in anxietate mori pernittit: in auten. de here. 5. 
+      <lb ed="#P" n="114"/>falci. in fi. col. prima. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1094">
+                  <lb ed="#P" n="115"/>¶ Tertius casus est: quando subest euidens vtilitas (
+      dico<lb ed="#P" n="116" break="no"/>ecclesie) que interpretatur magna secundum doc. hic per 
+      <lb ed="#P" n="117"/>no. in. c. ii. supra de verbo. signifi. hoc libro vbi glo. ponit 
+      diffe<lb ed="#P" n="118" break="no"/>rentiam inter ista. Tu dic tamen in proposito sufficere vt 
+      di<lb ed="#P" n="119" break="no"/>ferat ab occulta vtilitate que non sufficit. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1107">
+                  <lb ed="#P" n="120"/>¶ Ex quo inuehitur contra multos nostre tempestatis que 
+      <lb ed="#P" n="121"/>fingunt pro negotiis ecclesie itinera petere vt interim 
+      re<lb ed="#P" n="122" break="no"/>cipiant quotidianas distributiones / asserentes causam 
+      ar<lb ed="#P" n="123" break="no"/>duam et occultam / et non reuelandam: quodque si a terra 
+      festu<lb ed="#P" n="124" break="no"/>cam leuarent / dicerent hoc ad ecclesie vtilitatem fore et sic 
+      <lb ed="#P" n="125"/>milia / sub quorum vmbra distributiones percipiunt / et 
+      ma<lb ed="#P" n="126" break="no"/>le / quia contra mentem iuris et constitutionis capituli 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1125">
+                  <lb ed="#P" n="127"/>¶ De hac vtilitate ponit hic Archi. exemplum / si episco 
+      <lb ed="#P" n="128"/>pus precipiat canonico / vt pro euidenti necessitate vadat 
+      <lb ed="#P" n="129"/>ad curiam Romanam / vel ad alium locum quod 
+      precipere<lb ed="#P" n="130" break="no"/>potest iuribus per eum allegatis: talis canonicus 
+      huius<lb ed="#P" n="131" break="no"/>modi legationis officio durante distributionibus ipsis 
+      fran<lb ed="#P" n="132" break="no"/>dari non debet: cum officium nemini debeat esse 
+      damno<lb ed="#P" n="133" break="no"/>sum. c. cum non deceat de elec. supra hoc lib 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1143">
+                  <lb ed="#P" n="134"/>¶ Uide pro hoc tertio casu Petrum de Ancharano coansi. 
+      <lb ed="#P" n="135"/>xvii. super primo dubio / et ibi videbis aliqua / quo ad 
+      inten<lb ed="#P" n="136" break="no"/>tum principale 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1152">
+                  <lb ed="#P" n="137"/>¶ Attende ad huiusmodi vtilitatem / quia debet intellig 
+      <lb ed="#P" n="138"/>in speciali vtilitate ecclesie de cuius distributionibus qua 
+      <lb ed="#P" n="139"/>ritur / non de quacunque ecclesia in genere sumpta iuxta 
+      il<lb ed="#P" n="140" break="no"/>lud vnam sanctam catholicam ecclesiam Ioan. Mo. (vbi 
+      di<lb ed="#P" n="141" break="no"/>xi) in rubrica. supra de summa trini. quod verificatur per no. in. 
+      <lb ed="#P" n="142"/>c. cum dilectus. supra hoc titu. et. c. licet de preber. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1168">
+                  <lb ed="#P" n="143"/>¶ Istud possumus comprobare per ea que in simili tradit 
+      <lb ed="#P" n="144"/>Alex. con. ccxiii. ponderatis his que in themate / vol. vi. quod 
+      <lb ed="#P" n="145"/>si testator relinquit aliquid ecclesie non specificata 
+      eccla<lb ed="#P" n="146" break="no"/>sia / intelligitur de illa ecclesia que sibi magis coniungitur 
+      <lb ed="#P" n="147"/>vt est illa cuius ipse est parrochianus / quod si esset 
+      parrochia<lb ed="#P" n="148" break="no"/>nus duarum ecclesiarum intelligeretur de illacui magis 
+      afi<lb ed="#P" n="149" break="no"/>ficeretur / puta de illa in qua magis versabatur arg. l. si 
+      ser<lb ed="#P" n="150" break="no"/>uus plurium. §. fi. de lega. primo cum aliis ibi per eum 
+      ad<lb ed="#P" n="151" break="no"/>suctis: facit l. fundo legato. ff de fundo instr. ibi ex maxim. 
+      <lb ed="#P" n="152"/>parte.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1193">
+      ¶ Et in his tribus modis multum attenditur 
+      con<lb ed="#P" n="153" break="no"/>suetudo ecclesie secundum Archid. et alios hic et glos. 
+      am<lb ed="#P" n="154" break="no"/>plam in pragmatica in titulo quo tempore hore: in verbo 
+      a<lb ed="#P" n="155" break="no"/>ctualiter: quia in aliis vniuersaliter reprobatur / et recipiem 
+      <lb ed="#P" n="156"/>tes tenentur ad restitutionem cum recipiant: contra 
+      men<lb ed="#P" n="157" break="no"/>tem huius constitutionis et illius prohibitionem 
+      testatur<lb ed="#P" n="158" break="no"/>Archi. hic in fi pro quo vide glo. primam in tit. qualiter hore 
+      <lb ed="#P" n="159"/>canonice sint dicende in prag. quae contra alio modo recipientes 
+      <lb ed="#P" n="160"/>exclamat tanquam contra fures / concludendo teneri ad 
+      resti<lb ed="#P" n="161" break="no"/>tutionem / cui astipulatur hic Franc. col. iii. in versi. tu dic. 
+      <lb ed="#P" n="162"/>Comproba etiam per ea que voluit Cardi. in clemen. ii. q. 
+      <!--cod-gh333a-0616.xml-->
+      <pb ed="#P" n="243-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>xvii. de eta. et qualita. vbi pariformiter resoluendo dicit non 
+      <lb ed="#P" n="2"/>valere consuetudinem quod distributiones totius diei / 
+      vni<lb ed="#P" n="3" break="no"/>bora diei / puta matutinarum / vel vesperorum quis 
+      lucre<lb ed="#P" n="4" break="no"/>tur / quod firmatum reperio per iura Gallicana / in tit. que 
+      <lb ed="#P" n="5"/>tempore quisque in §. iubet ibi tollens prorsus abusum illum 
+      <lb ed="#P" n="6"/>quo in vna hora duntaxat hora presens totius diei distri 
+      <lb ed="#P" n="7"/>butiones vsurpat in pragma. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1239">
+                  <lb ed="#P" n="8"/>¶ Ex quibus verbis colligitur intentum male 
+      consuetu<lb ed="#P" n="9" break="no"/>dinis / signanter per hoc verbum vsurpat quod in malam 
+      <lb ed="#P" n="10"/>partem sonat l. vsus aque de fundo rei priua. lib. xi. C. ibi 
+      <lb ed="#P" n="11"/>plurimarum dicitur vsurpatione sublatus / pro quo glo. ii 
+      <lb ed="#P" n="12"/>prohemio pragma. in verbo vsurpationes / latius per 
+      Lu<lb ed="#P" n="13" break="no"/>cam de penna / in l. vniuersos / col. ii. de stud. lib. vr. Ro. libi 
+      <lb ed="#P" n="14"/>xi. C. hec firmat Nico. milus in suo repertorio in verbo 
+      con<lb ed="#P" n="15" break="no"/>suetudo non valet. Reperitur tamen equiuocum vt in 
+      ma<lb ed="#P" n="16" break="no"/>lam aliquando sumatur partem / aliquando bonam: dico 
+      in<lb ed="#P" n="17" break="no"/>cap. i. infra. de penis.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1263">
+      ¶ Et sic confunditur opinio glo. in 
+      ver<lb ed="#P" n="18" break="no"/>bo certis horis / in cle. vt hi / de eta. et qualita. que dicit hanc 
+      <lb ed="#P" n="19"/>consuetudinem valere / quod ibi Card. et alii communiter 
+      re<lb ed="#P" n="20" break="no"/>probant nisi dicas secundum Guillen ibi quod hec verba 
+      ce<lb ed="#P" n="21" break="no"/>tis horis nihil diminuunt de septem horis canonicis / sed 
+      <lb ed="#P" n="22"/>eas ab aliis horis disceruit / vt in cap. nunquam de conse. dist. 
+      <lb ed="#P" n="23"/>v. et de celebra. mis. capi. primo. instar illius quod dicimus. 
+      <lb ed="#P" n="24"/>pars dimidia. Idem fuisset de dimidia si non foret dictum 
+      <lb ed="#P" n="25"/>nisi de parte / cum sub nomine partis dimidia 
+      continea<lb ed="#P" n="26" break="no"/>tur ff. de verbo. significa l. nepos proculo / hanc etiam glo. 
+      <lb ed="#P" n="27"/>reprobat idem Guiller. in cie. prima / col. ix. versic. septimo 
+      <lb ed="#P" n="28"/>in quo loco / de celeb. mis. dicens illud irrationabile 
+      iudicam<lb ed="#P" n="29" break="no"/>dum. Ideo si ratione careat extirpari necesse est. lxviii. dist. 
+      <lb ed="#P" n="30"/>c. Cor episcopi. cum officium totius dici vnum et idem sit / et post 
+      comple<lb ed="#P" n="31" break="no"/>torium finitur: sicut vna est et eadem ecclesia mundi. ca. frequens. § 
+      <lb ed="#P" n="32"/>pe. de exces. priuileg. lapus alleg. xliii. cum praedictis concordat. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1298">
+                  <lb ed="#P" n="33"/>¶ Et per hec videtur firmatu / si statutum dictat qui in vni 
+      <lb ed="#P" n="34"/>diunis interest hora habeat totius diei distributiones: non 
+      <lb ed="#P" n="35"/>valet: firmat etiam Henric. Bohic in capi. quia nonnuili. supra 
+      <lb ed="#P" n="36"/>hoc titu. cum hoc medio grauentur ecclesie / cultusque 
+      mi<lb ed="#P" n="37" break="no"/>nuatur diuinus.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1311">
+      ¶ Item denarius diurnus non 
+      debe<lb ed="#P" n="38" break="no"/>tur nisi integre tota die operanti. d. cap. quia nonnulli. 
+      ca<lb ed="#P" n="39" break="no"/>pi. super specula. supra de mas 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1318">
+                  <lb ed="#P" n="40"/>¶ Item hec prestant materiam vagandi aliis horis / sic 
+      pec<lb ed="#P" n="41" break="no"/>candi. cap. ex parte. supra de consue. pro horum 
+      comprobatio<lb ed="#P" n="42" break="no"/>ne glo. in. d. verbo / vsurpat / que adducit vnum / quod 
+      foro<lb ed="#P" n="43" break="no"/>asserit Guil. et zenzel. videlicet si in eadem ciuitate sunt tres 
+      <lb ed="#P" n="44"/>ecclesie collegiate in quarum vna sic ordinaduerunt 
+      cano<lb ed="#P" n="45" break="no"/>nici / qui interfuerit matutinis omnes lucrabitur distribu 
+      <lb ed="#P" n="46"/>tiones / (aliis etiam horis percipiendas) in alia qui in 
+      ver<lb ed="#P" n="47" break="no"/>speris / in reliqua qui in missa / et sic qui omnium foret 
+      eccle<lb ed="#P" n="48" break="no"/>siarum canonicus lucrari posset omnes distributiones / quia 
+      <lb ed="#P" n="49"/>non admittas attentis predictis / et per ea que not. Idem 
+      <lb ed="#P" n="50"/>henric. in capit. de mulia. supra de preben. et Alber. in tracta. 
+      <lb ed="#P" n="51"/>horarum. quest. xxiiii. quia etiam aliis horis non officiat / et 
+      <lb ed="#P" n="52"/>sic cessat labor et onus quorum contemplatione datur: hine 
+      <lb ed="#P" n="53"/>vulgare. Commoda qui sentis / iungas onus emolumentis. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1352">
+                  <lb ed="#P" n="54"/>¶ Cesset igitur emolumentum ar. regule qui sentit onus / 
+      <lb ed="#P" n="55"/>sentire debet et commodum facit l. seio. ff. de annuis lega. in 
+      <lb ed="#P" n="56"/>princi. Quod sublato labore tollitur et premium cle. cum 
+      <lb ed="#P" n="57"/>sit de censib. cum sit nature consonum illos non recusare 
+      <lb ed="#P" n="58"/>onera qui rerum commoda eomplectuntur. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1365">
+                  <lb ed="#P" n="59"/>¶ Facit in proposito quod not. domi. meus in tracta. de 
+      poe<lb ed="#P" n="60" break="no"/>ste in. iii parte / quest. iii. in fine / absentes actui qui 
+      celebra<lb ed="#P" n="61" break="no"/>tur quo ad illum actum pro mortuis habentur / huiusmod 
+      <lb ed="#P" n="62"/>statunti nullitatem firmat Alber. de ferra. in repeti. cap. i. supra 
+      <lb ed="#P" n="63"/>de celeb. missa. versic. xxiiii. vbi citat quod videmus laicos ex 
+      <lb ed="#P" n="64"/>precepto ecclesie (maxime diebus dominicis) debere vso 
+      <lb ed="#P" n="65"/>ad finem misse stare in ecclesia / de con. dist. prima / capitu. 
+      <lb ed="#P" n="66"/>missas cum sequentibus / ergo multofortius de clericis 
+      ve<lb ed="#P" n="67" break="no"/>nit dicendum qui ex debito et precepto ad horas et diuinim 
+      <lb ed="#P" n="68"/>officium tenentur. Alias si per eos contrarium agi dicatur 
+      <lb ed="#P" n="69"/>exclamabit Hostien. in capi. ii. supra de officio Archi. Canom 
+      <lb ed="#P" n="70"/>ci ecclesiarum quantum ad honores / potestates / et dominia. 
+      <lb ed="#P" n="71"/>vsque ad vnguem et vltra obseruant iura sibi concessa / sed 
+      quam<lb ed="#P" n="72" break="no"/>tum ad seruitium / ordines / et labores in ecclesia sumendos 
+      <lb ed="#P" n="73"/>sunt tanquam testudines et cancri: viuunt enim hi vt 
+      domio<lb ed="#P" n="74" break="no"/>ni sed moriuntur vt serui. Bald. in cap. cum M. nu. xx. supra de 
+      <lb ed="#P" n="75"/>consti.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1404">
+      ¶ Per que et alia que in medium de facili possunt 
+      <lb ed="#P" n="76"/>per sanum cerebrum adduci / possumus concludere dam 
+      <lb ed="#P" n="77"/>natam esse consuetudinem licet multis temporibus 
+      efflu<lb ed="#P" n="78" break="no"/>xis in diuersis et pluribus ecclesiis huius regni Gallie 
+      si<lb ed="#P" n="79" break="no"/>gnanter in Bituricen. ciuitate etiam in ecclesia 
+      patriar<lb ed="#P" n="80" break="no"/>chali et metropolitana inoleuerit / quod canonici prebendati in 
+      <lb ed="#P" n="81"/>decursum anni vt pote duobus aut tribus mensibus ad libiti¬ 
+      <!--cod-gh333a-0616.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>eligendis distributiones quotidianas suscipiunt etiam 
+      <lb ed="#P" n="83"/>canonici Assisii qui portare debent pondus diei et estus 
+      <lb ed="#P" n="84"/>quasi asini dicit Card. in. d. c. ad audientiam in fine et hoc 
+      <lb ed="#P" n="85"/>perinde acsi omuibus dlebus et horis diuinis personaliter 
+      <lb ed="#P" n="86"/>interessent / quod vocant accipere pro menseralias vt 
+      ridi<lb ed="#P" n="87" break="no"/>culose quidem aiunt / pour Macae / quod dictatur absurdi. 
+      <lb ed="#P" n="88"/>simum: nec potest pro ipsius consuetudinis aut statuti 
+      fun<lb ed="#P" n="89" break="no"/>damento aliquod iuris minusque rationis adminiculum ra 
+      <lb ed="#P" n="90"/>periri: nec percipio cum per tex. nostri mentem dici debean 
+      <lb ed="#P" n="91"/>fures / quia hec sunt quesita ecclesie / aut ius accrescendi in 
+      <lb ed="#P" n="92"/>sis interessentibus dici debet dictante omni equitate / ac 
+      in<lb ed="#P" n="93" break="no"/>ris communis dispositione / ad quam si attente inuigiletur 
+      <lb ed="#P" n="94"/>non reperientur alii casus a tribus predictis qui includum 
+      <lb ed="#P" n="95"/>tur sub statuto conferente quotidianas distributiones 
+      di<lb ed="#P" n="96" break="no"/>uinis interessentibus: tales enim persone (su ipsis tribus 
+      <lb ed="#P" n="97"/>casibus incluse) pro presentibus reputantur. d. c. cum 
+      dile<lb ed="#P" n="98" break="no"/>ctus et c. ad audientiam: Includuntur dico. adeo quod si 
+      con<lb ed="#P" n="99" break="no"/>nonicus iurauerit continue residere / non ast periurus si 
+      ne<lb ed="#P" n="100" break="no"/>residet ex causis in tex. nostro expressis aut alteta illarum. 
+      <lb ed="#P" n="101"/>quia interesse dicitur. d. c. ex parte. supra eo. concordat tex l. hac 
+      <lb ed="#P" n="102"/>lege. C. de prepo. sacr. scri. et l. cum sumus. de agnic. et 
+      censi<lb ed="#P" n="103" break="no"/>a.l. predia. §. i. ff de fundo iustr. et l. testamento. ff. de alimen. 
+      <lb ed="#P" n="104"/>ciba. lega. quod placet Iaso. in con. cxxxiiii. col. ii. quantu. 
+      <lb ed="#P" n="105"/>ad solutionem vol. iiii. vbi subdit quod talis maxime si sit 
+      absens<lb ed="#P" n="106" break="no"/>pro negotiis ecclesie censetur residens et saisfacere iuras 
+      <lb ed="#P" n="107"/>mento quod fecerat de residentia. Et hic est casus in quo 
+      <lb ed="#P" n="108"/>iuramentum non seruatur in forma specisica cantra 
+      reg<lb ed="#P" n="109" break="no"/>lam communem ibi per eundem Iasonem comprobatam. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1485">
+                  <lb ed="#P" n="110"/>¶ Et ista est veritas non cauillando iura que omnia 
+      vin<lb ed="#P" n="111" break="no"/>cit l. fi. in fi. ff de proba. et semper nobis debet esse ante 
+      ocu<lb ed="#P" n="112" break="no"/>los scl. quod si ephesi. ff. de eo quod certo loco semperque est 
+      <lb ed="#P" n="113"/>dicenda / iuxta illud philosophi amicus Soites / amicus 
+      <lb ed="#P" n="114"/>Plato: sed magis amica veritas: dictum est Aristotelis 
+      re<lb ed="#P" n="115" break="no"/>probando quandam opinionem Platonis magistri sui / nam 
+      <lb ed="#P" n="116"/>veritas est gratie preponenda et potentatui l. eos. C. de 
+      ta<lb ed="#P" n="117" break="no"/>sti. quod licet statuta non comprehendant casum fictum 
+      <lb ed="#P" n="118"/>tamen si ille casus procedat a iure communi ad talem 
+      ca<lb ed="#P" n="119" break="no"/>sum extendetur statutum / testatur Petrus de Ancha. hic 
+      <lb ed="#P" n="120"/>et in. d. c. ex parte / et in d. c. ad audientiam / 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1511">
+                  <lb ed="#P" n="121"/>¶ Pro hoc adde Sozinum consilio. clii. col. iiii. et in consil. 
+      <lb ed="#P" n="122"/>cclx. col. viii. versi. secundum quod allegatur / vbi dicit quod 
+      re<lb ed="#P" n="123" break="no"/>gula est quando casus verus et fictus equiparantur: 
+      di<lb ed="#P" n="124" break="no"/>spositio in casu vero locum etiam habet in casu ficto 
+      pro<lb ed="#P" n="125" break="no"/>bat per. d. c. ad audientiam et c. cum dilectus idem in 
+      consum<lb ed="#P" n="126" break="no"/>lio. ccxciii. col. ii. Alexan. in. ii. vol. con. clxxviii. nu. xxii. in 
+      oc<lb ed="#P" n="127" break="no"/>currenti casu / vbi dicit quod dispositio hominis vel legis log 
+      <lb ed="#P" n="128"/>quens in casu vero extenditur ad casum fictum eandem 
+      ra<lb ed="#P" n="129" break="no"/>tionem habentem seu eundem effectum producentem l. deo 
+      <lb ed="#P" n="130"/>nobis. C. de epi. et cler. vbi notat Cy. Bar. in l. ex ea. §. 
+      insu<lb ed="#P" n="131" break="no"/>lam. ff. de verbo. obliga. quod procedit maxime quando 
+      su<lb ed="#P" n="132" break="no"/>mus in fauorabilibus / quia tunc fit extentio fictionis ad 
+      ar<lb ed="#P" n="133" break="no"/>lium casum / no. Domi. in consilio. lxvi. col. iiii. pro declara. 
+      <lb ed="#P" n="134"/>tione. Item vbi obseruantia iuramenti in casu ficto non 
+      ten<lb ed="#P" n="135" break="no"/>dit ad aliquam lesionem illius cui fuit prestitum / tunc iura. 
+      <lb ed="#P" n="136"/>mentum verificatur in casu ficto / Panor. in d. ca. ex parta 
+      <lb ed="#P" n="137"/>ii. supra hoc titu. vbi autem esset contra intentionem 
+      recipien<lb ed="#P" n="138" break="no"/>tis iuramentum tunc procedit tex. c. ad nostram i. supra de 
+      iu<lb ed="#P" n="139" break="no"/>reiur. quod iuramentum debeat precise impleri in forma 
+      spe<lb ed="#P" n="140" break="no"/>cifica 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1557">
+                  <lb ed="#P" n="141"/>¶ Et attende ad vnum / quia quemadmodum non valet 
+      pre<lb ed="#P" n="142" break="no"/>dicta consuetudo / ita per locum ab oppositis non valet etiam 
+      <lb ed="#P" n="143"/>consuetudo quod quotidiane distributiones ex funeralibus 
+      <lb ed="#P" n="144"/>portionibus procedentes non dentur interessentibus 
+      di<lb ed="#P" n="145" break="no"/>uinis / ita refert post Lapum allega. xliii. ipse Nico. milus 
+      <lb ed="#P" n="146"/>in reperto. in verbo consuetudo non valet. Sunt enim distri 
+      <lb ed="#P" n="147"/>butiones et funerales portiones per tex. nostrum 
+      parifica<lb ed="#P" n="148" break="no"/>te: quia quemadmodum quotidiane distributiones non 
+      <lb ed="#P" n="149"/>computantur in valore beneficiorum. Rota in antiqui. 
+      deci<lb ed="#P" n="150" break="no"/>766. (dico latius in sequen.  quod limita nisi id expresse 
+      <lb ed="#P" n="151"/>per iura dicatur (vt licet videre in concor. in titulo de eleg. 
+      <lb ed="#P" n="152"/>§. qui vero ad beneficia versi. si quis ad beneficia) sic nec 
+      fu<lb ed="#P" n="153" break="no"/>erales portiones pro quo vide que citat Domi. in 
+      consi<lb ed="#P" n="154" break="no"/>lio. clxiii. Titius vbi dicit si iudex condemnauit Petrum in 
+      <lb ed="#P" n="155"/>fructibus qui prouenerunt ex canonia et prebenda / quod 
+      appel<lb ed="#P" n="156" break="no"/>latione fructuum non venient distributiones quotidiane 
+      <lb ed="#P" n="157"/>pariformiter nec portiones funerales 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1597">
+                  <lb ed="#P" n="158"/>¶ Parificantur equidem in incertidine: quia sub incerta 
+      re<lb ed="#P" n="159" break="no"/>dicuntur deducta: ideo in consideratione haberi non de 
+      <lb ed="#P" n="160"/>bent: cum multa contingere possint / vt eas non percipia 
+      <lb ed="#P" n="161"/>prebendatus ar l. pretia. ff. ad l. falci. ibi sed nec heredem post 
+      <lb ed="#P" n="162"/>mntem facit lex nouralem § primo in terus responso. 
+      <!--cod-gh333a-0617.xml-->
+      <pb ed="#P" n="243-v"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ff. de acquir. rer. do. vbi dicitur / illud quod potest acquiri 
+      et<lb ed="#P" n="2" break="no"/>non acquiri / ante realem et actualem acquisitionem / quend 
+      <lb ed="#P" n="3"/>locupletiorem non reddit / quia multa accidere possunt / vt 
+      <lb ed="#P" n="4"/>non capiat quod liquet ex his que per nos dicuntur in 
+      ca<lb ed="#P" n="5" break="no"/>pitulo si postquam. de prebend. ina. istud firmat Alexand. 
+      <lb ed="#P" n="6"/>in consilio. cxiii. nume. iii. pro decisione / volu. iii. iuxta vulga. 
+      <lb ed="#P" n="7"/>re inter calicem supremaque labra etc. vrgent equidem que not 
+      <lb ed="#P" n="8"/>Neapol. deci. 85. nu. 7. Dubium nouum aliquid non debet. 
+      <lb ed="#P" n="9"/>tale dici / ex eo quod potest contingere tale l. prima. ff. de in 
+      lite<lb ed="#P" n="10" break="no"/>riur. quod suffragatur in quotidianis distributionibus: 
+      siu<lb ed="#P" n="11" break="no"/>ipsarum perceptione que ex euentu dependet / quia factum homi 
+      <lb ed="#P" n="12"/>nis requirunt cum ipso corpore prebende / et sic habet 
+      incerti<lb ed="#P" n="13" break="no"/>fortune exitum. Ita per hec et alia premissa firmat Oldra. in 
+      <lb ed="#P" n="14"/>consi. cxviii. Ex virtute gratie et post eum Petr. de Ancha. in 
+      <lb ed="#P" n="15"/>ele. vna / col. pe. et vlti. de conces. preben. deducendo portiones. 
+      <lb ed="#P" n="16"/>funerales / sic dispositum in vuo habet locum in reliquo / tradit 
+      <lb ed="#P" n="17"/>glo. et post eam Antho. in d. c. de multa. supra de preben. vide 
+      D<lb ed="#P" n="18" break="no"/>mi. in consi. lvi. col. iii. inter sanctissimum / et que dicemus in 
+      se<lb ed="#P" n="19" break="no"/>quentibus / nume. liiii.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1658">
+      ¶ Uidetur autem dicendum in 
+      puni<lb ed="#P" n="20" break="no"/>cto quo ad tangit consuetudinem / licet ipsa sit irrationabi 
+      <lb ed="#P" n="21"/>lis nec teneat excusare tamen videtur tam a culpa quam a 
+      pe<lb ed="#P" n="22" break="no"/>na / saltem quousque super ea pronuncietur / ista est decisio que 
+      <lb ed="#P" n="23"/>resultat ex doctrina Car. consi. cxxxii. Archipresbyter / 
+      col<lb ed="#P" n="24" break="no"/>iii. versi sed presupposito / addendo inducere probabilem 
+      dub<lb ed="#P" n="25" break="no"/>tationem. c. cum causam ibi dubitatis et merito / vbi Io. And. 
+      <lb ed="#P" n="26"/>supra de elec. pro hoc faciunt notata in. c. vnico. supra de postu. praela 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1676">
+                  <lb ed="#P" n="27"/>¶ Si ideo canonici a culpa excusentur / ergo a pena. c. ii. supra 
+      <lb ed="#P" n="28"/>de consti. hec firmo per ea que ampliori calamo notata 
+      fue<lb ed="#P" n="29" break="no"/>re per Petrum de Ancha. consi. li. quod exorditur consuetude 
+      <lb ed="#P" n="30"/>que habet vbi dicit / posito quod ius administrandi sine 
+      confirma<lb ed="#P" n="31" break="no"/>tione superioris asset imprescriptibile et contra canones / 
+      ta<lb ed="#P" n="32" break="no"/>men adminiftrans vigore consuetudinis reprobe / aliquam 
+      pa<lb ed="#P" n="33" break="no"/>ti non debet penam: imo debet per eam tolerari / ista fuit 
+      senten<lb ed="#P" n="34" break="no"/>tia glo. pro singulari per Panor. ibi reputate in. c. cum vene. 
+      <lb ed="#P" n="35"/>rabilis. supra de consuetudi. quod gerens actum pretextu consuetud 
+      <lb ed="#P" n="36"/>nis praue (dico actum contra ius ex quo prauitas ipsa non 
+      <lb ed="#P" n="37"/>est declarata per ipsum ius) non debet tanquam legis 
+      transgres<lb ed="#P" n="38" break="no"/>sor puniri / imo pretextu illius tollerari: similem glo. habes. 
+      <lb ed="#P" n="39"/>in. c. denique. iiii. dist. hanc glo. primam exclamant singularen. 
+      <lb ed="#P" n="40"/>Roma. singulari. xix. Feli. in. c. ex tenore. col. viii. supra de 
+      rei<lb ed="#P" n="41" break="no"/>Barba. in cap. fin. col. xviii. supra de pecul. cleri. Iason in l. de 
+      <lb ed="#P" n="42"/>quibus / col. iii. ff. de legi. Feli. in ca. primo / col. ante pe. versi. 
+      <lb ed="#P" n="43"/>limita octauo. supra de re iudi. et in. c. no satis. supra de symo. vbi 
+      <lb ed="#P" n="44"/>Panor. et zacha. in addi. ad eum Roma. consilio. cxlix. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1718">
+                  <lb ed="#P" n="45"/>¶ Nec decisioni huic obstant verba Panor. ibi ex quo 
+      ad<lb ed="#P" n="46" break="no"/>huc prauitas consuetudinis non erat declarata / per hec que 
+      <lb ed="#P" n="47"/>voluit Petrus in. d. consi. li. in fi. vbi dicit / licet 
+      constituti<lb ed="#P" n="48" break="no"/>damnet consuetudinem / tamen si post reprobationem 
+      continue<lb ed="#P" n="49" break="no"/>tur logissimo tempore / reassumit vires: allegat glo. que est 
+      <lb ed="#P" n="50"/>in verbo consuetudine in clemen. statutum / de elect. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1734">
+                  <lb ed="#P" n="51"/>¶ Item comprobando intentum nostrum / non debet puniri 
+      qui<lb ed="#P" n="52" break="no"/>communi iudicio peccat. xxvii. quest. ii. c. de viduis. et de 
+      tran<lb ed="#P" n="53" break="no"/>latio. prela. ca. inter corporalia. §. sane / ibi maiorum sequum 
+      <lb ed="#P" n="54"/>tus errorem quodque etiam iniusta causa excusat a dolo glo. est in 
+      <lb ed="#P" n="55"/>l. prima in verbo iustis. ff. de abigeis / et in l. prima. §. fin. in 
+      <lb ed="#P" n="56"/>glo. magna in fi. ff. si quis ius dicen. non obtempe. et ibi scriben. 
+      <lb ed="#P" n="57"/>tradit Alexan. in l. qui Rome. §. duo fratres col. ii. ff. de vel 
+      <lb ed="#P" n="58"/>bo. obliga. vbi alias adducit glo. et Barba. consil. xiii. in. iiii. 
+      <lb ed="#P" n="59"/>col. Iason late in l. si quis maior in prin. C. de transact. vbi 
+      <lb ed="#P" n="60"/>dicit. Imo omnis credulitas etiam futura excusat a pena de 
+      <lb ed="#P" n="61"/>li secundum Ang. in l. est prima ad finem prin. ff. de eo per quem factum 
+      <lb ed="#P" n="62"/>Imo etiam propter temeritatem excusatur a pena dolt. Idem 
+      <lb ed="#P" n="63"/>Ange. in l. plagii criminis accusatio. C. ad legem fa. de 
+      pla<lb ed="#P" n="64" break="no"/>gia.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1767">
+      ¶ Facit quod dixi in rubrica de dolo et contuma. quod 
+      <lb ed="#P" n="65"/>quelibet causa etiam bestialis excusat a dolo. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1773">
+                  <lb ed="#P" n="66"/>¶ Ex quibus sic ad partes relatis / adest opinionum 
+      di<lb ed="#P" n="67" break="no"/>uersitas merito impresentiarum restat videndum quis 
+      re<lb ed="#P" n="68" break="no"/>ctius loquatur / et quis iustius induerit arma / vt in simili 
+      di<lb ed="#P" n="69" break="no"/>cit Decius consilio. clviii. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1784">
+                  <lb ed="#P" n="70"/>¶ Pro concordia idcirco dic breviter / hanc vltimam 
+      opi<lb ed="#P" n="71" break="no"/>nionem habere locum in foro contentioso / primam vero in 
+      <lb ed="#P" n="72"/>foro anime. Ita ex doctrina Roma d. singu. xix. resultat. 
+      <lb ed="#P" n="73"/>dum dicit. d. glo. capitu. cum venerabilis intelligi de 
+      pena<lb ed="#P" n="74" break="no"/>temporali non gehennali. Idem Petrus de Ancha. in 
+      ca<lb ed="#P" n="75" break="no"/>pitu. inter dilectos. vi. no. supra de exces. prela. per. d. glo. in. d. 
+      <lb ed="#P" n="76"/>capitulo denique. iiii. distinct. et expresse verbis et mente 
+      so<lb ed="#P" n="77" break="no"/>nat / vbi Prepo. col. penulti. qui eam comprobat limitando 
+      <lb ed="#P" n="78"/>d. glo. in d. capi. cum venerabilis / videlicet nisi iure declare. 
+      <lb ed="#P" n="79"/>tur irrationabilis consuetudo / vt hic in tex. ibi improbantes. 
+      <lb ed="#P" n="80"/>nam tunc non excusaret a pena etiam temporali pro quo dicit 
+      foro<lb ed="#P" n="81" break="no"/>gl. no. in cle. ii. de rebus eccle. non alie. quam sequitur Anto. in. c. fi¬ 
+      <!--cod-gh333a-0617.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>supra de consti. et Gemi. in d. c. vno de post. prela. hoc libro. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1819">
+                  <lb ed="#P" n="83"/>¶ Preterea expeditus de premissis venio ad maiorem 
+      no<lb ed="#P" n="84" break="no"/>stri thematis comprobationem: qui altari seruit de altat 
+      <lb ed="#P" n="85"/>viuere debet / iuxta illud Gene. in sudore vultus tui 
+      vesca<lb ed="#P" n="86" break="no"/>ris pane tuo. Ergo a contrario sensu (quod reperio validiur 
+      <lb ed="#P" n="87"/>in iure l. prima §. huius rei. ff. de offi. eius cui manda. est 
+      iu<lb ed="#P" n="88" break="no"/>ris.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e1835">
+      ¶ Si non seruit altari de eo viuere non debet: istud est iuris 
+      <lb ed="#P" n="89"/>diuini. Et sic habes tertiam limitationem dicti Pepo. vbi 
+      <lb ed="#P" n="90"/>supra vbi dicit / ego illud limitarem verum vbi ageretur de 
+      e<lb ed="#P" n="91" break="no"/>quod propter legis humane dispensationem est prohibitum: se 
+      <lb ed="#P" n="92"/>cus si a lege diuina quia tunc consuetudo a pena non 
+      ex<lb ed="#P" n="93" break="no"/>cusaret cum in his locum non habeat. d. c. fi. de consuet. 
+      a<lb ed="#P" n="94" break="no"/>idem Roma. con. cccclxvi. nu. primo videtur prima fronte 
+      <lb ed="#P" n="95"/>ita Iason in l. singularia nu. xxxvii. ff. si certum peta. dicit 
+      <lb ed="#P" n="96"/>inuenire. Bal. in repetitione. d. l. de quibus per Cardi. ver. 
+      <lb ed="#P" n="97"/>viso de causis / et per Imol. in. c. sane de tempo. ordi. 
+      Faci<lb ed="#P" n="98" break="no"/>quod notat Innoc. in. c. ad nostram. supra de appella. quod in 
+      deli<lb ed="#P" n="99" break="no"/>ctis corrigendis non valet consuetudo que tollit correctio 
+      <lb ed="#P" n="100"/>nem. Iuuant no. in. d. c. fi. de consue. vbi dicit non valere 
+      con<lb ed="#P" n="101" break="no"/>suetudinem quod pro homicidio pena imponatur pecuniaria. 
+      <lb ed="#P" n="102"/>cum sit contra legem Mosaicam et ciuilem / quia 
+      inuitaren<lb ed="#P" n="103" break="no"/>tur homines ad delinquendum ex quo redditur 
+      impro<lb ed="#P" n="104" break="no"/>ba tex. in. c. ex parte de consue. hostien. in summa de peni. 
+      <lb ed="#P" n="105"/>et remissio. § in quibus et qualiter / Io. And. in. c. 
+      venerabi<lb ed="#P" n="106" break="no"/>sem de elec. supra. Bal. in l. fi. C. si contra ius vel vtili. publi. ii. 
+      <lb ed="#P" n="107"/>in proposito / quia ex premissa perceptione distributionum 
+      <lb ed="#P" n="108"/>oritur vagandi materia / quod puto peccatum in viris 
+      eccla<lb ed="#P" n="109" break="no"/>fiasticis arg. horum que no. in cle. prima de renuncia. huiu 
+      <lb ed="#P" n="110"/>modi factionem operata est auaritia clericorum / quorum 
+      ge<lb ed="#P" n="111" break="no"/>nus dicitur auarissimum glo. in. c. si pluribus de preben. hoc 
+      <lb ed="#P" n="112"/>libro non supra hoc titulo in. c. quia nonnulli et in. c. auaritie vbi 
+      <lb ed="#P" n="113"/>dixi. supra de elec. Sozi. con. xv. col. v. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1892">
+                  <lb ed="#P" n="114"/>¶ Faciunt equidem pro premissis ea que nota. congerit 
+      Do<lb ed="#P" n="115" break="no"/>mi. consilio. cxxxii. quod sumit initium: casus talis est 
+      stan<lb ed="#P" n="116" break="no"/>te prescripta / vbi distinguendo dicit / aut ius reuocat 
+      consue<lb ed="#P" n="117" break="no"/>tudinem illam reprobando tanquam irrationabilem / vt in 
+      tex<lb ed="#P" n="118" break="no"/>nostro / tunc noua postea induci non potest: Iason in l. 
+      pri<lb ed="#P" n="119" break="no"/>ma numero. xxxv. in prima lectura. C. de summa trini. et fide 
+      <lb ed="#P" n="120"/>catho. quia ex quo est reprobata tanquam irrationabilis / 
+      repe<lb ed="#P" n="121" break="no"/>riretur postea sine ratione et tunc non valet. c. primo. supra de 
+      <lb ed="#P" n="122"/>consue. Paul. in cle. prima de elec. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1914">
+                  <lb ed="#P" n="123"/>¶ Aut ius renocat consuetudinem non declarando 
+      irra<lb ed="#P" n="124" break="no"/>tionabilem / tunc iterato noua poterit introduci 
+      consuetu<lb ed="#P" n="125" break="no"/>do glo. in cle. statutum de electio. et in capitu. primo de cle. 
+      <lb ed="#P" n="126"/>egro. hoc libro / notat Petrus de Ancha. con li. in fi 
+      con<lb ed="#P" n="127" break="no"/>suetudo que habet. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1928">
+                  <lb ed="#P" n="128"/>¶ Et licet in tex. nostro non fiat expressa mentio de 
+      reuo<lb ed="#P" n="129" break="no"/>catione consuetudinis tanquam irrationabilis: ex mente tamen 
+      <lb ed="#P" n="130"/>tex. et rationibus premissis luculenter constare videtur de 
+      <lb ed="#P" n="131"/>irrationabllitate / quod sufficit iuribus vulgatis arg. l. scira 
+      <lb ed="#P" n="132"/>leges. ff. de legi. Sic apparet consuetudinem huiusmod 
+      <lb ed="#P" n="133"/>in omnem euentum fore inforo poli damnatam / quod 
+      pre<lb ed="#P" n="134" break="no"/>cipuum dicas cum anima sit corpore pretiosior l. sancimus. C. 
+      <lb ed="#P" n="135"/>de sacrosanc. eccle. concordantes vide per Neuiza. in sylua. 
+      <lb ed="#P" n="136"/>charta mihi. cx. col. ii. facit dictum euangelii quid enim 
+      pro<lb ed="#P" n="137" break="no"/>dest homini si vniuersum mundum lucretur / anime vero sua 
+      <lb ed="#P" n="138"/>detrimentum patiatur: Firmat Calca. con. cii. nu. ii. pro 
+      par<lb ed="#P" n="139" break="no"/>te dicti Anthonii. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1957">
+                  <lb ed="#P" n="140"/>¶ Item alie absentie potius videntur voluntarie quam 
+      nece<lb ed="#P" n="141" break="no"/>sarie / sic non debent excusare glo. in verbo in totum in 
+      ex<lb ed="#P" n="142" break="no"/>trauagan. suscepti ne sede vacan. vbi dicit quod voluntarium et 
+      <lb ed="#P" n="143"/>exquisitum seu procuratum impedimentum neminem 
+      excu<lb ed="#P" n="144" break="no"/>care debe. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1970">
+                  <lb ed="#P" n="145"/>¶ Possumus preterea dicere hanc consuetudinem suas 
+      par<lb ed="#P" n="146" break="no"/>tes obtinere non posse in foro contentioso: moueor medio 
+      <lb ed="#P" n="147"/>hoc: nam quotiens consuetudo expresse reprobatur per 
+      ali<lb ed="#P" n="148" break="no"/>quam legem: vt quia lex consuetudini derogat / tunc non 
+      <lb ed="#P" n="149"/>excusatur a pena / probat tex. in autem. omnes peregrini. C. 
+      <lb ed="#P" n="150"/>communia de succe. et in auten. nauigia. C. de fur. quia sicu 
+      <lb ed="#P" n="151"/>faciens contra leges non excusatur l. late culpe. ff. de 
+      ver<lb ed="#P" n="152" break="no"/>bo. obliga. et l. leges sacratissime. C. de legib. pari ratione 
+      <lb ed="#P" n="153"/>non excusaretur qui obseruaret consuetudinem a lege 
+      re<lb ed="#P" n="154" break="no"/>probatam / cum tunc contra legem facere diceretur. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e1994">
+                  <lb ed="#P" n="155"/>¶ Postremo in puncto addo quod voluit Archid. in. c. 
+      pri<lb ed="#P" n="156" break="no"/>mo. xliiii. distin. vbi notabiliter determinat clericos 
+      abi<lb ed="#P" n="157" break="no"/>tentes redditibus ecclesiasticis fore obligatos ad 
+      restitu<lb ed="#P" n="158" break="no"/>tionem / acsi fures forent et latrones / de quo per Feli. in c. 
+      <lb ed="#P" n="159"/>postulasti col. viii. supra de rescript. Facit. c. quod sicut in fine 
+      <lb ed="#P" n="160"/>supra de elec. Sozinus consi. xxxii. in primo volu. refert 
+      domit<lb ed="#P" n="161" break="no"/>meus in trac. de peste / charta mihi. cii. col. ii. versi. item 
+      vti<lb ed="#P" n="162" break="no"/>lius et salubrius / vide que dixiin. c. nemo. supra de elec. 
+      <!--cod-gh333a-0618.xml-->
+      <pb ed="#P" n="244-r"/>
+                  <cb ed="#P" n="a"/>
+               </p>
+               <p xml:id="nqqq3t-d1e854-d1e2020">
+                  <lb ed="#P" n="1"/>¶ Et per hec habes casdide lector peroptime comprobatum 
+      consu<lb ed="#P" n="2" break="no"/>tudinem ecclesie Bituricem. prout et aliarum ecclesiarum in quibus 
+      <lb ed="#P" n="3"/>praebendati oertis mensibus quotidianas distributiones 
+      perc<lb ed="#P" n="4" break="no"/>piunt perinde ac si diuinis interessentes forent / non valere eti 
+      <lb ed="#P" n="5"/>am in foro contentioso sic multo fortius in foro anime 
+      ho<lb ed="#P" n="6" break="no"/>praebendatos. Io. mo. in. c. fi infa de ver. signi. appellat satis ne 
+      <lb ed="#P" n="7"/>seros et hoc casu: hi dicuntur contra ecclesiam non pro. 
+      dem<lb ed="#P" n="8" break="no"/>ibi inuehit contra nepotulos et asinos deferratos et in. c. 
+      <lb ed="#P" n="9"/>cum ex eo. supra de elec. hoc lib. vbi dixi hi quippe sunt que 
+      <lb ed="#P" n="10"/>habent beneficia a progenie in progenies. Nec video 
+      quim<lb ed="#P" n="11" break="no"/>tales deficiant in salutari suo: facit quod citat Ioan. mo. in 
+      <lb ed="#P" n="12"/>c. alma infra de senten. ex com. dum ait. Nam si modico non possunt. 
+      <lb ed="#P" n="13"/>substinere osficio interessendo / dignum est stipendium non 
+      re<lb ed="#P" n="14" break="no"/>cipiant facit dictum Fely. in. c. cum. ex officii. nu. 4. supra de 
+      pre<lb ed="#P" n="15" break="no"/>scrip. vide licet quod qui non visitat non debetur sibi procura 
+      <lb ed="#P" n="16"/>tio. Ad idem in similissi respectu certe qualitatis lex 
+      loquuin<lb ed="#P" n="17" break="no"/>tur de persona vel re cessante illa qualitate / cessat legis 
+      or<lb ed="#P" n="18" break="no"/>dinatio / not Petr. de ancha. con. ccxliiii. col. i. quia questio vbi 
+      <lb ed="#P" n="19"/>subdit legatum factum seruo sub commemoratione officii si 
+      ces<lb ed="#P" n="20" break="no"/>sat in eo officium: extinguitur legatum l. legatis seruis de 
+      la<lb ed="#P" n="21" break="no"/>ga. iii. etiam capitulum contra papam et illius legem non 
+      possen<lb ed="#P" n="22" break="no"/>inducere consuetudinem. c. inferiorum. xxi. dist. et. c. innotuit. supra 
+      <lb ed="#P" n="23"/>de elec.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e2072">
+      ¶ Non potest equidem introduci per statutum 
+      iuri<lb ed="#P" n="24" break="no"/>mento firmatum: quia hoc iuramentum quod reperitur secunde 
+      <lb ed="#P" n="25"/>loco datum non infringit primum / quod quilibet canonicus in 
+      <lb ed="#P" n="26"/>sua noua receptione praestat videlicet de obseruanda vtilit 
+      <lb ed="#P" n="27"/>te ecclesie / que dicitur augmentare cultum diuinum pro hoc 
+      fi<lb ed="#P" n="28" break="no"/>cit que no. do. in con. lx. circa dubium: ideo pro huic morbo 
+      an<lb ed="#P" n="29" break="no"/>tidoto preparando / obtinere procures rescriptum sub 
+      se<lb ed="#P" n="30" break="no"/>quen. verbis contextum prout a lias obtentum videre 
+      pote<lb ed="#P" n="31" break="no"/>ris in c asu occurrento 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2093">
+                  <lb ed="#P" n="32"/>¶ Cemens episcopus seruus seniorm de i ad pre. 
+      <lb ed="#P" n="33"/>tuam rei memoriam etc. Summi dispositione 
+      <lb ed="#P" n="34"/>rectoris ad regimen vniuersalis ecclesie quamuis insufficiem 
+      <lb ed="#P" n="35"/>tibus meritis deputati curis assiduis augemur vt opem 
+      <lb ed="#P" n="36"/>et operam quantum nobis ex alto conceditur impendimus: quod vni 
+      <lb ed="#P" n="37"/>uerse orbis ecclesie / presertim ad romanam ecclesiam nulle 
+      <lb ed="#P" n="38"/>medio pertinentes per nostre prouidentie ministerium 
+      ob<lb ed="#P" n="39" break="no"/>sequiis debitis non fraudentur 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2113">
+                  <lb ed="#P" n="40"/>¶ Cum itaque sicut pro parte dilecti filii nobilis viri Ioan. 
+      <lb ed="#P" n="41"/>nis ducis Bituris ac Comitis Pictauen. qui abbatiam 
+      ser<lb ed="#P" n="42" break="no"/>cularium et Collegiatorum ecclesie sancti Hilarii maioris 
+      Pic<lb ed="#P" n="43" break="no"/>tauen. romane ecclesie immediate subiecte / ex priuilegio 
+      <lb ed="#P" n="44"/>sedis apostolice obtinet praepsitiositatum / extitit coram nobis 
+      pro<lb ed="#P" n="45" break="no"/>positum quod in eadem ecclesia quedam consuetudo existate 
+      <lb ed="#P" n="46"/>que potius dicenda est corruptela quod persone ipsius 
+      eccle<lb ed="#P" n="47" break="no"/>sie in dignitatibus / personatibus / vel officiis constitute / in 
+      <lb ed="#P" n="48"/>dicta ecclesia non residendo seu diuinis officiis ibidem non 
+      <lb ed="#P" n="49"/>interessendo et quod canonici eiusdem ecclesie in eadem 
+      resi<lb ed="#P" n="50" break="no"/>dentes quamuis inibi diuinis officiis huiusmodi non intersint 
+      <lb ed="#P" n="51"/>etiam secularibus vel aliis negociis insistendo absque 
+      ca<lb ed="#P" n="52" break="no"/>nonico titulo distributiones quotidianas in pane / vino / 
+      po<lb ed="#P" n="53" break="no"/>cunsa / et blado consistentes: quae occasione aniuersariorum / 
+      processio<lb ed="#P" n="54" break="no"/>num / et aliis personis ipsius ecclesie eisdem diuinis officiis 
+      dunt<lb ed="#P" n="55" break="no"/>xat ibidem interessentibus dari deberent percipiant / acsi 
+      di<lb ed="#P" n="56" break="no"/>uinis officiis personaliter interessent / quod in diuini cultus 
+      <lb ed="#P" n="57"/>diminutionem non modicam redundat / 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2155">
+                  <lb ed="#P" n="58"/>¶ Pro parte dicti ducis nobis extitit humiliter 
+      supplic<lb ed="#P" n="59" break="no"/>tum / vt prouidere super hoc de opportuno remedio de 
+      benit<lb ed="#P" n="60" break="no"/>gnitate apostolica dignaremur 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2164">
+                  <lb ed="#P" n="61"/>¶ Nos igitur huiusmodi supplicationibus inclinati: aucto 
+      <lb ed="#P" n="62"/>ritate apostolica statuimus et etiam ordinamus quod deinceps 
+      <lb ed="#P" n="63"/>canonici seu alie persone ipsius ecclesie qui vel que sunt 
+      ve<lb ed="#P" n="64" break="no"/>erunt pro tempore / distributiones huiusmodi non percipiam 
+      <lb ed="#P" n="65"/>vel lucrentur nisi quamdiu personalem residentiam fecerint 
+      <lb ed="#P" n="66"/>in ecclesia antedicta / et tunc duntaxat et non alias: cum 
+      di<lb ed="#P" n="67" break="no"/>ctis officiis personaliter intererint: huiusmodi et 
+      quibusli<lb ed="#P" n="68" break="no"/>bet aliis consuetudinibus / necnon statutis ipsius ecclesie / qua 
+      <lb ed="#P" n="69"/>tinus etiam iuramento confirmatione apostolica vel quacumque 
+      <lb ed="#P" n="70"/>fitmitate alia roboratis / non obstantibus quibuscunque. Num 
+      <lb ed="#P" n="71"/>li ergo hominum et c. Datum Rome et 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2190">
+                  <lb ed="#P" n="72"/>¶ Postea expeditur forma executorie cum assistentia 
+      iudi<lb ed="#P" n="73" break="no"/>cum prout casus exigentia requirit alias ponatur in premisse 
+      <lb ed="#P" n="74"/>forma / quod contrarium facientes eo ipso sententiam 
+      excommunica<lb ed="#P" n="75" break="no"/>tionis et alias penas (etiam priuationis) incurrant. et c. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2201">
+                  <lb ed="#P" n="76"/>¶ Uide que in proposito dixi in. c. quia. supra de rescrip. dice 
+      <lb ed="#P" n="77"/>quo ad indultum de pericipiendis fructibus in absentia¬ 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2209">
+                  <lb ed="#P" n="78"/>¶ Et redeundo ad praemissorum elucidationem que dicimus 
+      di<lb ed="#P" n="79" break="no"/>consuetudine quia habemus cum grano salis moderare 
+      vide<lb ed="#P" n="80" break="no"/>licet nisi dubium foret de validitate illius / quia tuncnon 
+      pec<lb ed="#P" n="81" break="no"/>carent accipiendo pro hoc tempore / per ea que voluit Alex. con. 
+      <!--cod-gh333a-0618.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>i. in. iii. col. in fi. ver. vlti. pro hoc vol. ii. vbi dicit in. articulo 
+      <lb ed="#P" n="83"/>dubio non peccat ille qui in alteram partem inc linat 
+      <lb ed="#P" n="84"/>vt singulariter colligitur ex tex. et glo. et ibi no. per Antho. ii 
+      <lb ed="#P" n="85"/>c. capellanus. supra de feriis et innoc. in. c. ne imnitaris. supra de 
+      con<lb ed="#P" n="86" break="no"/>sti. vbi dicit si sancti inter se diuersas opiniones habeant 
+      <lb ed="#P" n="87"/>vt pote de salomone dannato / licitum est cuique quod vult 
+      di<lb ed="#P" n="88" break="no"/>cere.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e2240">
+      ¶ Premissa comprobo ex doctrina Antho. in. c. cum 
+      di<lb ed="#P" n="89" break="no"/>lectus col. v. supra hoc tit. licet episcopus non possit statuere 
+      contra<lb ed="#P" n="90" break="no"/>ius nisi vbi reperitur concessum. c. dilectus de tempo. ordi. 
+      Can<lb ed="#P" n="91" break="no"/>con. cxxx. in quadam ecclesia / tamen ex consuetudine postest 
+      con<lb ed="#P" n="92" break="no"/>tra ius interpaetari et quod de se non operatur statutum vigore 
+      <lb ed="#P" n="93"/>consuetudinis / extenditur / et subiicit hoc esse notabile / et alib. 
+      <lb ed="#P" n="94"/>non haberi idem tamen Car. et Io. de imol. in. c. ex tue in. vi. col. supra 
+      <lb ed="#P" n="95"/>hoc tit. tenent in effectu vbi dicunt / licet episcopus non possit 
+      sta<lb ed="#P" n="96" break="no"/>tuere contra ius potest tamen statuere circa dubium 
+      iu<lb ed="#P" n="97" break="no"/>ris in alteram partem / quod Fely. placet in. c. quod super his 
+      <lb ed="#P" n="98"/>col. pe. supra de maiori. et obedien. idem Rochus comprobat in 
+      pro<lb ed="#P" n="99" break="no"/>priis termins in repe. c. fi. supra de consue. charta. vii. col. iii. in 
+      pri<lb ed="#P" n="100" break="no"/>quod licet distributiones quotidiane non debeant nisi 
+      interessen<lb ed="#P" n="101" break="no"/>tibus diuinis dari: nec valeat consuetudo in contrarium: 
+      ta<lb ed="#P" n="102" break="no"/>men si esset dubium in iure an deb erentur tumc valeret 
+      con<lb ed="#P" n="103" break="no"/>sue tudo / allegat Bal. inter con. Car. in con. liii. incipien. ¬ 
+      <lb ed="#P" n="104"/>co quod iste quotidiane / quod non reperio non tamen dicas fore 
+      ali<lb ed="#P" n="105" break="no"/>quod dubium cum sit clarum vt extex. nostro resulta t ocula 
+      <lb ed="#P" n="106"/>ta probatione: et si reperiatur aliquis contrarium dicere : 
+      <lb ed="#P" n="107"/>terminare poterit recte dici / temerarius et fatuus est talis 
+      <lb ed="#P" n="108"/>qui vere a consortio determinatium esset repellendus not. i. 
+      <lb ed="#P" n="109"/>simili Signorel. de ho. con. ci. in fine factum sic se habet: 
+      ita<lb ed="#P" n="110" break="no"/>mihi Philippo Prabo videtur de iure dicendum / non caulia 
+      <lb ed="#P" n="111"/>do iura pro quorum ampliori et liquidiori probatione adduco 
+      <lb ed="#P" n="112"/>ea que voluit in simili Barba. consilio. 82 volumine 
+      quan<lb ed="#P" n="113" break="no"/>to quod familiares cardinalium non se exercentes in 
+      fi<lb ed="#P" n="114" break="no"/>mulatu cardinalium (prout ipse ego famillaris 
+      reneren<lb ed="#P" n="115" break="no"/>dissimi domini Francisci de Claromonte Auinionen. 
+      legati<lb ed="#P" n="116" break="no"/>nunc sacri cardinalium collegii medio pontificatus sanct 
+      <lb ed="#P" n="117"/>bomini nostri pape Pauli tertii decani) non gaudent 
+      be<lb ed="#P" n="118" break="no"/>neficio familiarium. c. cum ex eo / ibi litterarum studio insista 
+      <lb ed="#P" n="119"/>tes. supra de elec. hoc lib. tex. in l. semper. §. negociatores. ff de 
+      <lb ed="#P" n="120"/>iure immunitatis l. ne quidem / ibi occupati sunt. C. de 
+      te<lb ed="#P" n="121" break="no"/>sta. milita l. si duas. § maxime. ff. de excusa. tuto. cum 
+      simili<lb ed="#P" n="122" break="no"/>bus / ad idem Io. mo. in. c. exigit de censi. quod qui non facit vt 
+      <lb ed="#P" n="123"/>sitationis officium non debet recipere visitationis 
+      benefi<lb ed="#P" n="124" break="no"/>cium seu stipendium pro his facit quod dixi supra de officio 
+      or<lb ed="#P" n="125" break="no"/>dlli. in c. preseni¬ 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2323">
+                  <lb ed="#P" n="126"/>¶ Et attende ad premissa quia placebunt canonicis de 
+      re<lb ed="#P" n="127" break="no"/>sidentia quos vt prediximus appellamus assissios. c. penul. 
+      <lb ed="#P" n="128"/>supra hoc titulo vel assessinos secundum Anthonium de 
+      Bu<lb ed="#P" n="129" break="no"/>trio consilio. li. in facto sancte Marie Maioris / quem vide 
+      <lb ed="#P" n="130"/>con. xlii. pro intento distributionum. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2336">
+                  <lb ed="#P" n="131"/>¶ Sed quaero an sit dabilis alius casus in quo quis possit 
+      di<lb ed="#P" n="132" break="no"/>stributiones quotidianas (non interessendo diuinis) 
+      face<lb ed="#P" n="133" break="no"/>re suas / dico quod sic per priuilegium tamen apostolicum 
+      Io<lb ed="#P" n="134" break="no"/>annes And. hic et alii testantur hanc nunquam vidisse formam 
+      <lb ed="#P" n="135"/>prout nec ego Philippus Probus vidisse testor: immo 
+      quan<lb ed="#P" n="136" break="no"/>do super his priuilegium obtineri contingit / semper illas 
+      <lb ed="#P" n="137"/>excipi dico: et hanc formam appellamus indultum de fructis 
+      <lb ed="#P" n="138"/>bus in absentia percipiendis / quod contexitur verbis 
+      sub<lb ed="#P" n="139" break="no"/>sequentibus seu illius supplicationis forma 
+      <lb ed="#P" n="140"/>Bratissime nater. Smpplicat humilter. supra U 
+      den<lb ed="#P" n="141" break="no"/>rtus orator vester Philippus 
+      Pro<lb ed="#P" n="142" break="no"/>bus in decretis licen. clericusque Bituricen. diocesis / 
+      quate<lb ed="#P" n="143" break="no"/>nus ipsum specialibus fauoribus et gratiis prosequente. 
+      <lb ed="#P" n="144"/>sibi vt omnes et singulos fructus redditus et prouentus / 
+      <lb ed="#P" n="145"/>quoruncunque beneficiorum suorum ecclesiasticorum cum 
+      cu<lb ed="#P" n="146" break="no"/>ra vel sine cura que in quibusuis ecclesiis seu locis 
+      obti<lb ed="#P" n="147" break="no"/>net et imposterum obtinebit / etiam si qualificata fuerint 
+      cun<lb ed="#P" n="148" break="no"/>ea integritate (quotidianis distributionibus exceptis) que 
+      <lb ed="#P" n="149"/>aduixerit in Romana curia vel altero beneficiorum suo 
+      <lb ed="#P" n="150"/>rum ecclesiasticorum residen. aut litterarum studio in loc. 
+      <lb ed="#P" n="151"/>vbi illud vigeat generale insistendo / percipere libere et 
+      li<lb ed="#P" n="152" break="no"/>cite valeat / cum qua illos perciperet / si in eisdem ecclesiis: 
+      <lb ed="#P" n="153"/>siue locis personaliter resideret / et ad residendum interim in 
+      <lb ed="#P" n="154"/>eisdem minime teneatur: nec ad id a quoque compelli possit 
+      <lb ed="#P" n="155"/>concedere et indulgere dignemini de gratia speciali / gene. 
+      <lb ed="#P" n="156"/>ralis concilii et quibusuis aliis constitutionibus et 
+      ordina<lb ed="#P" n="157" break="no"/>tionibus apostolicis / statutis / consuetudinibus / 
+      iuramen<lb ed="#P" n="158" break="no"/>to / confirmatione apostolica vel quauis firmitate alia 
+      ro<lb ed="#P" n="159" break="no"/>boratis et innouatis Ac Feli. Recor. Boni. pape. viii. sp. v. 
+      <lb ed="#P" n="160"/>praedecessoris per quam huiusmodi concessiones de fructibus 
+      <lb ed="#P" n="161"/>in absentia percipiendis / sine prefinitione temporis fieri 
+      pro<lb ed="#P" n="162" break="no"/>hibentur: et quibusuis aliis contrariis quibuscunque 
+      <!--cod-gh333a-0619.xml-->
+      <pb ed="#P" n="244-v"/>
+                  <cb ed="#P" n="a"/>
+               </p>
+               <p xml:id="nqqq3t-d1e854-d1e2414">
+                  <lb ed="#P" n="1"/>¶ Attende ad hanc formam et illlus verba maxime ibi in 
+      ro<lb ed="#P" n="2" break="no"/>mana curia vel altero beneficiorum suorum ecclesiasticorum rest 
+      <lb ed="#P" n="3"/>dem. aut litterarus studio sen loco vbi illud vigeat generale 
+      insi<lb ed="#P" n="4" break="no"/>stendo / quia si simpliciter diceretur in quolibet loco resider 
+      <lb ed="#P" n="5"/>te illo cui est facta gratia / posset ea vti per regulam quam 
+      ci<lb ed="#P" n="6" break="no"/>tat in simili Roma. con. cccxl. in prin. quod cum ius non 
+      de<lb ed="#P" n="7" break="no"/>terminat certum locum vel tempus / quocunque loco vel tempore ad 
+      <lb ed="#P" n="8"/>tus explicetur. C. de testa. ambiguitates et l. praepositiosteri. ff. de 
+      <lb ed="#P" n="9"/>bo. auctoritate. iudi. po. l. in venditione. §. de tempore. ff. 
+      <lb ed="#P" n="10"/>de ven. inspi. l. i. §. meminisse 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2438">
+                  <lb ed="#P" n="11"/>¶ Et quia aliquando petitur vbilibet vel alibi residen. hoc 
+      <lb ed="#P" n="12"/>semper cassatur visum tamen fuit (licet raro concedi his qui 
+      ser<lb ed="#P" n="13" break="no"/>uitio regis insistunt puta secretario aut confessori / seu 
+      consi<lb ed="#P" n="14" break="no"/>liario prout alias vidi in consiliariis curie parlamentorum Galr 
+      <lb ed="#P" n="15"/>lie / et adduntur verba / quamdiu in seruitio regis erit / vel 
+      du<lb ed="#P" n="16" break="no"/>rante ser uitio huiusmodi / pro quo faciunt que. supra diximus 
+      <lb ed="#P" n="17"/>in ver. Et per hec habes nu. xlv. in hoc indulto enim 
+      appo<lb ed="#P" n="18" break="no"/>nuntur derogationes statutorum / priuilegiorum / consuetudinu 
+      <lb ed="#P" n="19"/>que / ecclesiarum / testatur Alex. papa. vi. sub rubrica de 
+      fructi<lb ed="#P" n="20" break="no"/>bus in absentia percipiendis / illudque docet experientia 
+      re<lb ed="#P" n="21" break="no"/>rum magistra. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2465">
+                  <lb ed="#P" n="22"/>¶ Attende etiam quod si contingat tales non residere / studere / 
+      <lb ed="#P" n="23"/>et alias prout. supra percipere tamen fructus in absentia / iudicium 
+      <lb ed="#P" n="24"/>sibi manducant et bibunt prout voluit in terminis Io. mo. in. d. 
+      <lb ed="#P" n="25"/>c. fina. in fine. infra. de verb. signi. quem vide / ad idem Domi. in 
+      <lb ed="#P" n="26"/>Con. lxiii. colum. iiii. dubia. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2478">
+                  <lb ed="#P" n="27"/>¶ Et licet satis intelligantur distributiones excipi quoti 
+      <lb ed="#P" n="28"/>diane /tamen papa in talibus indultis solet specifice adhuc 
+      ex<lb ed="#P" n="29" break="no"/>primere: quod non videtur absurdum. hoc dicit Cal. hoc 
+      <lb ed="#P" n="30"/>titu. con. vnico col. fi. fit ad maiorem expressionem / et dubium 
+      <lb ed="#P" n="31"/>tollendum propter verba generalia litterarum vt etiam patet de 
+      <lb ed="#P" n="32"/>clausula apponi solitatam in his quam commendis: et aliis 
+      prou<lb ed="#P" n="33" break="no"/>sionibus papalibus. Paouiso quod propter huiusmodi gratia 
+      <lb ed="#P" n="34"/>ecclesia debitis non fraudetur obsequiis / et animarum cura qui 
+      <lb ed="#P" n="35"/>forsan illi imminet nullatenus negligantur hec etiam 
+      sub<lb ed="#P" n="36" break="no"/>intelligitur: vt ibi per eundem Cal. tamen hec ponuntur ad 
+      <lb ed="#P" n="37"/>maiorem scientiam et notitiam habendam vt in simili citat Ioan. 
+      <lb ed="#P" n="38"/>mo. in. c. Felicis. de penis hoc libro probat hoc tex. in. c. i. infra. de 
+      <lb ed="#P" n="39"/>regu. iur. dum dicit beneficium ecclesiasticum: cum sufficiat dicere 
+      <lb ed="#P" n="40"/>simpliciter beneficium per regulam quam citat do. meus de 
+      Ripa<lb ed="#P" n="41" break="no"/>in. ii. lib. interpreta. in rub. de res. in fi. quod quando in iure nostr. 
+      <lb ed="#P" n="42"/>fit mentio de beneficio / est intelligendum de beneficio ecclesia 
+      <lb ed="#P" n="43"/>stico Car. in cle. ii. in. viii. no. de iudi. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2517">
+                  <lb ed="#P" n="44"/>¶ Pro complemento materie quero. Statuto ecclesie cautum 
+      <lb ed="#P" n="45"/>reperitur quod quando canonicus etiam per capitulum 
+      recep<lb ed="#P" n="46" break="no"/>tus / et cui de fructibus fuit responsum occasione 
+      canonica<lb ed="#P" n="47" break="no"/>tus et praebende et illorum possessorii controuersiam patitur / a qud 
+      <lb ed="#P" n="48"/>busuis fructibus et illorum obuentionibus priuatur: An per hoc 
+      <lb ed="#P" n="49"/>ipsis quotidianis distributionibus diuinis interessendo. 
+      <lb ed="#P" n="50"/>eo ipso priuatus existat: prima fronte videtur dicendum quod sic 
+      <lb ed="#P" n="51"/>tamen in contrarium per sequentia patet rei veritas / moueor 
+      <lb ed="#P" n="52"/>tum primo / quia statutum huiusmodi non debet 
+      interpretatio<lb ed="#P" n="53" break="no"/>nem recipere vt priuet canonicos residentes et diuinis. 
+      <lb ed="#P" n="54"/>interessentes / quotidianis distributionibus tum quia 
+      ap<lb ed="#P" n="55" break="no"/>pellatione fructuum et obuentionum non continentur distribus. 
+      <lb ed="#P" n="56"/>tiones quotidiane: que vt supra dedux / pro diuturno 
+      la<lb ed="#P" n="57" break="no"/>bore interessentibus debentur: vt patet in tex. nestro et in. d. c. 
+      <lb ed="#P" n="58"/>licet. supra de praeben. isto titu. late Do. con. lxxxv. Super primo 
+      du<lb ed="#P" n="59" break="no"/>bio. idem domi. con. cliii. in fine: pro solutione dubi¬ 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2554">
+                  <lb ed="#P" n="60"/>¶ Comprobat rota in no. deci. cxxxiiii. vbi dicitur / quando 
+      im<lb ed="#P" n="61" break="no"/>petratur beneficium certi valoris: distributiones fructuum 
+      <lb ed="#P" n="62"/>non sunt computande / quia ille dantur ratione certi 
+      ministe<lb ed="#P" n="63" break="no"/>rii: puta interessentibus diuinis / et non sunt de corpore 
+      be<lb ed="#P" n="64" break="no"/>neficii: comprobat Oldra. in. d. con. cxviii. Ex virtute 
+      gra<lb ed="#P" n="65" break="no"/>tie vbi citat quotidianas distributiones non augere 
+      cor<lb ed="#P" n="66" break="no"/>pus prebende istud firmat Domi. Stepha. Bertrand. com. 
+      <lb ed="#P" n="67"/>cclxxv. col. i. visis apostolicis literis parte ii. merito dicta 
+      <lb ed="#P" n="68"/>tum est expresse in concordatis vbi. supra quod comprehenderentur et 
+      <lb ed="#P" n="69"/>augerent valorem et est exceptio que firmat regulam: sed 
+      pro<lb ed="#P" n="70" break="no"/>pter operam persone debentur: ar. l. i. in. ii. eo. ibi sed magis. 
+      <lb ed="#P" n="71"/>operum beneficii loco praeberi. ff. si men. fal. mo. dixe. et l. cum 
+      <lb ed="#P" n="72"/>pro duobus. §. si inchoanda ibi praecium enim opere est. ff. pro 
+      se<lb ed="#P" n="73" break="no"/>cio: et sic cum debeantur ratione opere persone nullam communione 
+      <lb ed="#P" n="74"/>habent cum re ipsa sed personam tantum respiciunt l. vsus 
+      <lb ed="#P" n="75"/>aque. ff. de vsu et habi. et l. mella. §. vltimo. ff. de alimen. et 
+      ci<lb ed="#P" n="76" break="no"/>ba. lega.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e2593">
+      ¶ Tum et secundo: quia aptitudo acquisitionis 
+      <lb ed="#P" n="77"/>non auget praecium rei: et hoc est quod probatur tum primo quia 
+      ser<lb ed="#P" n="78" break="no"/>uo herede instituto / non per hoc dominus dicitur 
+      locupletio<lb ed="#P" n="79" break="no"/>nec seruus maioris estimationis quam prius dicit Alex. 
+      con<lb ed="#P" n="80" break="no"/>txxxii. col. i. pro decisione vol. vi. notat Do. de chassa neo. com. 
+      <lb ed="#P" n="81"/>xlv. col. i. ex facto mihi proposito / per tex. in. d. l. praecia: ibi sa¬ 
+      <!--cod-gh333a-0619.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>nec herendem post mortem. ff. ad l. falci. subditur in tex. ibi quod 
+      <lb ed="#P" n="83"/>multis causis accidere potest ne iussu nostro adeat / ac si 
+      a<lb ed="#P" n="84" break="no"/>perte dicat illud quod potest acquiri et non acquiri ante 
+      rea<lb ed="#P" n="85" break="no"/>lem et actualem aquisitionem quenquam locupletiorem non 
+      redi<lb ed="#P" n="86" break="no"/>dit / quia multa accidere possuntvt illud non capiat. ff. de 
+      acquia<lb ed="#P" n="87" break="no"/>re. domi l. naturalem. §. i. in. iii. eo. Alex. con. clii. in fine 
+      im<lb ed="#P" n="88" break="no"/>causa Bartol ini de nouaria. vol. vi. Tum secundo quia casum 
+      <lb ed="#P" n="89"/>aduersamque hominis liberi fortunam sperare non debemus. 
+      <lb ed="#P" n="90"/>l. inter stipulantem. §. sacram. ff. de verb. oblig. Curtius com. 
+      <lb ed="#P" n="91"/>ii. nu. iiii. Nam videmus quod deficiente opportunitate aliquo 
+      <lb ed="#P" n="92"/>temporis momento: persepe homines postea variis de causis de 
+      <lb ed="#P" n="93"/>sistunt et ad alia se vertunt docet expientia efficax rerm 
+      ma<lb ed="#P" n="94" break="no"/>gistra. c. quam sit de elec. hoc lib. his iunge quae tradit Do. 
+      Ti<lb ed="#P" n="95" break="no"/>raquel. in leg. connubia. charta. clxviii. versi huic autem quae 
+      iun<lb ed="#P" n="96" break="no"/>ctio placebii. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2643">
+                  <lb ed="#P" n="97"/>¶ Item perceptio quotidianarum distributionum a futu 
+      <lb ed="#P" n="98"/>ro euentu dependet qui non semper est in potestate 
+      homina<lb ed="#P" n="99" break="no"/>in simili dicimus in iudice: quod tractus futuri temporis ad est 
+      <lb ed="#P" n="100"/>non semper spectat no. in l. non quemadmodum. ff. de iudi. quod 
+      <lb ed="#P" n="101"/>factum homins requirunt cum communionem non habeant cum 
+      <lb ed="#P" n="102"/>corpore prabande 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2660">
+                  <lb ed="#P" n="103"/>¶ Item vt prediximus perceptio distributionum ex incerto 
+      fa<lb ed="#P" n="104" break="no"/>tune exitum habet: et diuiduntur per singulos dies singulasque 
+      <lb ed="#P" n="105"/>horas.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e2669">
+      ¶ Tum et tertio: quod non sit coiunctio. Ea enim que 
+      sunt<lb ed="#P" n="106" break="no"/>diuersorum generum et que vnaqueque per se imperfecta sunt: in 
+      <lb ed="#P" n="107"/>nicem non coniunguntur vt aliquod perfectum faciant ideo 
+      <lb ed="#P" n="108"/>qui est sexaginta duorum annorum: et tres liberos habet 
+      in<lb ed="#P" n="109" break="no"/>columes: a muneribus ciuilibus non excusatur: quia vnaqueque 
+      ex<lb ed="#P" n="110" break="no"/>cusatio per se est insufficiens: quia imperfecte excusatione 
+      <lb ed="#P" n="111"/>communionem non faciunt. ff. de var. et extraordi. mune l. i. §. vl. 
+      <lb ed="#P" n="112"/>ti. et. ff. de excusa. tut l. spadonem § qui iura. sic ex distinctis 
+      <lb ed="#P" n="113"/>et separatis non fit illati. c. susceptum. § fi supra de res. hoc lib 
+      <lb ed="#P" n="114"/>et. l. fi. ff. de calumnia. ideo cogruit vulgatum separatorum 
+      seu<lb ed="#P" n="115" break="no"/>rata est ratio l. si maritus. C. de dona. inter vir. et vxo. menusm 
+      <lb ed="#P" n="116"/>in l. si idem cum eodem de iuris. omnim iud 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2695">
+                  <lb ed="#P" n="117"/>¶ Preterea vt ex duobus diuersis constituatur vnum corpus. 
+      <lb ed="#P" n="118"/>necesse est vnionem fieri eadem materia mediante: hinc 
+      di<lb ed="#P" n="119" break="no"/>cimus quod brachium adiunctum statue per applumbaturam non 
+      con<lb ed="#P" n="120" break="no"/>stituit vnum corpus cum ea. Sed si per ferruminationem 
+      <lb ed="#P" n="121"/>a diungatur vnum corpus constituit. ff de rei vendica. l. in 
+      <lb ed="#P" n="122"/>rem actio. §. item quecunque. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2711">
+                  <lb ed="#P" n="123"/>¶ Item in proposito perceptio distributionum et fructu 
+      <lb ed="#P" n="124"/>um corporis prebende / non concurrunt in personam 
+      eius<lb ed="#P" n="125" break="no"/>dem / nisi hoins opera mediante / quia si hoc esset necessario esses 
+      <lb ed="#P" n="126"/>in vtroque: sed hoc est falsum: igitur. Istud late prosequitur 
+      Fe<lb ed="#P" n="127" break="no"/>post alios in. c. ad aures / nume. xiiii. supra de res. idem 
+      conclu<lb ed="#P" n="128" break="no"/>dendo / que omnia verificantur per. d. c. licet. supra de prebend. 
+      <lb ed="#P" n="129"/>vbi dicitur quod appellatione fructuum et reddituum ecclesie. 
+      <lb ed="#P" n="130"/>non comprehenduntur distributiones quotidiane / facit. c. 
+      <lb ed="#P" n="131"/>fi. §. in illis / versi. primo. de concessio. prebend. vbi iste distri 
+      <lb ed="#P" n="132"/>butiones ponuntur vt diuersa ab eo quod datur ratione 
+      <lb ed="#P" n="133"/>prebende. Merito de valore illarum non tenemur vt dixi 
+      fa<lb ed="#P" n="134" break="no"/>cere. mentionem in impetratione beneficiorum no. in d. ca. ad 
+      <lb ed="#P" n="135"/>aures et per Milum in verbo gratia de Selua in tract. bene 
+      <lb ed="#P" n="136"/>tertia parte. q. xii. idem dic de amniuersariis mortuorum / que 
+      <lb ed="#P" n="137"/>non computantur in valore secundum Oldra. consi. ccxvi. 
+      <lb ed="#P" n="138"/>circa primum: hinc glo. no. in cle. suscepti ne sede vacan. 
+      aii<lb ed="#P" n="139" break="no"/>quod de distributionibus quotidianis non est soluenda dec 
+      <lb ed="#P" n="140"/>ma papalis / licet glo. in cle. ii. de deci. dicat alias papam de 
+      <lb ed="#P" n="141"/>clarasse quod de his solueretur decima: tamen Domi. in 
+      consi<lb ed="#P" n="142" break="no"/>lxxxv. col. iii. incipien. super primo dubio / dicit hec 
+      declara<lb ed="#P" n="143" break="no"/>tio non reperitur / quia si papa hoc declarasset oporteret 
+      sua<lb ed="#P" n="144" break="no"/>stare declarationi. supra de iudi. c. cum venissent de senten. ex 
+      <lb ed="#P" n="145"/>communica. inter alia. supra de officio ordi. c. ordinarii. §. penul. 
+      <lb ed="#P" n="146"/>vnde concludit per multa quod ex his non debetur decima / idem 
+      <lb ed="#P" n="147"/>de beneficiis debilibus que non excedunt summam septem: 
+      <lb ed="#P" n="148"/>florenorum / vel verius quando victu extracto titularii et 
+      <lb ed="#P" n="149"/>familie solutisque iuribus episcopalibus nihil superest 
+      pr<lb ed="#P" n="150" break="no"/>quo tex. in. c. primo de prebend. hoc libro: ibi quod rectores et 
+      <lb ed="#P" n="151"/>clesiarum non possunt de residuo commode sustentari / quod 
+      <lb ed="#P" n="152"/>tango in trac. de manda. apostolicis. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2779">
+                  <lb ed="#P" n="153"/>¶ Comprobo vlterius principale intentum per arg. ab 
+      ab<lb ed="#P" n="154" break="no"/>surdo in iure validum no. in. c. dudum de prebend. hoc 
+      li<lb ed="#P" n="155" break="no"/>bro. c. cum inter de excep. c. quemadmodum. supra de iureiur. 
+      <lb ed="#P" n="156"/>l. Nam absurdum. ff. de bo. liber. qu ia si contingeret omnes 
+      con<lb ed="#P" n="157" break="no"/>nonicatus fore litigiosos / prout possibilitas patitur / et est 
+      <lb ed="#P" n="158"/>de facili contingenti cultus deseretur diuinus: nam 
+      gra<lb ed="#P" n="159" break="no"/>tis penitet esse pium / ca. si quis prima. q. ii. et cap. habebat. 
+      <lb ed="#P" n="160"/>xxii. q. i. Ideo concludas statutum non valere tanquam contra 
+      <lb ed="#P" n="161"/>ecclesie vtilitatem. c. i. supra de his que fiut a maio. parte capi. 5. 
+      <lb ed="#P" n="162"/>c. primo. supra de consue. ita in proposito concludit domi. me¬ 
+      <!--cod-gh333a-0620.xml-->
+      <pb ed="#P" n="245-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>de Aspa libro primo respon. c. v. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2812">
+                  <lb ed="#P" n="2"/>¶ Quod licet praedicta putem esse de iure verissima / tamen 
+      ex<lb ed="#P" n="3" break="no"/>omnino subiicio iudicio et melius sentienti. ar l. Claudius. ff. 
+      <lb ed="#P" n="4"/>qui po. in pigno. habe. in his potero reprehendi maxime a 
+      <lb ed="#P" n="5"/>viris nostre professionis ecclesiastice / quod mihi molestum non 
+      <lb ed="#P" n="6"/>erit: si votum suum melioribus rationibus firmauerint iuxta 
+      <lb ed="#P" n="7"/>ea quae diximus. supra. in c. i. in verbo validioribus de consti. Non 
+      <lb ed="#P" n="8"/>equidem alios erubui reprehendere: ideo iniquus 
+      essen<lb ed="#P" n="9" break="no"/>iudex si ab aliis reprehendi nollem vt in simili citat Decius 
+      <lb ed="#P" n="10"/>con. 419. col. ii. viso dixi in. c. nemo in fine de elec. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2835">
+                  <lb ed="#P" n="11"/>¶ Quod licet hic punctus satis abundeque discussus ad 
+      <lb ed="#P" n="12"/>huc tamen superest vnum dicendum concernens vnum iam tantum vt 
+      <lb ed="#P" n="13"/>delicet distributiones quotidianas sub fructum 
+      appella<lb ed="#P" n="14" break="no"/>tione non venire vt procedat minime quando prebende 
+      <lb ed="#P" n="15"/>non sunt distincte in ecclesia / quia bona veniunt in communi et 
+      <lb ed="#P" n="16"/>postea fit distributio singulariter tantum cuilibetiquia tunc 
+      ap<lb ed="#P" n="17" break="no"/>pellatione fructuum distributiones veniunt testis est Do. 
+      <lb ed="#P" n="18"/>in. c. praesentis. supra de officio ordi. refert Ludo. bolog. in addi. 
+      <lb ed="#P" n="19"/>con. Io. de anania. con. lxxxvii. col. ii. ratio subditur per eum 
+      <lb ed="#P" n="20"/>quia iste portiones que dantur in ecclesiis hoc modo: 
+      succe<lb ed="#P" n="21" break="no"/>dunt loco praebende / et iudicatur de eis sicut de praebenda non 
+      <lb ed="#P" n="22"/>inno. in. c. dilectus el. i supra hoc titu. et in. c. ex parte. supra de 
+      com<lb ed="#P" n="23" break="no"/>ces. praeben. et sic subrogatum sapit naturam illius in cuius 
+      lo<lb ed="#P" n="24" break="no"/>cum subrogatur l. si eum. §. qui iniuria rum. ff. si quis cautio. 
+      di<lb ed="#P" n="25" break="no"/>xi. supra. in d. c. nemo in ver. ex quo capite de elec. pone 
+      exem<lb ed="#P" n="26" break="no"/>plum in ecclesia Bituricem. vbi prebende non sunt distincte. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2872">
+                  <lb ed="#P" n="27"/>¶ Reliqua sunt adhuc tria. Primum est: quia supra recordati 
+      suf<lb ed="#P" n="28" break="no"/>mus quod in distributionibus quotidianis habet locum ius ad 
+      <lb ed="#P" n="29"/>crescendi: hoc tamenl atius discutiendo: dic non procedere 
+      <lb ed="#P" n="30"/>indistincte per ea que no. per Io. de imola in cle. ii. in fi. de eta. 
+      <lb ed="#P" n="31"/>quali. post glo. et scriben. ibi quia aut consuetudine / statuto / 
+      funi<lb ed="#P" n="32" break="no"/>datione vel alias cautum reperitur quod detur certum quid 
+      <lb ed="#P" n="33"/>cuilibet canonico interessenti tantummodo detur illud 
+      de<lb ed="#P" n="34" break="no"/>putatum / et non plus: hic enim sunt distincti non coiucti: ideo 
+      <lb ed="#P" n="35"/>non est locus iuri accrescendi per no. in l. re coiuncti de lega. 
+      <lb ed="#P" n="36"/>iii. facit quia huiusmodi distributiones a contractu dependent: in 
+      <lb ed="#P" n="37"/>cuius materia non est locus iuri accrescendi: hic est quod si testa 
+      <lb ed="#P" n="38"/>tor reliquerit cuilibet canonico interessenti tali die diuinis. 
+      <lb ed="#P" n="39"/>non per hoc crescet pars non interessantium / aliis 
+      interessen<lb ed="#P" n="40" break="no"/>tibus quia non interessentibus nil datum videtur. Ratio quod 
+      <lb ed="#P" n="41"/>ius accrescendi locum habet in parte data ex voluntate 
+      di<lb ed="#P" n="42" break="no"/>sponentis non in alia ex post facto facta quasi caduca vel 
+      pro<lb ed="#P" n="43" break="no"/>non scripta propter contrariam voluntatem disponentis l. i. C. 
+      <lb ed="#P" n="44"/>de cadu. tollen. Et hec pars non interessentium conuertetur in 
+      <lb ed="#P" n="45"/>vtilitatem eccclesie / cui sustractum est officium 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2916">
+                  <lb ed="#P" n="46"/>¶ Ant dicitur distributio fiat inter omnes interessentes 
+      di<lb ed="#P" n="47" break="no"/>uinis: tunc habet locum ius accrescendi et ita procedit glos. in 
+      <lb ed="#P" n="48"/>verbo pars dimidia in. d. cle. ii 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2925">
+                  <lb ed="#P" n="49"/>¶ Dic inter omnes / scilicet canonicos: quia substitutis loco ab 
+      <lb ed="#P" n="50"/>sentium nihil accrescit cum de iure communi non possit 
+      ca<lb ed="#P" n="51" break="no"/>nonicus per alium deseruire. c. conquerente. supra hoc titu. 
+      Pa<lb ed="#P" n="52" break="no"/>nor. in. c. peruenit el. ii. supra de appella. quod consuetudine 
+      compro<lb ed="#P" n="53" break="no"/>batur.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e2938">
+      ¶ Secundum reliquum est quia etiam supra late 
+      discu<lb ed="#P" n="54" break="no"/>sum. Reperitur et pro constanti habetur statuta non valere vt 
+      <lb ed="#P" n="55"/>distributiones non interessentibus diuinis dentur. Si tamen in. 
+      <lb ed="#P" n="56"/>liqua ecclesia fiat simile statutum per canonicos dempto 
+      vno<lb ed="#P" n="57" break="no"/>an possit ille solus impedire effectum statuti dic quod sic arg. l. 
+      <lb ed="#P" n="58"/>si quis rem. ff. de arbit. no. in simili Feli. in. c. cum ex officii. 
+      <lb ed="#P" n="59"/>col. ii. nu. iiii. supra de prescrip. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2954">
+                  <lb ed="#P" n="60"/>¶ Item (quod attendendum est) capitulum non postest 
+      dispen<lb ed="#P" n="61" break="no"/>sare super hoc / etiam si solum eius statuto hoc prohiberetur 
+      <lb ed="#P" n="62"/>et non iure communi per ea que diximus quod episcopus non 
+      dispi<lb ed="#P" n="63" break="no"/>sat contra suas constitutiones Inno. in. c. dilectus. supra de 
+      ten<lb ed="#P" n="64" break="no"/>po. ordi. ar. c. licet canon. supra de elec. quod procedit maxime secundum 
+      <lb ed="#P" n="65"/>Car. con. cxxx. in quadam ecclesia quando est ius alteri que 
+      <lb ed="#P" n="66"/>situm: sed in proposito est ius quaesitum canonicis diuiuis in 
+      <lb ed="#P" n="67"/>teressentibus: vt supra patet igitur habeo intentum / quod 
+      com<lb ed="#P" n="68" break="no"/>probat Latius ibi idem Car. subdens hoc procedere / nisi 
+      di<lb ed="#P" n="69" break="no"/>stributiones concederentur ad modicum tempus: quia 
+      tun<lb ed="#P" n="70" break="no"/>in mora modici temporis non est vis l. si debitori. ff. de 
+      iu<lb ed="#P" n="71" break="no"/>di.
+     </p>
+               <p xml:id="nqqq3t-d1e854-d1e2984">
+      ¶ Pro tertio et vltimo reliquo habes videre quod cita 
+      <lb ed="#P" n="72"/>Maria. Sozi. con. 89 col. ii. in causa agitata / licet distribi. 
+      <lb ed="#P" n="73"/>tiones percipere quotidianas conueniat capellano sicut et 
+      cano<lb ed="#P" n="74" break="no"/>nico: si tamen percipiat eas vt canonicus: constituitur in qua 
+      <lb ed="#P" n="75"/>si possessione canonicatus allegat. Bal. in l. non epistolis. 
+      <lb ed="#P" n="76"/>C. de probationibus. 
+    </p>
+               <p xml:id="nqqq3t-d1e854-d1e2997">
+                  <lb ed="#P" n="77"/>¶ Sed quid dicendum in casu: pone omnes fructus dantur 
+      <lb ed="#P" n="78"/>canonicis tanquam distributiones / et solis interessentibus adeo 
+      <lb ed="#P" n="79"/>quod nullum reperitur (vt ita dicam) grossum: quid faciet 
+      pri<lb ed="#P" n="80" break="no"/>nilegiatus vt suum exequatur indultum de fructibus 
+      percipi<lb ed="#P" n="81" break="no"/>endis in absentia profecto videtur quod priuilegium debeat 
+      <!--cod-gh333a-0620.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="82"/>de aliquo operari. c. licet cum ibi no. per doct. et ibi dico 
+      di<lb ed="#P" n="83" break="no"/>priuileg. i1na prout in simili late deducit Alex. consi. clxxxvii. 
+      <lb ed="#P" n="84"/>videretur: vol. v. de clausula absque tamen praeiudicio eorum 
+      <lb ed="#P" n="85"/>qui ab intestato succedunt / que licet videatur eneruare v. 
+      <lb ed="#P" n="86"/>res legitimationis tamen non facit vt ibi videre congruit quaestio 
+      <lb ed="#P" n="87"/>est dubitabilis et ardua: ideo cogita quia instat tempus 
+      ne<lb ed="#P" n="88" break="no"/>gocii proprii: quod si impresentiarum non occurrisset alia 
+      di<lb ed="#P" n="89" break="no"/>xissem in proposito sic subtilitatibus legistarum et plano 
+      sen<lb ed="#P" n="90" break="no"/>su canonistarum comprobato ex quibus sit bona compilatio. 
+      <lb ed="#P" n="91"/>Satis sit igitur lectori labor meus predictus tum pro 
+      la<lb ed="#P" n="92" break="no"/>boribus aleuandis tum pro aperienda via altius 
+      cogitan<lb ed="#P" n="93" break="no"/>di et inuestigandi. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

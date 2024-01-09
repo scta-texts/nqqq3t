@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 23</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 23</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="336-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e1258" type="et-sextus-l3t23"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e1258-Hd1e101">Titulus 23</head>
+            <div xml:id="nqqq3t-d1e1258-Dd1e103" type="et-sextus-l3t23-rubric"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1258-Hd1e106">Rubrica</head>
+               <p xml:id="nqqq3t-d1e1258-d1e108">
+                  <lb ed="#P" n="8" type="fixed=333-r"/>IMmunitatem. Adde que dicitur stricti in 
+      <lb ed="#P" n="9"/>ris id est contra vtilitatem publicam l. i. in 
+      fi<lb ed="#P" n="10" break="no"/>ne. ff. de iure immunita. cap. porro. supra de 
+      pri<lb ed="#P" n="11" break="no"/>uileg. glo. iii. in l. si ita sit scriptum de lega. 
+      <lb ed="#P" n="12"/>iii Alex. de Imol. consi. cxxv. nu. viii. viso 
+      ti<lb ed="#P" n="13" break="no"/>tulo / volu. ii. Et in dubio dicitur seu esse 
+      cense<lb ed="#P" n="14" break="no"/>tur personalis et non transire ad singulares. 
+      <lb ed="#P" n="15"/>successores vt late probat Iason in consi. lxxxix. col. ii. Spe. 
+      <lb ed="#P" n="16"/>ctabilis vol. iii. et sic concluditur quod est stricti iuris / vt ibi. 
+      <lb ed="#P" n="17"/>per eum. Probus. 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e1258-Dd1e133" type="et-sextus-l3t23-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1258-Hd1e136">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e1258-d1e138">
+                  <lb ed="#P" n="103" type="fixed=333-r"/>COllectas. Uide Petrum de Ancharano conssl. 
+      <lb ed="#P" n="104"/>xcvi. Super dicto dubio / et Decium latius 
+      con<lb ed="#P" n="105" break="no"/>silio. ccccxcvi. in causa domini ibi / latissime 
+      dico<lb ed="#P" n="106" break="no"/>et Iasonem in consilio. lxxxiii. dicta predia volus 
+      <lb ed="#P" n="107"/>mine tertio. Probus 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e1258-Dd1e152" type="et-sextus-l3t23-c2"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1258-Hd1e155">Capitulum 2</head>
+               <p xml:id="nqqq3t-d1e1258-d1e157">
+                  <lb ed="#P" n="16" type="fixed=334-r"/>GEneraliter. Uide quod in proposito cita 
+      <lb ed="#P" n="17"/>
+                  <name xml:id="nqqq3t-d1e1258-Nd1e163">Sozinus</name> consi. ccxc. col. fi. quoniam 
+      pre<lb ed="#P" n="18" break="no"/>sens consultatio / quod species 
+      compreho<lb ed="#P" n="19" break="no"/>ditur in oratione generali / et sic dicitur 
+      <lb ed="#P" n="20"/>expressa in genere licet non specifice. Et 
+      <lb ed="#P" n="21"/>illud quod in genere exprimitur dicitur 
+      <lb ed="#P" n="22"/>esse eiusdem effectus acsi in specie 
+      exprimi<lb ed="#P" n="23" break="no"/>retur glo. est notabilis in l. si quis mihi bona. §. iussum. ff. 
+      <lb ed="#P" n="24"/>de acquir. heredi. per quam ita voluit Bar. in l. sed et si quim 
+      <lb ed="#P" n="25"/>§. quesitum. ff. si quis cautio. probatur in l. si duo. ff. de 
+      ac<lb ed="#P" n="26" break="no"/>heredi. quod procedit nisi in materia correctoria 
+      require<lb ed="#P" n="27" break="no"/>ret aliquod expresse fieri Ang. in auten. de hered. et fal. in 
+      <lb ed="#P" n="28"/>§. si vero expressim. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e1258-d1e190">
+                  <lb ed="#P" n="29"/>¶ Seditionem. Dic secundum. Decium consi. cclvi. in prin. 
+      <lb ed="#P" n="30"/>in causa inquisitionis quod seditio fit concitando plebem 
+      te<lb ed="#P" n="31" break="no"/>citurque seditio quasi seorsum intuitio / quia in diuersos 
+      va<lb ed="#P" n="32" break="no"/>dunt et alios tradunt vt no. Domi. hic post Archid. et Ioan. 
+      <lb ed="#P" n="33"/>and. et archidi. in. c. seditionarios. xlvi. dist. 
+    </p>
+               <p xml:id="nqqq3t-d1e1258-d1e203">
+                  <lb ed="#P" n="34"/>¶ De seditione et tumultu habetur in l. prima infine. ff. ad 
+      <lb ed="#P" n="35"/>leg. iul. maie. in l. ii. C. de seditiosis et in l. si quis aliquid § 
+      <lb ed="#P" n="36"/>auctores. ff. de penis et in l. denunciamus. C. de his qui ad 
+      <lb ed="#P" n="37"/>eccle. confugi. Ad satietatem vide do. Ni. Boerii in trac. suo 
+      <lb ed="#P" n="38"/>de seditiosis et Iaso. in consi. clxvii. formate. vol. iiii. vbi col. 
+      <lb ed="#P" n="39"/>iiii. subdit descriptionem seditionis per hos versus 
+      Ma<lb ed="#P" n="40" break="no"/>ronis poete Mantuani in i. eneidos Ac veluti magno in 
+      <lb ed="#P" n="41"/>populo cum sepe coorta est Seditio: stetitque animis 
+      igno<lb ed="#P" n="42" break="no"/>bile vulgus samque faces et saxa volant: furor arma 
+      mini<lb ed="#P" n="43" break="no"/>strat. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e1258-d1e227">
+                  <lb ed="#P" n="44"/>¶ Contractibus. De natura quorum est quod sint transito 
+      <lb ed="#P" n="45"/>rii ad heredes licet non exprimatur l. si pactum. ff. de 
+      pro<lb ed="#P" n="46" break="no"/>batio l. veteris. C. de contrahen. stipula. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e1258-d1e237">
+                  <lb ed="#P" n="47"/>¶ Non sunt. Iuxta illud multa prohibentur fieri: facta 
+      tae<lb ed="#P" n="48" break="no"/>men tenent de quo per nos. supra. in. cap. primo de religio. 
+      do<lb ed="#P" n="49" break="no"/>mib. Probus. 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e1258-Dd1e247" type="et-sextus-l3t23-c3"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1258-Hd1e250">Capitulum 3</head>
+               <p xml:id="nqqq3t-d1e1258-d1e252">
+                  <lb ed="#P" n="74" type="fixed=334-v"/>LAicos. Uide que per hoc 
+      ve<lb ed="#P" n="75" break="no"/>rissimiliter presumntur per 
+      <lb ed="#P" n="76"/>Baspar apud consilia Petri 
+      <lb ed="#P" n="77"/>aec Ancha. consilio. xii. et 
+      se<lb ed="#P" n="78" break="no"/>uenti. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e1258-d1e265">
+                  <lb ed="#P" n="79"/>¶ Interest. Ulde que dico in 
+      <lb ed="#P" n="80"/>u. de sponsa. et matri. quibus 
+      <lb ed="#P" n="81"/>idde dictum Bald. in. c. intet 
+      <lb ed="#P" n="82"/>lecto sub nume. v. supra de iureli. 
+      <lb ed="#P" n="83"/>ran. quod honor regis auget 
+      <lb ed="#P" n="84"/>status regis magis potens et 
+      <lb ed="#P" n="85"/>magis honorabilis et magis timendus 
+    </p>
+               <p xml:id="nqqq3t-d1e1258-d1e283">
+                  <lb ed="#P" n="86"/>¶ In proposito no. Maria. Sozinus consi. xxxv. colum. 
+      pe<lb ed="#P" n="87" break="no"/>nul. circa presentem dum dicit interest reipublice 
+      locuple<lb ed="#P" n="88" break="no"/>tes habere subiectos insti. de his qui sunt sui vel alie iur. 
+      <lb ed="#P" n="89"/>in princ. Probus. 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e1258-Dd1e296" type="et-sextus-l3t23-c4"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1258-Hd1e299">Capitulum 4</head>
+               <p xml:id="nqqq3t-d1e1258-d1e301">
+                  <lb ed="#P" n="51" type="fixed=335-r"/>VUlgare. Dic vulgare quod et 
+      <lb ed="#P" n="52"/>manat a consuetudine sapientus 
+      <lb ed="#P" n="53"/>non insipientum rusticorum: sicur 
+      <lb ed="#P" n="54"/>communis vsus loquendi non 
+      su<lb ed="#P" n="55" break="no"/>mitur ex variis locutionibus 
+      im<lb ed="#P" n="56" break="no"/>peritorum: ratio quia si vulgare. 
+      <lb ed="#P" n="57"/>et communis vsus essent recept 
+      <lb ed="#P" n="58"/>a rusticis aut vilibus et 
+      omnin<lb ed="#P" n="59" break="no"/>idiotis personis: talis vsus 
+      loquen<lb ed="#P" n="60" break="no"/>si et vulgare non attenderetur 
+      com<lb ed="#P" n="61" break="no"/>tra propriam verborum 
+      significatio<lb ed="#P" n="62" break="no"/>nem et fiaturam. Quia iura sapientum deturpari non de 
+      <lb ed="#P" n="63"/>bent per ora rusticorum et idiotarum secundum Bald. in l. 
+      <lb ed="#P" n="64"/>ii. C. de suc. edic. et in c. i. de succes. feudi in quibus seu eorum 
+      <!--cod-gh333a-0802.xml-->
+      <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="65"/>sensu non cadit varietas nec veritas aut differentia 
+      vo<lb ed="#P" n="66" break="no"/>cabulorum testatur glo. in l. quid si nepotes. ff. de testa. 
+      tu<lb ed="#P" n="67" break="no"/>tella / tales enim locutiones rusticorum et imperitarum 
+      per<lb ed="#P" n="68" break="no"/>sonarum non sunt proprie sed abusiue / dicit text. in l. item 
+      <lb ed="#P" n="69"/>pretor. § primo. ff. de suis et legiti. heredi. et ita intelligitur in 
+      <lb ed="#P" n="70"/>l. ita vulneratus. §. i. ff. ad leg. aquil. et tex. in l. si dictum. §. 
+      <lb ed="#P" n="71"/>inf. ff. de euictio. ibi non ta men vt vulgus opinatur 
+      satisda<lb ed="#P" n="72" break="no"/>re debet. Nam verificandi sunt sermones secundum communem 
+      opo<lb ed="#P" n="73" break="no"/>nonem intellectum habentium Bal. in l. prima. C. de 
+      serui<lb ed="#P" n="74" break="no"/>fugi. per tex. in l. si ita quis in fine ibi quod vtique nemo 
+      sa<lb ed="#P" n="75" break="no"/>nus probauit. ff. de euictio. pro dicto Bal. facit tex. in. c. et 
+      <lb ed="#P" n="76"/>literis el primo. supra de spon. ibi. Et cogatur vterque verb a 
+      pro<lb ed="#P" n="77" break="no"/>lata in eo sensu retinere quem solent recte intelligentibus 
+      <lb ed="#P" n="78"/>generare. Ad talem enim insensatam vulgi opinionem et 
+      <lb ed="#P" n="79"/>assertionem / causari non debet communis vsus legendi: cum 
+      <lb ed="#P" n="80"/>de ipsa non sit curandum ar. eorum que no. in. c. ad nostram. 
+      <lb ed="#P" n="81"/>supra de proba. Sepe enim contingit qui magis indiscrete 
+      <lb ed="#P" n="82"/>et irrationabiliter loquitur inter fatuos magis acceptus 
+      <lb ed="#P" n="83"/>habeatur qui vt plurimum in maiori numero quam sapientes 
+      <lb ed="#P" n="84"/>existunt iuxta illud ecclesia i stultorum infinitus est 
+      nu<lb ed="#P" n="85" break="no"/>merus.
+     </p>
+               <p xml:id="nqqq3t-d1e1258-d1e384">
+      ¶ De materno autem et vulgari sermone vide 
+      <lb ed="#P" n="86"/>dicit Sozinus consilio. cclxvii. columna prima: presens 
+      con<lb ed="#P" n="87" break="no"/>sultatio. Probus 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e1258-Dd1e392" type="et-sextus-l3t23-c5"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1258-Hd1e395">Capitulum 5</head>
+               <p xml:id="nqqq3t-d1e1258-d1e397">
+                  <lb ed="#P" n="105" type="fixed=335-r"/>EOs. Adde videndum Petrum de Anchara. 
+      <lb ed="#P" n="106"/>consi. xi. Factum super quo petitur consilium 
+      <lb ed="#P" n="107"/>cui adde ea que citaui in cap. quia in versic. 
+      <lb ed="#P" n="108"/>et inquantum. supra diximus. supra de rescrip. Con. 
+      <lb ed="#P" n="109"/>tra que vide que no. in consi. xii. et seq. d. 
+      Pa<lb ed="#P" n="110" break="no"/>tri de Ancha. que sunt Gaspar. vide 
+      eunde<lb ed="#P" n="111" break="no"/>Petrum de Ancha. consi. ccccxxxiii. postque. et Lapum in 
+      a<lb ed="#P" n="112" break="no"/>lega. xcii. inspeximus. Probus
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

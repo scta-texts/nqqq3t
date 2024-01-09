@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 22</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 22</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="336-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e1237" type="et-sextus-l3t22"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e1237-Hd1e101">Titulus 22</head>
+            <div xml:id="nqqq3t-d1e1237-Dd1e103" type="et-sextus-l3t22-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1237-Hd1e106">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e1237-d1e108">
+                  <lb ed="#P" n="94" type="fixed=332-v"/>ENigmata. Pone exemplum 
+      <lb ed="#P" n="95"/>quod citat Iosephus in 
+      libro<lb ed="#P" n="96" break="no"/>antiqui. Cum Sansonius 
+      v<lb ed="#P" n="97" break="no"/>xor Philisteis reserasset 
+      eni<lb ed="#P" n="98" break="no"/>gma illud de leone et apum 
+      mel<lb ed="#P" n="99" break="no"/>lificatione quod illis 
+      sanson<lb ed="#P" n="100" break="no"/>proposuerat interpretandum 
+      <lb ed="#P" n="101"/>exclamasse Sansonem nihil 
+      <lb ed="#P" n="102"/>est dolosius femina: de cuius 
+      <lb ed="#P" n="103"/>dolo aliqua dixi supra in 
+      capi<lb ed="#P" n="104" break="no"/>tulo auaritie / de elect. in 
+      prin<lb ed="#P" n="105" break="no"/>scipio. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e1237-d1e137">
+                  <lb ed="#P" n="106"/>¶ Contra dic. Pro hoc vide que dixi in capitulo non 
+      po<lb ed="#P" n="107" break="no"/>test in fine vliime apostil. supra de prebend. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e1237-d1e144">
+                  <lb ed="#P" n="108"/>¶ Minuere. Uide glosam in simili in capitulo a nobis. vbi 
+      <lb ed="#P" n="109"/>doc. supra de deci. Sozinus consilio. ccxcvii. columna tertia in 
+      <lb ed="#P" n="110"/>versiculo quibus non obstantibus viso priuilegio. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

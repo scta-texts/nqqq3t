@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 6</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 6</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="295-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e915" type="et-sextus-l3t6"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e915-Hd1e101">Titulus 6</head>
+            <div xml:id="nqqq3t-d1e915-Dd1e103" type="et-sextus-l3t6-rubric"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e915-Hd1e106">Rubrica</head>
+               <p xml:id="nqqq3t-d1e915-d1e108">
+                  <lb ed="#P" n="82" type="fixed=292-r"/>IN factum. Dic quod institutionis 
+      appellatio<lb ed="#P" n="83" break="no"/>ne / etiam comprehenditur primaria 
+      dis<lb ed="#P" n="84" break="no"/>dositio priuati / et nondum superioris 
+      au<lb ed="#P" n="85" break="no"/>ctoritate approbata: tex. videtur in 
+      capi<lb ed="#P" n="86" break="no"/>tulo significatum de preben. supra nota 
+      <lb ed="#P" n="87"/>Anthonius de Butrio consilio quarto. 
+      <lb ed="#P" n="88"/>Philippus Probus 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e915-Dd1e127" type="et-sextus-l3t6-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e915-Hd1e130">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e915-d1e132">
+                  <lb ed="#P" n="131" type="fixed=292-r"/>CApitulum. Huius verbi plures et varias 
+      si<lb ed="#P" n="132" break="no"/>gnificationes ponit Ioannes And. in 
+      capi<lb ed="#P" n="133" break="no"/>tulo cauitulum in prin. supra de rescrip. et dat 
+      ver<lb ed="#P" n="134" break="no"/>sum. Disfinguit / minuit / locat / et collectio 
+      fer<lb ed="#P" n="135" break="no"/>tur. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e915-d1e145">
+                  <lb ed="#P" n="136"/>¶ Iure communi. Uide que dixi in capitule 
+      <lb ed="#P" n="137"/>cum in illis. supra de prebend. Probus
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

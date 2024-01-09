@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 15</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 15</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="322-v"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e1096" type="et-sextus-l3t15"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e1096-Hd1e101">Titulus 15</head>
+            <div xml:id="nqqq3t-d1e1096-Dd1e103" type="et-sextus-l3t15-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1096-Hd1e106">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e1096-d1e108">
+                  <lb ed="#P" n="19" type="fixed=321-v"/>Nod votum. Uide lapu allega. xlvii. 
+      <lb ed="#P" n="20"/>ol. penul. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e1096-d1e115">
+                  <lb ed="#P" n="21"/>¶ Manifestatione. Facit illud 
+      psab<lb ed="#P" n="22" break="no"/>quorum tecta sunt peccata beati 
+      di<lb ed="#P" n="23" break="no"/>cuntur. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e1096-d1e124">
+                  <lb ed="#P" n="24"/>¶ Dic contra. Pro concbrdia vide 
+      Io<lb ed="#P" n="25" break="no"/>in. Mona. in capi. primo de resig. do 
+      <lb ed="#P" n="26"/>imi. vbi optime distinguit. 
+    </p>
+               <p xml:id="nqqq3t-d1e1096-d1e133">
+                  <lb ed="#P" n="27"/>¶ Sed pro opinione Ioan. Mo. hic. 
+      <lb ed="#P" n="28"/>quod teneat matrimoniim 
+      <lb ed="#P" n="29"/>habens glo. singularem in ca. ad 
+      dis<lb ed="#P" n="30" break="no"/>soluendum in verbo irritum. supra de despo. impub. quam multum. 
+      <lb ed="#P" n="31"/>commendant docto. ibi / ad hoc quod matrimonium contractu 
+      <lb ed="#P" n="32"/>contra interdictum pape etiam cum clausula decreti 
+      irri<lb ed="#P" n="33" break="no"/>antis tenet mero iure / alio impedimento non supposito 
+      <lb ed="#P" n="34"/>quod firmat Rota in interdicto episcopi / deci. ccccl. in 
+      no<lb ed="#P" n="35" break="no"/>nis si pubes / vbi subdit quod fortius est matrimonium quam 
+      inten<lb ed="#P" n="36" break="no"/>dictum etiam pape. Et sic debilius superueniens non rupit 
+      ror<lb ed="#P" n="37" break="no"/>tius vinculum. c. si inter. supra de despon. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

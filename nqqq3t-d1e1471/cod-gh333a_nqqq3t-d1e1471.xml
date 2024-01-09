@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 6</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 6</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="379-r"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e1471" type="et-sextus-l5t6"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e1471-Hd1e101">Titulus 6</head>
+            <div xml:id="nqqq3t-d1e1471-Dd1e103" type="et-sextus-l5t6-rubric"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1471-Hd1e106">Rubrica</head>
+               <p xml:id="nqqq3t-d1e1471-d1e108">
+                  <lb ed="#P" n="91" type="fixed=378-v"/>PEccant. Uide que dico in capi. felicis. infra de 
+      <lb ed="#P" n="92"/>penis: et in. c. vno. circa finem. supra de vitae 
+      ho<lb ed="#P" n="93" break="no"/>nesta. cleri. vltra que habeo quod citat 
+      hi<lb ed="#P" n="94" break="no"/>larius papa in suis regulis / capite primo in 
+      <lb ed="#P" n="95"/>fine in tomo primo conciliorum 
+      generali<lb ed="#P" n="96" break="no"/>sum: ibi si quidem reatu maiore delinquit 
+      qui<lb ed="#P" n="97" break="no"/>potiori honore fruitur: et grauiora facit vitia suolimitas 
+      <lb ed="#P" n="98"/>dignitatum. Probus. 
+    </p>
+            </div>
+            <div xml:id="nqqq3t-d1e1471-Dd1e129" type="et-sextus-l5t6-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e1471-Hd1e132">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e1471-d1e134">
+                  <lb ed="#P" n="18" type="fixed=379-r"/>CUm ex eo. Adde in proposito 
+      the<lb ed="#P" n="19" break="no"/>natis rubri quomodo se 
+      deffen<lb ed="#P" n="20" break="no"/>sens puniatur in eo quod se 
+      desen<lb ed="#P" n="21" break="no"/>dendo modum excessit / per 
+      Nea<lb ed="#P" n="22" break="no"/>io. decisio. ccvi. penes et apud 
+      <lb ed="#P" n="23"/>acra / vbi dicunt quod solum puuitur 
+      <lb ed="#P" n="24"/>pro excessu vt comprobant per 
+      plura<lb ed="#P" n="25" break="no"/>qubiiciendoquo multum alleuiat 
+      pe<lb ed="#P" n="26" break="no"/>dam / quando quis fuit 
+      prouoca<lb ed="#P" n="27" break="no"/>tus et excessit modum in 
+      defenden<lb ed="#P" n="28" break="no"/>do: secundum luc. de pena in l. et 
+      <lb ed="#P" n="29"/>rat. de castre. pecu. milit. lib. xii. C. vide que tradit in 
+      propo<lb ed="#P" n="30" break="no"/>sito Alex. in con. cxl. videtur in casu. vol. ii. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

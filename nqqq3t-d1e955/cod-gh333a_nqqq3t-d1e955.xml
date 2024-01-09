@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 8</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 8</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="299-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e955" type="et-sextus-l3t8"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e955-Hd1e101">Titulus 8</head>
+            <div xml:id="nqqq3t-d1e955-Dd1e103" type="et-sextus-l3t8-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e955-Hd1e106">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e955-d1e108">
+                  <lb ed="#P" n="93" type="fixed=299-v"/>COnsilio Quod multiplex dicum 
+      <lb ed="#P" n="94"/>notat Domi. consil. ii. super 
+      pre<lb ed="#P" n="95" break="no"/>misso dubio. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e117">
+                  <lb ed="#P" n="96"/>¶ Comode. Udeque dixi inc. cum 
+      <lb ed="#P" n="97"/>ccclesiis. supra de praebe. Io. mo. in. c. 
+      <lb ed="#P" n="98"/>infra de heretic. in fine Iob. And. in 
+      <lb ed="#P" n="99"/>c. Romana col. iiii infra de 
+      senten<lb ed="#P" n="100" break="no"/>excommuni. dum dicit no posse / quid 
+      <lb ed="#P" n="101"/>potentia sit de genere 
+      bonori<lb ed="#P" n="102" break="no"/>secundum philosophum / et ob 
+      ha<lb ed="#P" n="103" break="no"/>llud possumus quod comode 
+      pos<lb ed="#P" n="104" break="no"/>sumus l. nepos proculo. ff. de ver. signin. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e139">
+                  <lb ed="#P" n="105"/>¶ Difficultas. In simili vide quod citat Domi. in 
+      consi<lb ed="#P" n="106" break="no"/>cvi. col. iii. super dicto dubio / quod vbi requiritur habilitatia 
+      <lb ed="#P" n="107"/>persone / vel approbatio superioris quo ad finem vt quis si 
+      <lb ed="#P" n="108"/>cite administret in beneficlis: non excusat difficultas 
+      obu<lb ed="#P" n="109" break="no"/>sendi habilitationem: vt possit administrare sine ila: vt 
+      pa<lb ed="#P" n="110" break="no"/>et de elec. c. qualiter et. c. auaritie et. c. que sit et. c. religiosus 
+      <lb ed="#P" n="111"/>hoc libro licet aliquo casu speclali secus. c. indenitatibus 
+      <lb ed="#P" n="112"/>et. c. nihil / eo. titulo. 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e159">
+                  <lb ed="#P" n="113"/>¶ Ulteriis in proposito attende quid dicendum in eo / qui 
+      <lb ed="#P" n="114"/>romisit facere et curare / quod titius actum aliquem ratum 
+      pe<lb ed="#P" n="115" break="no"/>bebit: et hoc cum adiectione pene in casum quod non feceiti s 
+      <lb ed="#P" n="116"/>fecerit quicquid potuit / an dicatur esse in mora. Breuita 
+      <lb ed="#P" n="117"/>vt paucis absoluam / dic quod non: moueor quia quando 
+      faci<lb ed="#P" n="118" break="no"/>est in obligatione indiitincte: difficultas impedit mora 
+      <lb ed="#P" n="119"/>si vehenda. §. penul. ff. ad leg. Rhod. de iact. et in l. i. §. 
+      iu<lb ed="#P" n="120" break="no"/>bet / versi. si frater de colla. bono. et sic si non sit in mora: per 
+      <lb ed="#P" n="121"/>na non committitur iuribus vulga. Pro hoc habeo in 
+      ara<lb ed="#P" n="122" break="no"/>ea que not. per glos. in capitulo ex literis el. ii. et in capitula 
+      <lb ed="#P" n="123"/>sicut. supra de sponsa. 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e186">
+                  <lb ed="#P" n="124"/>¶ Ex quibus resultat / quod promittens aliquid facere cum 
+      sli<lb ed="#P" n="125" break="no"/>ramento: vt quod Berta contrahet matrimonium cum Titi 
+      <lb ed="#P" n="126"/>euitat periurium si facit quod potest: firmat Panor. in 
+      ca<lb ed="#P" n="127" break="no"/>gemma / col. iii. versi. ad vnum singul. aduerte. supra de 
+      sponsa<lb ed="#P" n="128" break="no"/>vbi infert quod eodem modo debet eustare pene commissioni 
+      <lb ed="#P" n="129"/>per. c. significante. supra de pignor. et Panor. in. c. significanm 
+      <lb ed="#P" n="130"/>bus in fine de offi. delega. proquibus habemus Bar. inc 
+      <lb ed="#P" n="131"/>sillo. ccxxxvi. Martinus promissit: vbi dicit quod si quis 
+      prom<lb ed="#P" n="132" break="no"/>sit se facturum et curaturum quod Berta contraheret 
+      matri<lb ed="#P" n="133" break="no"/>monium cum quodam Titio / et hoc sub certa pena / quod si 
+      fi<lb ed="#P" n="134" break="no"/>cit quicquid potuit licet matrimonium non habuerit 
+      locum<lb ed="#P" n="135" break="no"/>excusatur a pena propter difficuitatem. d. l. vehenda. §. 
+      pe<lb ed="#P" n="136" break="no"/>anc opinionem sequitur et approbat tanque communem / Ara 
+      <lb ed="#P" n="137"/>y. consilio. ccxiii. col. tertia / versicuio venio igitur ad 
+      pri<lb ed="#P" n="138" break="no"/>mum / quod incipit ex facto proponitur: vbi subdit quod no 
+      cfe<lb ed="#P" n="139" break="no"/>sit plus operari si adiiciatur verbum cum effectu: sicut a 
+      <lb ed="#P" n="140"/>die communiter adiici solet / quia illud verbum importat quo 
+      <lb ed="#P" n="141"/>non simulate sed vere / et bona fide quantum in eo 
+      curabi<lb ed="#P" n="142" break="no"/>cum omni diligentia: non autem videtur obligare 
+      promibu<lb ed="#P" n="143" break="no"/>tentem ad impossibile: hanc etiam ratetur in practica obso 
+      <lb ed="#P" n="144"/>uari debere Decius consilio. cccxiii. promisit dominus 
+      I<lb ed="#P" n="145" break="no"/>an nes / vbi peroptime hanc discutit respondendo motiuiss 
+      <lb ed="#P" n="146"/>que pro parte contraria adduci possunt: dicens quod contra 
+      <lb ed="#P" n="147"/>isrud venire est contra stimuium caicitrare / ex quo comi¬ 
+      <!--cod-gh333a-0732.xml-->
+      <pb ed="#P" n="300-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>munis opinio est in contrarium: a qua ini practica non est 
+      <lb ed="#P" n="2"/>recedendum 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e251">
+                  <lb ed="#P" n="3"/>¶ Intentum nostrum firmat idem Decius con. cccxxiii. ci. 
+      <lb ed="#P" n="4"/>sit quod nobis vir karolus: vbi videtur ad premissa dare 
+      ant<lb ed="#P" n="5" break="no"/>dotum: dum dicit quod si titius mihi donat rem alienam: et 
+      promist<lb ed="#P" n="6" break="no"/>tit me conseruare indemnem ab omni lite et controuersia: nonv. 
+      <lb ed="#P" n="7"/>detur dubitandum quod quocumque modo res euincatur obligatur 
+      <lb ed="#P" n="8"/>titius ad interesse l. stipulatio ista. §. quesitum. ff. de 
+      ver<lb ed="#P" n="9" break="no"/>bo. obliga. ideo si verba obligationis concipiantur quod in 
+      om<lb ed="#P" n="10" break="no"/>nem euentum teneantur ad penam vel interesse: ille qui hoc 
+      <lb ed="#P" n="11"/>promittit / ita quod nullo modo excusetur / dato quod fecisset quio 
+      <lb ed="#P" n="12"/>quid potuisset tenetur: prout id comprobat Decius. d. 
+      con<lb ed="#P" n="13" break="no"/>cccxxiii. versi. secundo quod taliter auctoritate multorum 
+      do<lb ed="#P" n="14" break="no"/>ctorum quos referre laboriosum esset: vide Sozi con. cclxxx. 
+      <lb ed="#P" n="15"/>viii. col. antepenul. in ver. aliquando promissio / 
+      circapriman<lb ed="#P" n="16" break="no"/>vbi in puncto facit distinctionem quod aliquando promissio 
+      <lb ed="#P" n="17"/>facti sui natura non est difficilis sed difficultas 
+      superue<lb ed="#P" n="18" break="no"/>nit: et tunc difficultas excusat a mora / etsic a pena¬ 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e288">
+                  <lb ed="#P" n="19"/>¶ Aliquado promissio facti: sui natura a principio est. valde 
+      <lb ed="#P" n="20"/>difficilis / et tunc videtur quis adtalem rem difficilem 
+      vo<lb ed="#P" n="21" break="no"/>luisse se obligare: et per consequens difficultas non debe. 
+      <lb ed="#P" n="22"/>excusare: quia imputet sibi qui ad talem rem se obligauit: vt 
+      <lb ed="#P" n="23"/>in reg. damnum. ff. de regu. iur. quod probatur in l. ii. ff. si quis: 
+      <lb ed="#P" n="24"/>cautio. dum ibi concluditur quod si: quis ex post facto arctauit 
+      <lb ed="#P" n="25"/>se ad rem impossibilem: debet sibi imputare: ita quando a 
+      <lb ed="#P" n="26"/>principio se obligauit ad rem quam sui natura 
+      cognosce<lb ed="#P" n="27" break="no"/>bat difficilem: quia tunc difficultas non excusat / et hec est 
+      <lb ed="#P" n="28"/>probabilis et naturalis distinctio: quoniam ex quo promissie. 
+      <lb ed="#P" n="29"/>apparebat a principio multum difficilis: hoc euenire 
+      pos<lb ed="#P" n="30" break="no"/>se prospicere debuit prout dicit tex. in l. si quis domum. § habe. 
+      <lb ed="#P" n="31"/>re subiungi. ff. loca. ibi hoc euenire posse prospicere debet. 
+      <lb ed="#P" n="32"/>facit tex. in l. si ab arbitr. ff. qui satisda. cogan. cum ibi no. Et 
+      <lb ed="#P" n="33"/>ideo Io. de imol. in l. continuus. ff. de verb. obliga. in. §. il 
+      <lb ed="#P" n="34"/>lud quod debitor speciei excusatur a mora propter difficum 
+      <lb ed="#P" n="35"/>tatem: quando tanta esset difficultas / que similis esset quo 
+      <lb ed="#P" n="36"/>dammodo casui fortuito: alias secus argu. l. serui in 
+      prin<lb ed="#P" n="37" break="no"/>ci. in ver. sed si alienus. ff. de verb. obliga. vbi in emendo 
+      sen<lb ed="#P" n="38" break="no"/>uum alienum: potest mora committi / et debet intelligi siue 
+      <lb ed="#P" n="39"/>dominus vellet vendere siue non: cum indistincte 
+      loqua<lb ed="#P" n="40" break="no"/>tur. Probus. 
+    </p>
+               <p xml:id="nqqq3t-d1e955-d1e338">
+                  <lb ed="#P" n="41"/>¶ Societatem. Faclt id quod communiter dicitur: quod in 
+      ha<lb ed="#P" n="42" break="no"/>bentibus symbolum vel conuenientiam: facilior est 
+      transi<lb ed="#P" n="43" break="no"/>tus Io. mo. in. c. veniens de ver. signi. Sic in minus 
+      diffe<lb ed="#P" n="44" break="no"/>rentibus: est facilior transitus de vno ad aliud idem Ioan. 
+      <lb ed="#P" n="45"/>mo. in. c. in generali de reg. iur. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

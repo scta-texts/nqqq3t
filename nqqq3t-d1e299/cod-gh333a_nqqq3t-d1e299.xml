@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 12</title>
+            <author ref="#per-nbhytr">Philippus Probus</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 12</title>
+               <date when="2024-01-09">January 09, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="138-v"/>
+            <cb ed="#P" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nqqq3t-d1e299" type="et-sextus-l1t12"><!-- pro-l5t12"
+              -->
+            <head xml:id="nqqq3t-d1e299-Hd1e101">Titulus 12</head>
+            <div xml:id="nqqq3t-d1e299-Dd1e103" type="et-sextus-l1t12-c1"><!-- pro-l5t12" -->
+               <head xml:id="nqqq3t-d1e299-Hd1e106">Capitulum 1</head>
+               <p xml:id="nqqq3t-d1e299-d1e108">
+                  <lb ed="#P" n="131" type="fixed=138-v"/>Intelligo / ddde olo sbisicinteligr. 
+      <lb ed="#P" n="132"/>relquam sequuntur &amp;rcbi. lomi. t 
+      vr<lb ed="#P" n="133" break="no"/>P. qui subdunt quod talis 
+      excommunt<lb ed="#P" n="134" break="no"/>cari debet vsoreauo eam dimttat i 
+      <lb ed="#P" n="135"/>intellectum etiam o. mo bicseqnui. 
+      <lb ed="#P" n="136"/>tur Archi. Io. And. Domi. et Petr. 1. 
+      <lb ed="#P" n="137"/>Aincba. et dec verior secundii decis 
+      <lb ed="#P" n="138"/>liua: in summa tamen bonaguida dicitur 
+      <lb ed="#P" n="139"/>quod sacerdos qui contraxit cum 
+      vi<lb ed="#P" n="140" break="no"/>dua / nel duo mattimonia successiue / et postea commnt 
+      de<lb ed="#P" n="141" break="no"/>nicidium poteric punini pr iudicaem slecularem per tex. 
+      noltfiidi<lb ed="#P" n="142" break="no"/>indistincte loquitur de digamis / quod olacet da. de chulit 
+      <!--cod-gh333a-0402.xml-->
+      <pb ed="#P" n="139-r"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>inconsue. Burgun. in titu. des iustices / versi. xiii. fallit. in. §. v. 
+      <lb ed="#P" n="2"/>aui non astipulor: sed communi. Cum talis solum dicatur 
+      biga<lb ed="#P" n="3" break="no"/>mus quo ad quid: scilicet executionem officii / non vt 
+      per<lb ed="#P" n="4" break="no"/>dat priuilegium clericale: vt hic. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e299-d1e152">
+                  <lb ed="#P" n="5"/>¶ Corrupta. Uide que late tradit Petr. de Ancha. 
+      consi<lb ed="#P" n="6" break="no"/>cxxiiii. Circa bigamos: et Montaigne in suo trac. de 
+      biga<lb ed="#P" n="7" break="no"/>mis / Tamgam in praxi in trac. de mand. apostolic. Probus 
+    </p>
+               <p xml:id="nqqq3t-d1e299-d1e161">
+                  <lb ed="#P" n="8"/>¶ Mirum. Et admirabile et pauendum: vt in simili dicit glo. 
+      <lb ed="#P" n="9"/>pragma. in titu. de colla. in. §. cui rei. in versi. mirum. Probus. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
