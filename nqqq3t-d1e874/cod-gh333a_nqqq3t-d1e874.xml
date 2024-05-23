@@ -11612,7 +11612,7 @@
             <div xml:id="nqqq3t-d1e874-Dd1e23544" type="et-sextus-l3t4-c30"><!-- pro-l5t12" -->
                <head xml:id="nqqq3t-d1e874-Hd1e23547">Capitulum 30</head>
                <p xml:id="nqqq3t-d1e874-d1e23549">
-                  <lb ed="#P" n="103" type="fixed=286-r"/>SI pauper. Dic quod quis variis modis dicitur 
+                  <lb ed="#P" n="103" type="fixed=286-r"/><quote xml:id="nqqq3t-d1e874-Qgyt67t" source="http://scta.info/resource/nyf6td-d1e874-d1e3279@1-2">SI pauper</quote>. Dic quod quis variis modis dicitur 
       <lb ed="#P" n="104"/>pauper not. Alex. con. xxxvii. consultus 
       sum<lb ed="#P" n="105" break="no"/>vol. vii. vbi etiam tractat de modo probandi. 
       <lb ed="#P" n="106"/>paupertatem. Et que sit differentia inter 
@@ -11645,20 +11645,20 @@
       ma<lb ed="#P" n="129" break="no"/>gistratus. ff. de magistra. conue. Probus 
     </p>
                <p xml:id="nqqq3t-d1e874-d1e23615">
-                  <lb ed="#P" n="130"/>¶ Debeo beneficiari. Glos. hic dicit hoc iustum fore / vide 
+                  <lb ed="#P" n="130"/>¶ <quote xml:id="nqqq3t-d1e874-Qwswusy" source="http://scta.info/resource/nyf6td-d1e874-d1e3312@9-10">Debeo beneficiari.</quote> Glos. hic dicit hoc iustum fore / vide 
       <lb ed="#P" n="131"/>pro hoc tex. in. c. nullus / et ibi gl. lxi. di. hinc dicit ibi prepo. 
-      <lb ed="#P" n="132"/>col. secunda quod dignitates et personatus de 
-      consuetudiue<lb ed="#P" n="133" break="no"/>regni Francie non conferuntur extraneis: subdens vnum 
+      <lb ed="#P" n="132"/>col. secunda quod dignitates et personatus de consuetudine
+                  <lb ed="#P" n="133"/>regni Francie non conferuntur extraneis: subdens vnum 
       <lb ed="#P" n="134"/>in proposito Aureolus Tholo. in addi. Guil. in. c. si pluribus 
       <lb ed="#P" n="135"/>hoc ti. et lib. subdit quod melior ecclesia non dicitur illa que est 
       <lb ed="#P" n="136"/>maioris valoris: sed illa que melior videtur impetranti: 
-      ra<lb ed="#P" n="137" break="no"/>tio quia licet sit maioris valoris: tamen non est tante aute 
-      <lb ed="#P" n="138"/>ritatis vel dignitatis / vel tanti priuilegii: vel illa que est 
+      ra<lb ed="#P" n="137" break="no"/>tio quia licet sit maioris valoris: tamen non est tante 
+                  auto<lb ed="#P" n="138" break="no"/>ritatis vel dignitatis / vel tanti priuilegii: vel illa que est 
       mi<lb ed="#P" n="139" break="no"/>noris valoris est in vico impetrantis: cui melius et fructuo / 
       <lb ed="#P" n="140"/>sius poterit deseruire. Probus. 
     </p>
                <p xml:id="nqqq3t-d1e874-d1e23642">
-                  <lb ed="#P" n="141"/>¶ Quia iustitia. Istud expediuimus late. supra. in. c. gratia de 
+                  <lb ed="#P" n="141"/>¶ <quote xml:id="nqqq3t-d1e874-Qcc8cc7" source="http://scta.info/resource/nyf6td-d1e874-d1e3326@3-4">Quia iustitia</quote>. Istud expediuimus late. supra. in. c. gratia de 
       <lb ed="#P" n="142"/>res. quibus adde quod iustitia est virtus confortatiua et 
       corro<lb ed="#P" n="143" break="no"/>boratiua / que sui splendore reges et regias sedes 
       magnifi<lb ed="#P" n="144" break="no"/>cat: quibus dictum est Sapien. primo: Diligite iustitiam qui 
