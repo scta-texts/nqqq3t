@@ -67,7 +67,7 @@
       <lb ed="#P" n="59"/>dubium. col. 6. C. delegi. Prob. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e126">
-                  <lb ed="#P" n="60"/>¶ Honesta. que videtur 
+                  <lb ed="#P" n="60"/>¶ <quote xml:id="nqqq3t-d1e158-Quu558x" source="http://scta.info/resource/nyf6td-d1e158-d1e143@21-21">Honesta.</quote> que videtur 
       mul<lb ed="#P" n="61" break="no"/>totiens iacere in modo 
       pro<lb ed="#P" n="62" break="no"/>ferendi verba que licet sint de 
       <lb ed="#P" n="63"/>sui natura honesta / tamen per 
@@ -88,14 +88,14 @@
       <lb ed="#P" n="78"/>Bar. ibi. Probus. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e170">
-                  <lb ed="#P" n="79"/>¶ Nihil relinquens. hoc procedit in monacho / ratione 
+                  <lb ed="#P" n="79"/>¶ <quote xml:id="nqqq3t-d1e158-Qbhu78a" source="http://scta.info/resource/nyf6td-d1e158-d1e143@136-137">Nihil relinquens.</quote> hoc procedit in monacho / ratione 
       cum<lb ed="#P" n="80" break="no"/>ius dicitur stricti iuris / dixi in ca. statutum. supra de rescri. in 
       <!--cod-gh333a-0237.xml-->
       <cb ed="#P" n="b"/>
                   <lb ed="#P" n="81"/>additio vel monacho. Probus. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e183">
-                  <lb ed="#P" n="82"/>¶ Carnale. licet argu. de matrimonio carnali ad spirituala 
+                  <lb ed="#P" n="82"/>¶ <quote xml:id="nqqq3t-d1e158-Qddd88a" source="http://scta.info/resource/nyf6td-d1e158-d1e232@4-4">Carnale.</quote> licet argu. de matrimonio carnali ad spirituala 
       <lb ed="#P" n="83"/>dicatur in iure validum tamen dico quod matrimonium 
       spiritur<lb ed="#P" n="84" break="no"/>le est quasi artificiatum respectu matrimonii carnalis Io. 
       <lb ed="#P" n="85"/>mo. in. c. primo. de despon. impub. infra. Probus 
@@ -157,8 +157,8 @@
                   <lb ed="#P" n="128"/>¶ Annullum portat. secundum Io. And. in. c. clerici. col. ii. 
       <lb ed="#P" n="129"/>supra de vita et honestate cleri. in quarto digito portat vt scian 
       <lb ed="#P" n="130"/>se seruitutem ecclesie debere / corde et animo. fertur enim 
-      <lb ed="#P" n="131"/>ipso digito vena esse que a corde procedit. xxx. q. quinta 
-      <lb ed="#P" n="132"/>femine. refert preterea Hely. renier infra de priuileg. in. c. vt 
+      <lb ed="#P" n="131"/>ipso digito vena esse que a corde procedit. <ref xml:id="nqqq3t-d1e158-Rccha7a" target="http://scta.info/resource/gd-p2c30q5-d1e212">xxx. q. quinta 
+      <lb ed="#P" n="132"/>femine.</ref> refert preterea Hely. renier infra de priuileg. in. c. vt 
       <lb ed="#P" n="133"/>apostolice. Io. and. dicere quod clericus annullatus / aut est 
       <lb ed="#P" n="134"/>episcopus aut fatuus 
     </p>
@@ -180,7 +180,7 @@
             <div xml:id="nqqq3t-d1e158-Dd1e345" type="et-sextus-l1t5-c1"><!-- pro-l5t12" -->
                <head xml:id="nqqq3t-d1e158-Hd1e348">Capitulum 1</head>
                <p xml:id="nqqq3t-d1e158-d1e350">
-                  <lb ed="#P" n="117" type="fixed=57-r"/>GErundia. secundum Bal in l. 
+                  <lb ed="#P" n="117" type="fixed=57-r"/><quote xml:id="nqqq3t-d1e158-Rrtyu5y" source="http://scta.info/resource/nyf6td-d1e158-d1e371@55-55">GErundia.</quote> secundum Bal in l. 
       <lb ed="#P" n="118"/>falsus. coi. iii. C. de furtis. 
       Ge<lb ed="#P" n="119" break="no"/>rundia dicuntur quia 
       gert<lb ed="#P" n="120" break="no"/>vim verbi id est sumunt vel trans 
@@ -290,8 +290,8 @@
     </p>
                <p xml:id="nqqq3t-d1e158-d1e569">
                   <lb ed="#P" n="63"/>¶ Facit ad praemissa: quia regulariter nullus sustinere 
-      per<lb ed="#P" n="64" break="no"/>sona plurium potest. glo. et doc. in ca. ex literis. supra de 
-      probatio<lb ed="#P" n="65" break="no"/>tex. in. c. singula 89 dist. Et ideo concludunt doc. in d. c. 
+      per<lb ed="#P" n="64" break="no"/>sona plurium potest. glo. et doc. in ca. ex literis. supra de probatio.
+                  <lb ed="#P" n="65"/>tex. in. <ref xml:id="nqqq3t-d1e158-Rvvv88a target="http://scta.info/resource/gd-p1d89-d1e123">c. singula 89 dist.</ref> Et ideo concludunt doc. in d. c. 
       vl<lb ed="#P" n="66" break="no"/>timo / post glo. ibi: quod prelatus non potest dare potestatem a 
       <lb ed="#P" n="67"/>licui vicario suo quod possit sibi conferre beneficia: cum 
       vicari<lb ed="#P" n="68" break="no"/>us / et prelatus sint eadem persona: quo ad huiusmodi actum 
@@ -308,10 +308,10 @@
       <lb ed="#P" n="79"/>ministerio tamen substituentis: et vigore specialis mandati sibi 
       su<lb ed="#P" n="80" break="no"/>per hoc facti: quod si non habuisset: substitutio minime 
       valuis<lb ed="#P" n="81" break="no"/>set: latius insistam in sequentibus 
-      <!--cod-gh333a-0239.xml-->
-      <cb ed="#P" n="b"/>
                </p>
                <p xml:id="nqqq3t-d1e158-d1e617">
+                  <!--cod-gh333a-0239.xml-->
+                  <cb ed="#P" n="b"/>
                   <lb ed="#P" n="82"/>¶ Quod vt prosequar. Pone Prelatus optat sibi a suo vt 
       <lb ed="#P" n="83"/>cario beneficia conferri quod tamen non valet lege 
       commun<lb ed="#P" n="84" break="no"/>quid igitur faciendum: cum audent talia fures. dic: quod obte 
@@ -344,21 +344,21 @@
       edifni<lb ed="#P" n="105" break="no"/>ciorum. hmol intendere / et alia onera sibi incumbentia 
       sux<lb ed="#P" n="106" break="no"/>portare commode nequiret: quodque monasterium ipsum in 
       <lb ed="#P" n="107"/>capite et elus membris magnam patitur ruinam nisi 
-      super<lb ed="#P" n="108" break="no"/>hoc de remedio prouideatur oportunc 
+      super<lb ed="#P" n="108" break="no"/>hoc de remedio prouideatur oportuno. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e687">
                   <lb ed="#P" n="109"/>¶ Nos itaquequi vt asseris in decretis cum rigore examnis 
-      <lb ed="#P" n="110"/>licen. fuistis / ac charissimi in christo fisii nostri Charoli 
+      <lb ed="#P" n="110"/>licen. fuistis / ac charissimi in christo filii nostri Charoli 
       Fra<lb ed="#P" n="111" break="no"/>corum regis illustris consillarius ac de nobili genere ex vtro 
       <lb ed="#P" n="112"/>que parente procreatus existis vt commodius sustentari 
-      <lb ed="#P" n="113"/>et circa reparationes easdem intendere ac onera huiumod 
+      <lb ed="#P" n="113"/>et circa reparationes easdem intendere ac onera huiumodi 
       <lb ed="#P" n="114"/>supportare valeas de alicuius subuentionis auxillo 
       proui<lb ed="#P" n="115" break="no"/>dere volentes / tuis in hac parte supplicationibus 
       inclina<lb ed="#P" n="116" break="no"/>ti tecum vt quecunque prioratum cum cura / vel sine cura: 
       <lb ed="#P" n="117"/>monachos dicti monasterii gubernari solitum dependem 
       <lb ed="#P" n="118"/>ad tuam pro tempore existen. Abbatum necnon dilector 
-      <lb ed="#P" n="119"/>in christo filiorum conuentus dicti monasterii collationem / pr 
-      <lb ed="#P" n="120"/>uisionem / presentatione / seu quamuis aliam dispositione 
+      <lb ed="#P" n="119"/>in christo filiorum conuentus dicti monasterii collationem / 
+                  pro<lb ed="#P" n="120" break="no"/>uisionem / presentatione / seu quamuis aliam dispositione 
       <lb ed="#P" n="121"/>communiter vel diuisim pertinen. Et etiam si conuentus 
       <lb ed="#P" n="122"/>lis et cuiuscunque taxe seu valoris annui existat. Et ad illum 
       <lb ed="#P" n="123"/>consueuerit quis per electionem assumi ibique cura immine 
@@ -391,7 +391,7 @@
       <lb ed="#P" n="147"/>tibi commendandi licentiam / et facultatem concedimus / pere 
       <lb ed="#P" n="148"/>presentes. Non obsta. etc. Et attende quod huiusmodi induiti 
       <lb ed="#P" n="149"/>dicitur priuilegium: quia contra iuris communis 
-      dispositia<lb ed="#P" n="150" break="no"/>nem vt patet ex notatis in cle. ii. de offi. ordina. et in. c. cum 
+      dispositia<lb ed="#P" n="150" break="no"/>nem vt patet ex notatis in <ref xml:id="nqqq3t-d1e158-Rcia8ua" target="http://scta.info/resource/kdhaWs-d1e160"><!-- target imprecise -->cle. ii. de offi. ordina.</ref> et in. <ref xml:id="nqqq3t-d1e158-Rddjjax">c. cum 
       <lb ed="#P" n="151"/>ab ecclesiarum prelatis. supra de offi. ordina. Ita dicit Sozi. 
       <lb ed="#P" n="152"/>nus con. cclx. col. prima. in causa Nanneten. vol. i. 
     </p>
@@ -401,15 +401,15 @@
       So<lb ed="#P" n="155" break="no"/>zinus vbi supra col. vii. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e797">
-                  <lb ed="#P" n="156"/>¶ Et pro hoc indulto vide Do. et preceptorem meum 
-      Po<lb ed="#P" n="157" break="no"/>de Ripa. ii. libro. respon. c. xxiii. Iulius papa. 
+                  <lb ed="#P" n="156"/>¶ Et pro hoc indulto vide Do. et preceptorem meum Do. 
+                  <lb ed="#P" n="157" break="no"/>de Ripa. ii. libro. respon. c. xxiii. Iulius papa. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e804">
                   <lb ed="#P" n="158"/>¶ Unum tamen audio quod curie supme perlametorum huius regni non 
       <lb ed="#P" n="159"/>admittunt hec indulta tanque vitra modum abitiosa / et 
       vo<lb ed="#P" n="160" break="no"/>tum captande mortis denotan. quod eqtati consonum video / nin 
-      <lb ed="#P" n="161"/>subsit causa prout in descripta forma / aut / alia rationalis. vi 
-      <lb ed="#P" n="162"/>det eim domin de pariamentis palatos lanarum omnim voraces 
+      <lb ed="#P" n="161"/>subsit causa prout in descripta forma / aut / alia rationalis. 
+                  vi<lb ed="#P" n="162" break="no"/>det eim domin de pariamentis palatos lanarum omnim voraces 
       <!--cod-gh333a-0240.xml-->
       <pb ed="#P" n="58-r"/>
                   <cb ed="#P" n="a"/>
@@ -436,8 +436,8 @@
       <lb ed="#P" n="17"/>hanc in eius vicariatur 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e867">
-                  <lb ed="#P" n="18"/>¶ Et cum potestate conferendi beneficia (alias illa non post 
-      <lb ed="#P" n="19"/>set conferre. c. fi infra de offi. vicar. Sozi. con. cclx. col. pe. Cu. 
+                  <lb ed="#P" n="18"/>¶ Et cum potestate conferendi beneficia (alias illa non 
+                  pos<lb ed="#P" n="19" break="no"/>set conferre. <ref xml:id="nqqq3t-d1e158-Rccii2p" target="http://scta.info/resource/wef6td-d1e319-d1e190">c. fi infra de offi. vicar.</ref> Sozi. con. cclx. col. pe. Cu. 
       <lb ed="#P" n="20"/>adde ea que voluit do. Brunellus in trac. de po. lega. 
       con<lb ed="#P" n="21" break="no"/>clu. xx. versi. Sexto ampliatur) et alium sui loco 
       substituen<lb ed="#P" n="22" break="no"/>di qui similem in premissis habeat potestatem. Et tunc 
@@ -453,16 +453,16 @@
       so<lb ed="#P" n="32" break="no"/>let: quod fit ab his qui habet auctoritatem a concilio vident 
       <lb ed="#P" n="33"/>facta a concilio quod latissime comprobo in tracta. de 
       ma<lb ed="#P" n="34" break="no"/>da. apostolicis in questione quomodo debeat fieri 
-      manda<lb ed="#P" n="35" break="no"/>torum insinuatio¬ 
+      manda<lb ed="#P" n="35" break="no"/>torum insinuatio.
     </p>
                <p xml:id="nqqq3t-d1e158-d1e909">
                   <lb ed="#P" n="36"/>¶ Et ad propositum domi. in. c. si gratiose. col. ii. supra de res. 
       <lb ed="#P" n="37"/>dicit: quod per mortem procuratoris substituentis non 
       expi<lb ed="#P" n="38" break="no"/>rat potestas substituti. Rota dici. 4i4. in no. vbi dat restu. 
-      <lb ed="#P" n="39"/>ctionem videlicet si nomine domini substituerit. Secus s 
+      <lb ed="#P" n="39"/>ctionem videlicet si nomine domini substituerit. Secus si 
       <lb ed="#P" n="40"/>ab eo vt domino litis facta foret substitutio. quod non 
-      vi<lb ed="#P" n="41" break="no"/>detur placere per ea que tradit Iason in con. cxxxviii. R 
-      <lb ed="#P" n="42"/>uocatur in dubium: vbi probat per plura quod quando quis est 
+      vi<lb ed="#P" n="41" break="no"/>detur placere per ea que tradit Iason in con. cxxxviii. 
+      Re<lb ed="#P" n="42" break="no"/>uocatur in dubium: vbi probat per plura quod quando quis est 
       <lb ed="#P" n="43"/>effectus dominus litis per litiscontestationem eius 
       pote<lb ed="#P" n="44" break="no"/>stas expirat si principalis dominus sine herede decesseri 
       <lb ed="#P" n="45"/>quod habet locum in beneficiato cui nemo succedere 
@@ -476,25 +476,25 @@
       ¶ Et pro premissis vide rotam in no. deci. cxlvi. Ro. 
       <lb ed="#P" n="51"/>ma. con. cxvi. visis necessariis vbi priores qui statuerun. 
       <lb ed="#P" n="52"/>anctoritate superiorum non ipsi hoc fecisse videntur: sed 
-      <lb ed="#P" n="53"/>lli quorum auctoritate factum est. c. hi qui de preben. hoc 
-      <lb ed="#P" n="54"/>libro. Quod receptus auctoritate legati habentis in hoc 
+      <lb ed="#P" n="53"/>lli quorum auctoritate factum est. <ref xml:id="nqqq3t-d1e158-Rvv8q11" target="http://scta.info/resource/wef6td-d1e874-d1e293">c. hi qui de preben. hoc 
+      <lb ed="#P" n="54"/>libro.</ref> Quod receptus auctoritate legati habentis in hoc 
       <lb ed="#P" n="55"/>a Papa speciale mandatum videtur potius receptus 
       au<lb ed="#P" n="56" break="no"/>ctoritate Pape delegantis quam legati 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e960">
                   <lb ed="#P" n="57"/>¶ Item substitutus herediper testatorem / est heres 
       te<lb ed="#P" n="58" break="no"/>statoris l. moribus. §. quisquis. et §. prius. ff. de vulga. et 
-      pu<lb ed="#P" n="59" break="no"/>pil. et. c. si pater. in fine de testamen. hoc libro: facit vulgari. 
+      pu<lb ed="#P" n="59" break="no"/>pil. et. <ref xml:id="nqqq3t-d1e158-Rv08q1a" target="http://scta.info/resource/wef6td-d1e1016-d1e120">c. si pater. in fine de testamen. hoc libro</ref>: facit vulgari. 
       <lb ed="#P" n="60"/>heres heredis mei est heres meus l. cum a libris. C. de 
       ho<lb ed="#P" n="61" break="no"/>redib. insti. glo. in. c. fi. supra de sepul. quod verum de 
       vniuer<lb ed="#P" n="62" break="no"/>sali non particulari. Do. meus de ripa. ii. lib. respon. cxxvi 
       <lb ed="#P" n="63"/>in nostro principali intento: facit etiam tex. in. c. cum te 
-      con<lb ed="#P" n="64" break="no"/>sulente: et ibi glo. fi. de offi. de leg. supra. Et in. c. statutum. §. in 
+      con<lb ed="#P" n="64" break="no"/>sulente: et ibi glo. fi. de offi. deleg. supra. Et in. c. statutum. §. in 
       <lb ed="#P" n="65"/>nullo. supra de res. hoc libro. vbi delegati a sede apostolica 
       per<lb ed="#P" n="66" break="no"/>sonas similes subdelegare tenentur quia omnes ab ipsa se 
       <lb ed="#P" n="67"/>se apostolica potestatem recipiunt: et eius vices gerunt: vt 
-      <lb ed="#P" n="68"/>in. c. sane. el. ii. supra de offi. de lega. et in d. c. hi qui: et in. c. is 
-      cui<lb ed="#P" n="69" break="no"/>de offi. delegati. hoc lib. vbi obtinens beneficium a 
+      <lb ed="#P" n="68"/>in. <ref xml:id="nqqq3t-d1e158-Roooo1o" target="http://scta.info/resource/cice-l1t29-d1e271"><!-- target ambiguous because there are two canons that start with "sane"; i chose the second because of the "el ii" in the referenec, perhaps meaning "second instance" -->c. sane. el. ii. supra de offi. delega.</ref> et in <ref xml:id="nqqq3t-d1e158-Rccua9a" target="http://scta.info/resource/wef6td-d1e874-d1e293">d. c. hi qui</ref>: et in. <ref xml:id="nqqq3t-d1e158-Ra4449a" target="http://scta.info/resource/wef6td-d1e339-d1e504">c. is 
+      cui<lb ed="#P" n="69" break="no"/>de offi. delegati. hoc lib.</ref> vbi obtinens beneficium a 
       delega<lb ed="#P" n="70" break="no"/>to vel legato videtur illud tenere iure delegantis. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e994">
@@ -589,17 +589,17 @@
       <lb ed="#P" n="139"/>in iure nostro fundatam quia quando sunt plures 
       eligen<lb ed="#P" n="140" break="no"/>tes qui habent eligere: vnus eligens potest. si eligatur ab 
       <lb ed="#P" n="141"/>aliis consentire electioni de se facte et talis consensus 
-      comnu<lb ed="#P" n="142" break="no"/>merabitur in numero electorum / vt est casus in. d. c. cum in 
-      iu<lb ed="#P" n="143" break="no"/>re. supra de elec. quod hodie non est correctum et procedit nisi 
+      comnu<lb ed="#P" n="142" break="no"/>merabitur in numero electorum / vt est casus in. <ref xml:id="nqqq3t-d1e158-Rdd8q11" target="http://scta.info/resource/cice-l1t6-d1e599">d. c. cum in 
+      iu<lb ed="#P" n="143" break="no"/>re. supra de elec.</ref> quod hodie non est correctum et procedit nisi 
       ele<lb ed="#P" n="144" break="no"/>ctio esset per viam scrutinii. quia tunc non posset 
-      consenti<lb ed="#P" n="145" break="no"/>re vel seipsum eligere vt est casus in. c. cumana. supra de elec. 
+      consenti<lb ed="#P" n="145" break="no"/>re vel seipsum eligere vt est casus in. <ref xml:id="nqqq3t-d1e158-Rvv821a target="http://scta.info/resource/cice-l1t6-d1e857">c. cumana. supra de elec.</ref> 
       <lb ed="#P" n="146"/>quod ita debet intelligi vt ibi doc. 
     </p>
                <p xml:id="nqqq3t-d1e158-d1e1186">
                   <lb ed="#P" n="147"/>¶ Sed quando vnus eligens sperat quod aliqui ex eligentibus 
       eli<lb ed="#P" n="148" break="no"/>gant ipsum non sit primus qui faciat electionem si potest quod 
       <lb ed="#P" n="149"/>non potest eligere seipsum. reputaretur enim ambitiosus 
-      <lb ed="#P" n="150"/>vt no. in. d. c. cum in iure. Sed expectet si eligatur per alios 
+      <lb ed="#P" n="150"/>vt no. in. <ref xml:id="nqqq3t-d1e158-Reee7de" target="http://scta.info/resource/cice-l1t29-d1e574">d. c. cum in iure</ref>. Sed expectet si eligatur per alios 
       <lb ed="#P" n="151"/>et tunc consentiat electioni de se facte: vel si cogitur prima 
       <lb ed="#P" n="152"/>eligere quia forte habet primam vocem in capitulo. iuxta 
       <lb ed="#P" n="153"/>c. auditis. supra de elec. debet esse cautus vt eligat illum qua 
