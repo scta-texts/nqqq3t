@@ -202,13 +202,13 @@
             <lb ed="#P" n="1"/>vel disponat. Probus 
           </p>
           <p xml:id="nqqq3t-d1e68-d1e398">
-            <lb ed="#P" n="2"/>¶ <quote xml:id="nqqq3t-d1e68-Qd1e414" source="http://scta.info/resource/nyf6td-d1e68-d1e390@12-12">Pontio</quote>: de hoc pontio videtur recordari vlpianus 
-            iu<lb ed="#P" n="3" break="no"/>risconsul. in l. si cui. §. cum sacrilegium. ff. de accu. ibi. 
-            ponti<lb ed="#P" n="4" break="no"/>proconsuli cum esset proconsul in Hierusalem / refert 
-            Io<lb ed="#P" n="5" break="no"/>sephas in fi. de bello iudaico. De ipso pilato meminit glo. 
-            <lb ed="#P" n="6"/>in l. decurionum. C. de pe. vbi dicit quod malefecit ad clamoron 
-            <lb ed="#P" n="7"/>populi condemnasse christum: vide de Lira in glo. ordinaria 
-            <lb ed="#P" n="8"/>Mathei. xxvii. vbi dicit quod erat proprium nomen et non 
+            <lb ed="#P" n="2"/>¶ <quote xml:id="nqqq3t-d1e68-Qd1e414" source="http://scta.info/resource/nyf6td-d1e68-d1e390@12-12">Pontio</quote>: de hoc pontio videtur recordari <ref xml:id="nqqq3t-d1e68-Rfq8vvv" target="http://scta.info/resource/bgy6gt-d1e4510-d1e203">vlpianus 
+            iu<lb ed="#P" n="3" break="no"/>risconsul. in l. si cui. §. cum sacrilegium. ff. de accu.</ref> ibi. ponti
+            <lb ed="#P" n="4"/>proconsuli cum esset proconsul in Hierusalem / refert 
+            Io<lb ed="#P" n="5" break="no"/>sephas in fi. de bello iudaico. De ipso pilato meminit <ref>glo. 
+            <lb ed="#P" n="6"/>in l. decurionum. C. de pe.</ref> vbi dicit quod malefecit ad clamorem 
+            <lb ed="#P" n="7"/>populi condemnasse christum: vide de <ref>Lira in glo. ordinaria 
+            <lb ed="#P" n="8"/>Mathei. xxvii.</ref> vbi dicit quod erat proprium nomen et non 
             pila<lb ed="#P" n="9" break="no"/>tus / quod patet ex duobus: primo quia postponitur 
             cogno<lb ed="#P" n="10" break="no"/>men et non preponitur proprio nomini saltem de cursum 
             con<lb ed="#P" n="11" break="no"/>muni. secundo quia hoc nomen satis est commune in 
