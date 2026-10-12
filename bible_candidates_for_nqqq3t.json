@@ -1,0 +1,5288 @@
+{
+  "nqqq3t-d1apro": {
+    "nqqq3t-d1apro-d1e154": [
+      {
+        "candidate_id": "IIcor13_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIcor1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIcor1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIcor8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIpetr1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIpetr1_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIth1_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIth2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIth2_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIth3_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Icor1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Icor1_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Icor1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Icor1_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Ipetr1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Ith1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Ith5_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Ith5_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Itim6_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Itim6_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "ap22_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "col1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "eph1_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "eph1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "eph3_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "gal6_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "gal6_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "iac1_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "iac2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "iud1_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "phm1_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "rom15_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "rom16_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "act15_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "IIth3_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Icor5_4",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "Icor6_11",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "eph5_20",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "formulaic 'in nomine Domini nostri Iesu Christi' overlap only"
+      },
+      {
+        "candidate_id": "col3_17",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "MS adds 'nostri ... christi facite'"
+      }
+    ],
+    "nqqq3t-d1apro-d1e180": [
+      {
+        "candidate_id": "deut24_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites Io. ii"
+      },
+      {
+        "candidate_id": "ps134_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "ier51_16 matches MS citation"
+      },
+      {
+        "candidate_id": "sir24_47",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "am3_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ier51_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites hier. li"
+      },
+      {
+        "candidate_id": "prov11_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps80_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "sap7_16",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "mt10_19",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "MS adds 'scilicet a spiritu sancto'"
+      },
+      {
+        "candidate_id": "ps110_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "'Initium sapientiae timor Domini' also sir1_16/prov9_10 variants"
+      },
+      {
+        "candidate_id": "ps49_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase 'Tu quis est qui enarras'"
+      },
+      {
+        "candidate_id": "io1_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "phil2_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS cites ad philippenses ii"
+      },
+      {
+        "candidate_id": "sap7_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps18_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "iac1_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase, attributed to c. que pio"
+      },
+      {
+        "candidate_id": "lc16_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion 'Reddere rationem vilicationis'"
+      },
+      {
+        "candidate_id": "is32_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "via c. cum marte"
+      }
+    ],
+    "nqqq3t-d1apro-d1e532": [
+      {
+        "candidate_id": "IIcor13_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIcor1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIcor1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIcor8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIpetr1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIpetr1_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIth1_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIth2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIth2_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIth3_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IIth3_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor1_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor1_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor5_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor6_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Ipetr1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Ith1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Ith5_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Ith5_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Itim6_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Itim6_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "act15_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ap22_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "col1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "eph1_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "eph1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "eph3_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "eph5_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "gal6_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "gal6_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "iac1_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "iac2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "iud1_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "phm1_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps114_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "rom13_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "rom15_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "rom16_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps119_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Icor3_7",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e568": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mt6_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS attributes to 'Io.'"
+      }
+    ],
+    "nqqq3t-d1apro-d1e1056": [
+      {
+        "candidate_id": "IImac1_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ireg13_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ez21_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1apro-d1e1200": [
+      {
+        "candidate_id": "Isam30_31",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "lc24_18",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e1580": [
+      {
+        "candidate_id": "tob6_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps31_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e1662": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "liturgical baptismal formula 'Ego te baptizo in nomine...', not a citation"
+      }
+    ],
+    "nqqq3t-d1apro-d1e2233": [
+      {
+        "candidate_id": "ier33_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "rom4_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "gen17_5",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "gen17_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "'Eris pater multarum gentium' end of 17:4"
+      }
+    ],
+    "nqqq3t-d1apro-d1e2294": [
+      {
+        "candidate_id": "qoh12_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "unattributed, in letter of Boniface VIII"
+      }
+    ],
+    "nqqq3t-d1apro-d1e2540": [
+      {
+        "candidate_id": "Isam11_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "lev19_2",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "also lev11_44, Ipetr1_16; via c. Tenere D.31"
+      },
+      {
+        "candidate_id": "ps85_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e2773": [
+      {
+        "candidate_id": "Ichr29_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io10_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io21_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "lc5_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "'laxarent rhetia' paraphrase and 'duc in altum'"
+      },
+      {
+        "candidate_id": "io1_42",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e2973": [
+      {
+        "candidate_id": "ps61_12",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io19_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e3000": [
+      {
+        "candidate_id": "ps104_21",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS attributes to veteri testamento de Ioseph"
+      },
+      {
+        "candidate_id": "act8_27",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e3042": [
+      {
+        "candidate_id": "lc5_4",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "lc12_42",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; MS wording 'fidelis ... familiam' closer to mt24_45"
+      },
+      {
+        "candidate_id": "mt16_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "mt24_45",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "with mt24_47"
+      },
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "mt24_47",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io21_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io21_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e3090": [
+      {
+        "candidate_id": "bar3_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "col3_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "deut14_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "deut4_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "short phrase 'ad imaginem et similitudinem', MS cites Gen. i"
+      },
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "sir17_3",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e3136": [
+      {
+        "candidate_id": "act5_39",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "act5_38",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1apro-d1e3247": [
+      {
+        "candidate_id": "ap12_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Psalm 8 encoded instead"
+      },
+      {
+        "candidate_id": "eph1_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Psalm 8 encoded instead"
+      },
+      {
+        "candidate_id": "ier36_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Psalm 8 encoded instead"
+      },
+      {
+        "candidate_id": "hebr2_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Psalm 8 encoded instead"
+      },
+      {
+        "candidate_id": "ps8_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps8_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1epRo": {
+    "nqqq3t-d1epRo-d1e174": [
+      {
+        "candidate_id": "ps86_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "hebr9_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e419": [
+      {
+        "candidate_id": "hebr7_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e511": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e951": [
+      {
+        "candidate_id": "gen47_22",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "gen47_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "opening 'Subiecitque Pharaoni Ioseph omnem terram Egypti' paraphrases 47:20"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e1857": [
+      {
+        "candidate_id": "sir13_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "sir31_9",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "sir31_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase 'non speret in pecunia thesauris'"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e1866": [
+      {
+        "candidate_id": "lc12_42",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites Luce xi"
+      },
+      {
+        "candidate_id": "mt24_45",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; 'dispensator' matches lc12_42"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e2194": [
+      {
+        "candidate_id": "qoh7_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites ecclesiastici vii"
+      }
+    ],
+    "nqqq3t-d1epRo-d1e2237": [
+      {
+        "candidate_id": "lc13_24",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e88": {
+    "nqqq3t-d1e88-d1e447": [
+      {
+        "candidate_id": "prov18_20",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS omits 'viri'; no @range"
+      },
+      {
+        "candidate_id": "ps118_112",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "prov12_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "nqqq3t-d1e88-d1e1010": [
+      {
+        "candidate_id": "ier11_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is48_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is50_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "soph3_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "zac13_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e88-d1e1632": [
+      {
+        "candidate_id": "iac5_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; mt5_37 is the canon's source"
+      },
+      {
+        "candidate_id": "mt5_37",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "via canon Et si Christus"
+      }
+    ],
+    "nqqq3t-d1e88-d1e1808": [
+      {
+        "candidate_id": "zac9_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e88-d1e2575": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e88-d1e3204": [
+      {
+        "candidate_id": "prov8_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites prouerbo vili"
+      }
+    ],
+    "nqqq3t-d1e88-d1e3681": [
+      {
+        "candidate_id": "ap12_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Psalm 8 encoded as source instead"
+      },
+      {
+        "candidate_id": "eph1_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Psalm 8 encoded as source instead"
+      },
+      {
+        "candidate_id": "hebr2_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Psalm 8 encoded as source instead"
+      },
+      {
+        "candidate_id": "ps8_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e88-d1e3712": [
+      {
+        "candidate_id": "lc21_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "unattributed allusion"
+      }
+    ],
+    "nqqq3t-d1e88-d1e4404": [
+      {
+        "candidate_id": "sir31_9",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "plural paraphrase 'qui sunt hi et laudabimus eos', via Hostiensis"
+      },
+      {
+        "candidate_id": "gen3_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e88-d1e4482": [
+      {
+        "candidate_id": "ier4_22",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "within Bernard, De consideratione"
+      },
+      {
+        "candidate_id": "ier9_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "within Bernard, De consideratione"
+      }
+    ],
+    "nqqq3t-d1e88-d1e5405": [
+      {
+        "candidate_id": "zac9_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e108": {
+    "nqqq3t-d1e108-d1e1457": [
+      {
+        "candidate_id": "IIth2_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e108-d1e2240": [
+      {
+        "candidate_id": "ez5_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mc3_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps11_9",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps49_3",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS has 'domini' for 'eius'"
+      },
+      {
+        "candidate_id": "Ipetr5_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "omits 'tamquam leo rugiens'"
+      },
+      {
+        "candidate_id": "ps127_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps75_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps88_8",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ap4_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e3452": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e108-d1e4702": [
+      {
+        "candidate_id": "mt20_12",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "proverbial allusion"
+      }
+    ],
+    "nqqq3t-d1e108-d1e5286": [
+      {
+        "candidate_id": "prov9_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "variant 'principium'; MS cites psalm"
+      },
+      {
+        "candidate_id": "ps110_10",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites psal. 110"
+      },
+      {
+        "candidate_id": "sir1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same phrase; MS cites psalm"
+      },
+      {
+        "candidate_id": "ps118_152",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites psal. 115"
+      }
+    ],
+    "nqqq3t-d1e108-d1e5315": [
+      {
+        "candidate_id": "qoh10_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites eccle. x"
+      },
+      {
+        "candidate_id": "sir10_15",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "sir10_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "sir25_33",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Iio3_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e5934": [
+      {
+        "candidate_id": "Iio3_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Iio5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Iio5_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "io3_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "iudic11_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e108-d1e6065": [
+      {
+        "candidate_id": "lc11_43",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; MS cites Matthew"
+      },
+      {
+        "candidate_id": "mt23_7",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase, see mt23_6"
+      },
+      {
+        "candidate_id": "ps31_9",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "mt23_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase spanning 23:6-7, MS cites Matthei xxi; no @range"
+      },
+      {
+        "candidate_id": "lc20_46",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel; MS cites Matthew"
+      },
+      {
+        "candidate_id": "ps48_13",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "same text as ps48_21; MS lacks initial 'Et', encoded with ps48_21"
+      },
+      {
+        "candidate_id": "ps48_21",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e6288": [
+      {
+        "candidate_id": "ioel2_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "same phrase as ps113_10"
+      },
+      {
+        "candidate_id": "ps113_10",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "phrase also in ps78_10, ioel2_17"
+      },
+      {
+        "candidate_id": "io19_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps78_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same phrase as ps113_10"
+      }
+    ],
+    "nqqq3t-d1e108-d1e6437": [
+      {
+        "candidate_id": "ps9_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e8242": [
+      {
+        "candidate_id": "iac3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e108-d1e10113": [
+      {
+        "candidate_id": "is10_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites Esaie x"
+      },
+      {
+        "candidate_id": "sap12_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e10433": [
+      {
+        "candidate_id": "qoh8_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e108-d1e10446": [
+      {
+        "candidate_id": "io11_27",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "see mt16_16"
+      },
+      {
+        "candidate_id": "io6_70",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mc14_61",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mt16_16",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "conflated with io11_27 'qui in hunc mundum venisti'"
+      },
+      {
+        "candidate_id": "mt26_63",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mt16_17",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e11068": [
+      {
+        "candidate_id": "gen18_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e11390": [
+      {
+        "candidate_id": "Icor6_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "see gen2_24"
+      },
+      {
+        "candidate_id": "eph5_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "see gen2_24"
+      },
+      {
+        "candidate_id": "gen2_24",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "contrasted 'non ... duo in anima sed duo in carne una'; parallels mt19_5 etc."
+      },
+      {
+        "candidate_id": "mc10_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "see gen2_24"
+      },
+      {
+        "candidate_id": "mt19_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "see gen2_24"
+      },
+      {
+        "candidate_id": "ps129_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e108-d1e12302": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e108-d1e12388": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e137": {
+    "nqqq3t-d1e137-d1e589": [
+      {
+        "candidate_id": "ez45_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev16_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev16_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev16_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "num15_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e819": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e1178": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e1421": [
+      {
+        "candidate_id": "mc12_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e2712": [
+      {
+        "candidate_id": "lc6_37",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "'Nolite iudicare et non iudicabimini' (lc6_37) + mt7_2 measure clause; no @range on lc6_37"
+      },
+      {
+        "candidate_id": "IIchr19_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "IIchr19_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "mt7_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "mal2_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e137-d1e2773": [
+      {
+        "candidate_id": "sir7_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e137-d1e3530": [
+      {
+        "candidate_id": "IImac3_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e3842": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e4085": [
+      {
+        "candidate_id": "IIreg18_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ichr9_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e4507": [
+      {
+        "candidate_id": "io18_25",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'Io. cxviii' (=18)"
+      }
+    ],
+    "nqqq3t-d1e137-d1e5511": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e137-d1e5872": [
+      {
+        "candidate_id": "ex28_10",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase via Lucas de Penna; only 'iuxta ordinem nativitatis eorum' verbatim"
+      }
+    ],
+    "nqqq3t-d1e137-d1e5932": [
+      {
+        "candidate_id": "num11_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e137-d1e5983": [
+      {
+        "candidate_id": "iob12_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e178": {
+    "nqqq3t-d1e178-d1e108": [
+      {
+        "candidate_id": "Iio3_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e587": [
+      {
+        "candidate_id": "is31_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e1416": [
+      {
+        "candidate_id": "io19_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e2333": [
+      {
+        "candidate_id": "gen41_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is57_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e2672": [
+      {
+        "candidate_id": "ex23_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e2760": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "iob24_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e3720": [
+      {
+        "candidate_id": "ez16_49",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites Ezechiel xv"
+      },
+      {
+        "candidate_id": "ier36_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ier30_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ier22_21",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "os13_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e3745": [
+      {
+        "candidate_id": "qoh2_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites Eccle. ii"
+      }
+    ],
+    "nqqq3t-d1e178-d1e4003": [
+      {
+        "candidate_id": "ps54_10",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps54_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps54_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "final 'iniusticia' only"
+      }
+    ],
+    "nqqq3t-d1e178-d1e4246": [
+      {
+        "candidate_id": "tob1_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e5957": [
+      {
+        "candidate_id": "dan5_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "eph5_29",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "via c. Non existimemus (C.13 q.2)"
+      }
+    ],
+    "nqqq3t-d1e178-d1e8373": [
+      {
+        "candidate_id": "iob28_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is50_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e8902": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e9098": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e9207": [
+      {
+        "candidate_id": "iac3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e10056": [
+      {
+        "candidate_id": "io14_27",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e10167": [
+      {
+        "candidate_id": "io19_35",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites Io. c. vlt. (cf. io21_24)"
+      },
+      {
+        "candidate_id": "lc15_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e10209": [
+      {
+        "candidate_id": "lc11_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "unattributed; parallel mt12_25 also given"
+      },
+      {
+        "candidate_id": "mt12_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "see lc11_17"
+      }
+    ],
+    "nqqq3t-d1e178-d1e10321": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e10488": [
+      {
+        "candidate_id": "mal3_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase; no @range"
+      }
+    ],
+    "nqqq3t-d1e178-d1e10822": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e11073": [
+      {
+        "candidate_id": "Icor9_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "is34_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mic1_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ez19_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor10_26",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Paul citing ps23_1; MS cites psalm"
+      },
+      {
+        "candidate_id": "ps23_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites psal. xxiii"
+      }
+    ],
+    "nqqq3t-d1e178-d1e11102": [
+      {
+        "candidate_id": "ap13_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e11439": [
+      {
+        "candidate_id": "Icor3_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Paul's citation of Job; MS cites Job directly"
+      },
+      {
+        "candidate_id": "iob5_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "iob5_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e11459": [
+      {
+        "candidate_id": "prov20_26",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "IIreg18_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase of Hezekiah narrative"
+      },
+      {
+        "candidate_id": "ps52_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "lc16_1",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "prov25_23",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "qoh10_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites 'Ecclesia. ix'"
+      },
+      {
+        "candidate_id": "prov15_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps67_31",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "prov29_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e11600": [
+      {
+        "candidate_id": "ex30_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "lev27_28",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "embedded in quotation of canon Nulli (C.12 q.2)"
+      }
+    ],
+    "nqqq3t-d1e178-d1e11786": [
+      {
+        "candidate_id": "gen2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "lc16_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion, via Paul. de Castro"
+      }
+    ],
+    "nqqq3t-d1e178-d1e12364": [
+      {
+        "candidate_id": "ps144_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e13106": [
+      {
+        "candidate_id": "ez20_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e14412": [
+      {
+        "candidate_id": "ez20_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e14432": [
+      {
+        "candidate_id": "Itim3_1",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "called 'vulgatum'"
+      },
+      {
+        "candidate_id": "hebr5_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase; no @range"
+      }
+    ],
+    "nqqq3t-d1e178-d1e14873": [
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e15634": [
+      {
+        "candidate_id": "is57_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e15689": [
+      {
+        "candidate_id": "lc10_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e16050": [
+      {
+        "candidate_id": "Ireg3_25",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e178-d1e16939": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e17687": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e17829": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e178-d1e17991": [
+      {
+        "candidate_id": "hebr12_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "hebr12_25",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e198": {
+    "nqqq3t-d1e198-d1e356": [
+      {
+        "candidate_id": "mt16_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS omits 'enim'"
+      }
+    ],
+    "nqqq3t-d1e198-d1e457": [
+      {
+        "candidate_id": "ier11_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is48_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is50_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "soph3_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "zac13_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e198-d1e1223": [
+      {
+        "candidate_id": "Icor6_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "NT citation of gen2_24"
+      },
+      {
+        "candidate_id": "eph5_31",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "NT citation of gen2_24"
+      },
+      {
+        "candidate_id": "gen2_24",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites genesis"
+      },
+      {
+        "candidate_id": "mc10_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "NT citation of gen2_24"
+      },
+      {
+        "candidate_id": "mt19_5",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "NT citation of gen2_24"
+      }
+    ],
+    "nqqq3t-d1e198-d1e1735": [
+      {
+        "candidate_id": "ex10_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e198-d1e2701": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e198-d1e3908": [
+      {
+        "candidate_id": "Iio5_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e198-d1e4106": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e218": {
+    "nqqq3t-d1e218-d1e191": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e218-d1e269": [
+      {
+        "candidate_id": "prov13_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "prov19_16 already encoded"
+      },
+      {
+        "candidate_id": "prov19_16",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "prov12_26",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim4_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "existing <quote> lacked @source; added"
+      }
+    ],
+    "nqqq3t-d1e218-d1e812": [
+      {
+        "candidate_id": "lc11_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "see mt12_25"
+      },
+      {
+        "candidate_id": "mt12_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS cites Matth. xii and Luce xi; both sources on one quote (parallel passages)"
+      }
+    ],
+    "nqqq3t-d1e218-d1e978": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e218-d1e1283": [
+      {
+        "candidate_id": "qoh10_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "qoh10_16 already encoded"
+      },
+      {
+        "candidate_id": "is3_4",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "existing quote had wrong source prov22_15; corrected to is3_4"
+      },
+      {
+        "candidate_id": "prov22_15",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "qoh10_16",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "nqqq3t-d1e218-d1e1339": [
+      {
+        "candidate_id": "prov8_15",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "sir10_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e238": {
+    "nqqq3t-d1e238-d1e1007": [
+      {
+        "candidate_id": "rom12_3",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion in curial supplication formula"
+      }
+    ],
+    "nqqq3t-d1e238-d1e1049": [
+      {
+        "candidate_id": "hebr10_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e258": {
+    "nqqq3t-d1e258-d1e400": [
+      {
+        "candidate_id": "sir41_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e279": {
+    "nqqq3t-d1e279-d1e725": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e319": {
+    "nqqq3t-d1e319-d1e270": [
+      {
+        "candidate_id": "lc24_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e319-d1e1008": [
+      {
+        "candidate_id": "io10_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e339": {
+    "nqqq3t-d1e339-d1e1145": [
+      {
+        "candidate_id": "deut32_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e359": {
+    "nqqq3t-d1e359-d1e183": [
+      {
+        "candidate_id": "is44_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e359-d1e1379": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e359-d1e1461": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e359-d1e3408": [
+      {
+        "candidate_id": "Icor8_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase 'Si scandalizavero fratrem meum'"
+      }
+    ],
+    "nqqq3t-d1e359-d1e4333": [
+      {
+        "candidate_id": "ps123_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e359-d1e4910": [
+      {
+        "candidate_id": "deut3_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e379": {
+    "nqqq3t-d1e379-d1e489": [
+      {
+        "candidate_id": "IIreg20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "IIreg20_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e379-d1e554": [
+      {
+        "candidate_id": "io8_53",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e379-d1e1143": [
+      {
+        "candidate_id": "Icor5_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ith4_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "col4_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e379-d1e1271": [
+      {
+        "candidate_id": "is50_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e379-d1e1396": [
+      {
+        "candidate_id": "ps18_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "unattributed verbatim borrowing"
+      }
+    ],
+    "nqqq3t-d1e379-d1e2414": [
+      {
+        "candidate_id": "Icor10_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'domini est terra' appears inside a vernacular proverb, not a scriptural citation"
+      },
+      {
+        "candidate_id": "ps23_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'domini est terra' appears inside a vernacular proverb, not a scriptural citation"
+      }
+    ],
+    "nqqq3t-d1e379-d1e2521": [
+      {
+        "candidate_id": "sir11_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e379-d1e2941": [
+      {
+        "candidate_id": "IIchr34_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "esd2_70",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "esd6_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "neh12_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "neh7_73",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "deut18_2",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "deut18_1",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "esd3_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared phrase 'sacerdotes et Levitae et omnes qui' only"
+      }
+    ],
+    "nqqq3t-d1e379-d1e3084": [
+      {
+        "candidate_id": "io10_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "col3_3",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "col3_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e400": {
+    "nqqq3t-d1e400-d1e334": [
+      {
+        "candidate_id": "mt20_12",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion via c. Fundamenta"
+      }
+    ]
+  },
+  "nqqq3t-d1e420": {
+    "nqqq3t-d1e420-d1e1344": [
+      {
+        "candidate_id": "IImac2_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ez14_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier19_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier26_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier33_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier33_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier34_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier44_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier51_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier7_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier9_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier9_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier9_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e440": {
+    "nqqq3t-d1e440-d1e639": [
+      {
+        "candidate_id": "lc22_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e440-d1e1938": [
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e480": {
+    "nqqq3t-d1e480-d1e523": [
+      {
+        "candidate_id": "ez34_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e500": {
+    "nqqq3t-d1e500-d1e570": [
+      {
+        "candidate_id": "IIchr16_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ireg15_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Isam20_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Isam20_42",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Isam24_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Isam24_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen13_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen16_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen17_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen17_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen23_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen31_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen31_44",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen31_48",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen31_51",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e526": {
+    "nqqq3t-d1e526-d1e229": [
+      {
+        "candidate_id": "Ichr27_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e546": {
+    "nqqq3t-d1e546-d1e281": [
+      {
+        "candidate_id": "io10_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shares 'ego sum pastor bonus'; rest matches 10:14"
+      },
+      {
+        "candidate_id": "io10_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "tob4_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "golden rule paraphrase, no @range"
+      }
+    ],
+    "nqqq3t-d1e546-d1e459": [
+      {
+        "candidate_id": "Ichr16_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "identical to ps104_15"
+      },
+      {
+        "candidate_id": "ps104_15",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "identical in Ichr16_22; called 'vulgare sacre pagine'"
+      }
+    ]
+  },
+  "nqqq3t-d1e607": {
+    "nqqq3t-d1e607-d1e380": [
+      {
+        "candidate_id": "dan11_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e667": {
+    "nqqq3t-d1e667-d1e677": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e687": {
+    "nqqq3t-d1e687-d1e108": [
+      {
+        "candidate_id": "iudic19_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e687-d1e273": [
+      {
+        "candidate_id": "iob29_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e687-d1e427": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e687-d1e2207": [
+      {
+        "candidate_id": "ez20_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e687-d1e2265": [
+      {
+        "candidate_id": "mc14_63",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "conflated with lc22_71"
+      },
+      {
+        "candidate_id": "lc22_71",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "see mc14_63"
+      }
+    ]
+  },
+  "nqqq3t-d1e707": {
+    "nqqq3t-d1e707-d1e880": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e707-d1e1477": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e707-d1e1897": [
+      {
+        "candidate_id": "IIth3_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e728": {
+    "nqqq3t-d1e728-d1e408": [
+      {
+        "candidate_id": "ps118_121",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e728-d1e794": [
+      {
+        "candidate_id": "lc1_45",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e735": {
+    "nqqq3t-d1e735-d1e1303": [
+      {
+        "candidate_id": "gen50_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e735-d1e1459": [
+      {
+        "candidate_id": "IIchr32_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "IIreg20_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ap2_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is38_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e735-d1e1750": [
+      {
+        "candidate_id": "ps77_39",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "proverbial use"
+      }
+    ]
+  },
+  "nqqq3t-d1e748": {
+    "nqqq3t-d1e748-d1e441": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e748-d1e792": [
+      {
+        "candidate_id": "ez18_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'patres comederunt uvam acerbam' is the incipit of a Nevisanus consilium, not a citation"
+      },
+      {
+        "candidate_id": "ier31_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "consilium incipit, see ez18_2"
+      }
+    ]
+  },
+  "nqqq3t-d1e768": {
+    "nqqq3t-d1e768-d1e318": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e768-d1e401": [
+      {
+        "candidate_id": "IIcor5_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e768-d1e1730": [
+      {
+        "candidate_id": "sir11_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e788": {
+    "nqqq3t-d1e788-d1e1518": [
+      {
+        "candidate_id": "mt19_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e788-d1e1566": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e814": {
+    "nqqq3t-d1e814-d1e327": [
+      {
+        "candidate_id": "lc4_38",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "gospel lemma within Ambrose's commentary on Luke"
+      }
+    ],
+    "nqqq3t-d1e814-d1e560": [
+      {
+        "candidate_id": "ez20_40",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e814-d1e829": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Iio5_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Iio5_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Iio5_11",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e814-d1e928": [
+      {
+        "candidate_id": "sap10_10",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "sir11_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e814-d1e1032": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e814-d1e1658": [
+      {
+        "candidate_id": "IIsam11_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "lc12_47",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase; no @range"
+      }
+    ]
+  },
+  "nqqq3t-d1e854": {
+    "nqqq3t-d1e854-d1e158": [
+      {
+        "candidate_id": "IIchr31_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "IIchr32_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "deut18_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "neh10_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "neh5_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ps4_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e854-d1e1404": [
+      {
+        "candidate_id": "mt20_12",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion 'portare pondus diei et estus', via Cardinalis"
+      }
+    ],
+    "nqqq3t-d1e854-d1e1819": [
+      {
+        "candidate_id": "gen3_19",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e854-d1e1928": [
+      {
+        "candidate_id": "mt16_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e854-d1e2554": [
+      {
+        "candidate_id": "deut20_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e854-d1e2593": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e854-d1e2812": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e874": {
+    "nqqq3t-d1e874-d1e202": [
+      {
+        "candidate_id": "esd6_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e1420": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e1554": [
+      {
+        "candidate_id": "io19_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "num9_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e1717": [
+      {
+        "candidate_id": "IImac1_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ireg13_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ez21_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e2199": [
+      {
+        "candidate_id": "iob15_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e2607": [
+      {
+        "candidate_id": "iac3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e3088": [
+      {
+        "candidate_id": "neh13_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e3763": [
+      {
+        "candidate_id": "iac3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e4544": [
+      {
+        "candidate_id": "lc19_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "mt13_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e10522": [
+      {
+        "candidate_id": "iac3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e11591": [
+      {
+        "candidate_id": "sir40_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e11612": [
+      {
+        "candidate_id": "zac9_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e13394": [
+      {
+        "candidate_id": "iac3_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e13747": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e14144": [
+      {
+        "candidate_id": "dan9_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e15354": [
+      {
+        "candidate_id": "gal3_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e15405": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e15932": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e17011": [
+      {
+        "candidate_id": "IImac1_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ireg13_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ez21_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e19210": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Ipetr2_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "'non est inventus dolus in ore eius'; cf. is53_9"
+      }
+    ],
+    "nqqq3t-d1e874-d1e19493": [
+      {
+        "candidate_id": "io1_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e20388": [
+      {
+        "candidate_id": "ex9_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e23103": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e874-d1e23642": [
+      {
+        "candidate_id": "sap1_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e874-d1e24479": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e935": {
+    "nqqq3t-d1e935-d1e268": [
+      {
+        "candidate_id": "ier33_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e935-d1e298": [
+      {
+        "candidate_id": "io10_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io12_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io13_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io13_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io14_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io16_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io1_51",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_47",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io8_51",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io8_58",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "lc21_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "lc4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mc14_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mc8_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt18_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt19_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt21_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt24_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt26_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io10_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io13_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io16_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io5_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io5_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io8_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt6_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "phrase also in mt6_2, mt6_5; 'quia' matches 6:16"
+      }
+    ],
+    "nqqq3t-d1e935-d1e460": [
+      {
+        "candidate_id": "neh2_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e935-d1e818": [
+      {
+        "candidate_id": "ap10_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e935-d1e1023": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e935-d1e1057": [
+      {
+        "candidate_id": "lc1_45",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e935-d1e1256": [
+      {
+        "candidate_id": "zac9_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e975": {
+    "nqqq3t-d1e975-d1e108": [
+      {
+        "candidate_id": "IIsam1_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e975-d1e1681": [
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1016": {
+    "nqqq3t-d1e1016-d1e1918": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1016-d1e2420": [
+      {
+        "candidate_id": "sir11_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1036": {
+    "nqqq3t-d1e1036-d1e159": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1036-d1e292": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1036-d1e332": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1036-d1e798": [
+      {
+        "candidate_id": "qoh9_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1036-d1e1133": [
+      {
+        "candidate_id": "lc1_45",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1036-d1e1195": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1056": {
+    "nqqq3t-d1e1056-d1e775": [
+      {
+        "candidate_id": "ps13_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same phrase as ps52_6"
+      },
+      {
+        "candidate_id": "ps52_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "identical phrase in ps13_5; called 'vulgare'"
+      }
+    ]
+  },
+  "nqqq3t-d1e1076": {
+    "nqqq3t-d1e1076-d1e689": [
+      {
+        "candidate_id": "ioel2_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1076-d1e1687": [
+      {
+        "candidate_id": "Isam11_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1137": {
+    "nqqq3t-d1e1137-d1e147": [
+      {
+        "candidate_id": "num18_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "num3_36",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1258": {
+    "nqqq3t-d1e1258-d1e301": [
+      {
+        "candidate_id": "qoh1_15",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites 'ecclesia' (=Ecclesiastes)"
+      }
+    ]
+  },
+  "nqqq3t-d1e1278": {
+    "nqqq3t-d1e1278-d1e331": [
+      {
+        "candidate_id": "ps123_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1278-d1e662": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1304": {
+    "nqqq3t-d1e1304-d1e234": [
+      {
+        "candidate_id": "IIchr6_36",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mt19_6",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS cites Gene. ii (source of the marriage teaching)"
+      }
+    ],
+    "nqqq3t-d1e1304-d1e444": [
+      {
+        "candidate_id": "gen50_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1304-d1e892": [
+      {
+        "candidate_id": "sir40_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1344": {
+    "nqqq3t-d1e1344-d1e295": [
+      {
+        "candidate_id": "lc1_45",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1390": {
+    "nqqq3t-d1e1390-d1e399": [
+      {
+        "candidate_id": "io11_50",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e526": [
+      {
+        "candidate_id": "Icor8_5",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "generic 'siue in celo siue in terra' legal phrasing, no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e613": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e696": [
+      {
+        "candidate_id": "num5_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e1545": [
+      {
+        "candidate_id": "num30_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e2495": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e2558": [
+      {
+        "candidate_id": "act1_1",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "iac1_22",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e2569": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e2647": [
+      {
+        "candidate_id": "mt18_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS cites Mathei xxiii"
+      },
+      {
+        "candidate_id": "io21_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "'pasce oves meas' twice"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e2903": [
+      {
+        "candidate_id": "IIreg10_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier8_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e2955": [
+      {
+        "candidate_id": "lc22_27",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e3353": [
+      {
+        "candidate_id": "ps8_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "omits 'coronasti eum'"
+      },
+      {
+        "candidate_id": "hebr2_7",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Paul citing ps8; MS omits 'coronasti eum', encoded as ps8_6-7"
+      },
+      {
+        "candidate_id": "ps8_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io21_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e3659": [
+      {
+        "candidate_id": "Icor13_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ps36_25",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e3737": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e4195": [
+      {
+        "candidate_id": "lc22_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e4884": [
+      {
+        "candidate_id": "io19_35",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mc9_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "io15_6",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e5146": [
+      {
+        "candidate_id": "lc4_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel of mt4_10"
+      },
+      {
+        "candidate_id": "mt4_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase; same in lc4_8"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e5166": [
+      {
+        "candidate_id": "is41_23",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS cites Esaie xliiii"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e5184": [
+      {
+        "candidate_id": "lc4_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e5691": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e6019": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e7135": [
+      {
+        "candidate_id": "act3_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "conflated with act3_19 'convertimini ut deleantur peccata vestra'"
+      },
+      {
+        "candidate_id": "act3_19",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "lc23_34",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS 'Ignosce' for 'dimitte'; cites Luce xxxii"
+      },
+      {
+        "candidate_id": "act7_59",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "MS adds 'quia nesciunt quid faciunt'"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e8031": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e8852": [
+      {
+        "candidate_id": "act4_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "is34_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "mic1_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor10_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites psalm"
+      },
+      {
+        "candidate_id": "ez19_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps23_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e9047": [
+      {
+        "candidate_id": "IIsam3_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Icor10_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "see ps23_1"
+      },
+      {
+        "candidate_id": "ez19_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "ps23_1",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion applied to the pope 'cuius est terra et plenitudo'"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e9203": [
+      {
+        "candidate_id": "Isam2_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites primo regum c. ii (=1 Sam)"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e9220": [
+      {
+        "candidate_id": "Isam2_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "paragraph comments on fragments of 1 Sam 2:8, quoted (and encoded) in preceding paragraph d1e9203"
+      },
+      {
+        "candidate_id": "ps44_17",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "MS has gloss 'id est cardinales' inside"
+      }
+    ],
+    "nqqq3t-d1e1390-d1e10692": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1410": {
+    "nqqq3t-d1e1410-d1e1059": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1430": {
+    "nqqq3t-d1e1430-d1e308": [
+      {
+        "candidate_id": "lc22_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1430-d1e483": [
+      {
+        "candidate_id": "io10_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io12_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io13_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io13_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io14_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io16_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io1_51",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_47",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io8_51",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io8_58",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "lc21_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "lc4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mc14_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mc8_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt18_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt19_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt21_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt24_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt26_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io10_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io13_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io16_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io5_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io5_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "io8_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "'amen dico vobis' formula only"
+      },
+      {
+        "candidate_id": "mt6_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "phrase also in mt6_2 (alms context); 'quia' matches 6:16"
+      }
+    ],
+    "nqqq3t-d1e1430-d1e1287": [
+      {
+        "candidate_id": "ier22_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ier42_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1451": {
+    "nqqq3t-d1e1451-d1e1663": [
+      {
+        "candidate_id": "mt16_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1451-d1e2364": [
+      {
+        "candidate_id": "sir11_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1451-d1e3480": [
+      {
+        "candidate_id": "ez21_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1451-d1e4050": [
+      {
+        "candidate_id": "lc2_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1491": {
+    "nqqq3t-d1e1491-d1e773": [
+      {
+        "candidate_id": "Ireg8_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1491-d1e2066": [
+      {
+        "candidate_id": "IIth3_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1491-d1e3516": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1491-d1e3999": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1491-d1e4245": [
+      {
+        "candidate_id": "Ichr11_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ichr13_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ichr22_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "Ichr22_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "dan13_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "gen38_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1531": {
+    "nqqq3t-d1e1531-d1e275": [
+      {
+        "candidate_id": "io14_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "io5_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "io10_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "io5_36 'ipsa' closer"
+      },
+      {
+        "candidate_id": "io5_36",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "also close to io10_25"
+      }
+    ],
+    "nqqq3t-d1e1531-d1e873": [
+      {
+        "candidate_id": "IIpetr2_21",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "MS misattributes to 2 Cor 2"
+      }
+    ]
+  },
+  "nqqq3t-d1e1572": {
+    "nqqq3t-d1e1572-d1e341": [
+      {
+        "candidate_id": "deut10_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel"
+      },
+      {
+        "candidate_id": "ex31_18",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase; MS cites Exo. xxxi"
+      },
+      {
+        "candidate_id": "ex34_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel"
+      },
+      {
+        "candidate_id": "ex24_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Ichr28_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "deut9_10",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel; MS cites Exodus xxxi"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e1770": [
+      {
+        "candidate_id": "ez16_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "hebr2_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e2390": [
+      {
+        "candidate_id": "ier33_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "IImac6_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ier22_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "qoh7_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase with gloss 'scilicet iustorum ...' inside"
+      },
+      {
+        "candidate_id": "ps16_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e3301": [
+      {
+        "candidate_id": "ier48_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e3512": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e3848": [
+      {
+        "candidate_id": "ps6_6",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e5827": [
+      {
+        "candidate_id": "ex29_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e6786": [
+      {
+        "candidate_id": "dan5_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1572-d1e6822": [
+      {
+        "candidate_id": "dan5_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  },
+  "nqqq3t-d1e1592": {
+    "nqqq3t-d1e1592-d1e594": [
+      {
+        "candidate_id": "Ipetr3_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "esd7_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "lev7_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1592-d1e1606": [
+      {
+        "candidate_id": "ez21_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "act8_20",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "Ipetr2_7",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "NT citation of ps117_22"
+      },
+      {
+        "candidate_id": "lc20_17",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of ps117_22"
+      },
+      {
+        "candidate_id": "mc12_10",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of ps117_22"
+      },
+      {
+        "candidate_id": "mt21_42",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "NT citation of ps117_22; MS cites psal. cxvii"
+      },
+      {
+        "candidate_id": "ps117_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ]
+  },
+  "nqqq3t-d1e1612": {
+    "nqqq3t-d1e1612-d1e518": [
+      {
+        "candidate_id": "deut12_32",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e584": [
+      {
+        "candidate_id": "Itim6_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ap3_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "Itim6_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ap22_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "MS 'de libro vite' for 'de ligno vitae'"
+      },
+      {
+        "candidate_id": "Itim5_21",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "ap22_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e833": [
+      {
+        "candidate_id": "Iio2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e906": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e1190": [
+      {
+        "candidate_id": "lc2_52",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e1289": [
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e1705": [
+      {
+        "candidate_id": "lc6_31",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel; wording closer to mt7_12"
+      },
+      {
+        "candidate_id": "mt7_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "via c. i. D.1"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e2704": [
+      {
+        "candidate_id": "ioel2_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      },
+      {
+        "candidate_id": "is45_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e3301": [
+      {
+        "candidate_id": "qoh9_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only"
+      },
+      {
+        "candidate_id": "iac2_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e3350": [
+      {
+        "candidate_id": "ps118_160",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e3428": [
+      {
+        "candidate_id": "ps61_12",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "quotation encoded"
+      },
+      {
+        "candidate_id": "io19_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e3474": [
+      {
+        "candidate_id": "ps88_35",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quotation encoded"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e4218": [
+      {
+        "candidate_id": "ex20_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e4614": [
+      {
+        "candidate_id": "ps147_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no quotation"
+      }
+    ],
+    "nqqq3t-d1e1612-d1e4649": [
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "lexical overlap only; no quotation"
+      }
+    ]
+  }
+}
