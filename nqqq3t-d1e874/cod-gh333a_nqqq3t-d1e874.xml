@@ -570,8 +570,8 @@
                <p xml:id="nqqq3t-d1e874-d1e1154">
                   <lb ed="#P" n="147"/>¶ <quote xml:id="nqqq3t-d1e874-Qdh7xxx" source="http://scta.info/resource/nyf6td-d1e874-d1e377@55-55">Scandalum</quote>. <ref xml:id="nqqq3t-d1e874-Rxxhh33" target="http://scta.info/resource/nqqq3t-d1epRo-d1e1455@1-8"><!-- target imprecise; current best guess that seems close -->Uide que dixi in proemio in verbo relaxatio</ref>
                   <lb ed="#P" n="148"/>hinc dicitur quod dispensatio fit propter vtilitatem necessari. 
-      <lb ed="#P" n="149"/>videlicet scandalum euitandum vel propter maius bonum habendum <ref>gl.
-         <lb ed="#P" n="150" break="no"/>in. c. requiritis. §. nisi rigor i. q. vii.</ref> vide <ref>Sozi. con. clxv. col. i. 
+      <lb ed="#P" n="149"/>videlicet scandalum euitandum vel propter maius bonum habendum <ref xml:id="nqqq3t-d1e874-Rd1e1173">gl.
+         <lb ed="#P" n="150" break="no"/>in. c. requiritis. §. nisi rigor i. q. vii.</ref> vide <ref xml:id="nqqq3t-d1e874-Rd1e1178">Sozi. con. clxv. col. i. 
       <lb ed="#P" n="151"/>et. x. visis.</ref>
      </p>
                <p xml:id="nqqq3t-d1e874-d1e1167">
@@ -9458,8 +9458,8 @@
       con<lb ed="#P" n="121" break="no"/>patres comederunt vuam acerbam col. xxiiii. versi. iiii. quia 
       <lb ed="#P" n="122"/>non potuit / vbi allegat quod vulgo dici solt / deus omnia 
       <lb ed="#P" n="123"/>postest: non tamen: iniustum facere: quia id nihil est Io. cap. 
-      <lb ed="#P" n="124"/>primo quod expone secundum aliam lectur. <quote source="http://scta.info/resource/io1_3@7-11">sine ipso factum est 
-      ne<lb ed="#P" n="125" break="no"/>hil</quote> id est peccatum factum est sine deo: iuxta illud <quote source="http://scta.info/resource/Ipetr2_22@5-11">non est 
+      <lb ed="#P" n="124"/>primo quod expone secundum aliam lectur. <quote xml:id="nqqq3t-d1e874-Qd1e19268" source="http://scta.info/resource/io1_3@7-11">sine ipso factum est 
+      ne<lb ed="#P" n="125" break="no"/>hil</quote> id est peccatum factum est sine deo: iuxta illud <quote xml:id="nqqq3t-d1e874-Qd1e19273" source="http://scta.info/resource/Ipetr2_22@5-11">non est 
       inuen<lb ed="#P" n="126" break="no"/>tus dolus in ore eius</quote> 
     </p>
                <p xml:id="nqqq3t-d1e874-d1e19236">
@@ -11661,7 +11661,7 @@
                   <lb ed="#P" n="141"/>¶ <quote xml:id="nqqq3t-d1e874-Qcc8cc7" source="http://scta.info/resource/nyf6td-d1e874-d1e3326@3-4">Quia iustitia</quote>. Istud expediuimus late. supra. in. c. gratia de 
       <lb ed="#P" n="142"/>res. quibus adde quod iustitia est virtus confortatiua et 
       corro<lb ed="#P" n="143" break="no"/>boratiua / que sui splendore reges et regias sedes 
-      magnifi<lb ed="#P" n="144" break="no"/>cat: quibus dictum est Sapien. primo: <quote source="http://scta.info/resource/sap1_1@1-5">Diligite iustitiam qui 
+      magnifi<lb ed="#P" n="144" break="no"/>cat: quibus dictum est Sapien. primo: <quote xml:id="nqqq3t-d1e874-Qd1e23712" source="http://scta.info/resource/sap1_1@1-5">Diligite iustitiam qui 
       <lb ed="#P" n="145"/>iudicatis terram</quote> id est ecclesiam / que tota est sicut terra 
       humi<lb ed="#P" n="146" break="no"/>lis et corde infima / vel qui iudicatis terram ids peccatores / qua 
       <!--cod-gh333a-0705.xml-->

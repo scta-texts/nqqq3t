@@ -717,7 +717,7 @@
       <!--cod-gh333a-0616.xml-->
       <cb ed="#P" n="b"/>
                   <lb ed="#P" n="82"/>eligendis distributiones quotidianas suscipiunt etiam 
-      <lb ed="#P" n="83"/>canonici Assisii qui portare debent <quote source="http://scta.info/resource/mt20_12@14-17">pondus diei et estus</quote> 
+      <lb ed="#P" n="83"/>canonici Assisii qui portare debent <quote xml:id="nqqq3t-d1e854-Qd1e1430" source="http://scta.info/resource/mt20_12@14-17">pondus diei et estus</quote> 
       <lb ed="#P" n="84"/>quasi asini dicit Card. in. d. c. ad audientiam in fine et hoc 
       <lb ed="#P" n="85"/>perinde acsi omuibus dlebus et horis diuinis personaliter 
       <lb ed="#P" n="86"/>interessent / quod vocant accipere pro menseralias vt 
@@ -912,7 +912,7 @@
                <p xml:id="nqqq3t-d1e854-d1e1819">
                   <lb ed="#P" n="83"/>¶ Preterea expeditus de premissis venio ad maiorem 
       no<lb ed="#P" n="84" break="no"/>stri thematis comprobationem: qui altari seruit de altat 
-      <lb ed="#P" n="85"/>viuere debet / iuxta illud Gene. <quote source="http://scta.info/resource/gen3_19@1-6">in sudore vultus tui 
+      <lb ed="#P" n="85"/>viuere debet / iuxta illud Gene. <quote xml:id="nqqq3t-d1e854-Qd1e1833" source="http://scta.info/resource/gen3_19@1-6">in sudore vultus tui 
       vesca<lb ed="#P" n="86" break="no"/>ris pane tuo</quote>. Ergo a contrario sensu (quod reperio validiur 
       <lb ed="#P" n="87"/>in iure l. prima §. huius rei. ff. de offi. eius cui manda. est 
       iu<lb ed="#P" n="88" break="no"/>ris.
@@ -972,7 +972,7 @@
       <lb ed="#P" n="133"/>in omnem euentum fore inforo poli damnatam / quod 
       pre<lb ed="#P" n="134" break="no"/>cipuum dicas cum anima sit corpore pretiosior l. sancimus. C. 
       <lb ed="#P" n="135"/>de sacrosanc. eccle. concordantes vide per Neuiza. in sylua. 
-      <lb ed="#P" n="136"/>charta mihi. cx. col. ii. facit dictum euangelii <quote source="http://scta.info/resource/mt16_26@1-13">quid enim 
+      <lb ed="#P" n="136"/>charta mihi. cx. col. ii. facit dictum euangelii <quote xml:id="nqqq3t-d1e854-Qd1e1958" source="http://scta.info/resource/mt16_26@1-13">quid enim 
       pro<lb ed="#P" n="137" break="no"/>dest homini si vniuersum mundum lucretur / anime vero sua 
       <lb ed="#P" n="138"/>detrimentum patiatur</quote>: Firmat Calca. con. cii. nu. ii. pro 
       par<lb ed="#P" n="139" break="no"/>te dicti Anthonii. 
